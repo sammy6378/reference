@@ -1,0 +1,5 @@
+<svg width="80" height="80" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+  <rect width="80" height="80" rx="8" fill="transparent" />
+  <text x="40" y="42" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">React</text>
+  <text x="40" y="58" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Native</text>
+</svg>

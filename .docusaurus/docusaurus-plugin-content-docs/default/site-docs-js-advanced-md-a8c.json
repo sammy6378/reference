@@ -1,0 +1,24 @@
+{
+  "id": "js/advanced",
+  "title": "Advanced JavaScript",
+  "description": "Promises and Async/Await",
+  "source": "@site/docs/js/advanced.md",
+  "sourceDirName": "js",
+  "slug": "/js/advanced",
+  "permalink": "/reference/docs/js/advanced",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/reference/tree/main/docs/js/advanced.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JavaScript Basics",
+    "permalink": "/reference/docs/js/basics"
+  },
+  "next": {
+    "title": "TypeScript Introduction",
+    "permalink": "/reference/docs/ts/intro"
+  }
+}

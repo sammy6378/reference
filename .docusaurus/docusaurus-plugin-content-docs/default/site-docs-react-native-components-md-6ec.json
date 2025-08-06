@@ -1,0 +1,20 @@
+{
+  "id": "react-native/components",
+  "title": "React Native Components",
+  "description": "Basic Components",
+  "source": "@site/docs/react-native/components.md",
+  "sourceDirName": "react-native",
+  "slug": "/react-native/components",
+  "permalink": "/reference/docs/react-native/components",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/reference/tree/main/docs/react-native/components.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "React Native Setup",
+    "permalink": "/reference/docs/react-native/setup"
+  }
+}

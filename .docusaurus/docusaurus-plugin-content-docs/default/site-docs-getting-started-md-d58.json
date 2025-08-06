@@ -1,0 +1,24 @@
+{
+  "id": "getting-started",
+  "title": "Getting Started",
+  "description": "Welcome to the ultimate documentation for JavaScript, TypeScript, and React Native development! This guide will help you navigate through our comprehensive resources.",
+  "source": "@site/docs/getting-started.md",
+  "sourceDirName": ".",
+  "slug": "/getting-started",
+  "permalink": "/reference/docs/getting-started",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/reference/tree/main/docs/getting-started.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Welcome to My Documentation",
+    "permalink": "/reference/docs/intro"
+  },
+  "next": {
+    "title": "JavaScript Basics",
+    "permalink": "/reference/docs/js/basics"
+  }
+}

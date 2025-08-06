@@ -1,0 +1,24 @@
+{
+  "id": "js/basics",
+  "title": "JavaScript Basics",
+  "description": "Introduction",
+  "source": "@site/docs/js/basics.md",
+  "sourceDirName": "js",
+  "slug": "/js/basics",
+  "permalink": "/reference/docs/js/basics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/reference/tree/main/docs/js/basics.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/reference/docs/getting-started"
+  },
+  "next": {
+    "title": "Advanced JavaScript",
+    "permalink": "/reference/docs/js/advanced"
+  }
+}

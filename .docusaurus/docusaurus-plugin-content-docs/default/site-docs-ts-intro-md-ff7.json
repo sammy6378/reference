@@ -1,0 +1,24 @@
+{
+  "id": "ts/intro",
+  "title": "TypeScript Introduction",
+  "description": "What is TypeScript?",
+  "source": "@site/docs/ts/intro.md",
+  "sourceDirName": "ts",
+  "slug": "/ts/intro",
+  "permalink": "/reference/docs/ts/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/reference/tree/main/docs/ts/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Advanced JavaScript",
+    "permalink": "/reference/docs/js/advanced"
+  },
+  "next": {
+    "title": "TypeScript Tips & Best Practices",
+    "permalink": "/reference/docs/ts/tips"
+  }
+}

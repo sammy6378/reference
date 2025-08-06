@@ -1,0 +1,24 @@
+{
+  "id": "react-native/setup",
+  "title": "React Native Setup",
+  "description": "Prerequisites",
+  "source": "@site/docs/react-native/setup.md",
+  "sourceDirName": "react-native",
+  "slug": "/react-native/setup",
+  "permalink": "/reference/docs/react-native/setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/reference/tree/main/docs/react-native/setup.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "TypeScript Tips & Best Practices",
+    "permalink": "/reference/docs/ts/tips"
+  },
+  "next": {
+    "title": "React Native Components",
+    "permalink": "/reference/docs/react-native/components"
+  }
+}

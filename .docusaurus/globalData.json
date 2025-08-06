@@ -1,0 +1,68 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/reference/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/reference/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "getting-started",
+              "path": "/reference/docs/getting-started",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/reference/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "js/advanced",
+              "path": "/reference/docs/js/advanced",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "js/basics",
+              "path": "/reference/docs/js/basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "react-native/components",
+              "path": "/reference/docs/react-native/components",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "react-native/setup",
+              "path": "/reference/docs/react-native/setup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ts/intro",
+              "path": "/reference/docs/ts/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ts/tips",
+              "path": "/reference/docs/ts/tips",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/reference/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

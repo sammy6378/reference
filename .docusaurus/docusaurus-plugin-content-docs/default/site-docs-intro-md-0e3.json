@@ -1,0 +1,20 @@
+{
+  "id": "intro",
+  "title": "Welcome to My Documentation",
+  "description": "Welcome to the comprehensive documentation for JavaScript, TypeScript, and React Native development!",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/reference/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/reference/tree/main/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Getting Started",
+    "permalink": "/reference/docs/getting-started"
+  }
+}
