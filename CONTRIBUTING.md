@@ -131,21 +131,21 @@ Always use `map()` when you need to transform array elements. It's more function
    git checkout -b feature/improve-javascript-docs
    ```
 
-2. **Make your changes** and test them locally
-3. **Commit your changes** with a descriptive message:
+1. **Make your changes** and test them locally
+1. **Commit your changes** with a descriptive message:
 
    ```bash
    git add .
    git commit -m "Add advanced array methods documentation"
    ```
 
-4. **Push to your fork**:
+1. **Push to your fork**:
 
    ```bash
    git push origin feature/improve-javascript-docs
    ```
 
-5. **Create a Pull Request** on GitHub with:
+1. **Create a Pull Request** on GitHub with:
    - A clear title describing your changes
    - A detailed description of what you've added or fixed
    - Screenshots if you've made visual changes
