@@ -20,22 +20,62 @@ const config: Config = {
   },
   themeConfig: {
     navbar: {
-      title: "Nuvex",
+      title: "Docs",
+      logo: {
+        alt: "Modern JavaScript Documentation",
+        src: "img/logo.svg",
+        srcDark: "img/logo-dark.svg",
+      },
       items: [
         {
-          type: "docSidebar",
-          sidebarId: "tutorialSidebar",
-          position: "right",
-          label: "Docs",
+          to: "/docs/getting-started",
+          position: "left",
+          label: "Get Started",
         },
         {
           type: "dropdown",
-          label: "Technologies",
-          position: "right",
+          label: "Documentation",
+          position: "left",
           items: [
-            { to: "/docs/js/basics", label: "JavaScript" },
-            { to: "/docs/ts/intro", label: "TypeScript" },
-            { to: "/docs/react-native/setup", label: "React Native" },
+            {
+              to: "/docs/js/basics",
+              label: "JavaScript Basics",
+            },
+            {
+              to: "/docs/js/advanced",
+              label: "Advanced JavaScript",
+            },
+            {
+              to: "/docs/ts/intro",
+              label: "TypeScript",
+            },
+            {
+              to: "/docs/react-native/setup",
+              label: "React Native Setup",
+            },
+            {
+              to: "/docs/react-native/components",
+              label: "RN Components",
+            },
+          ],
+        },
+        {
+          type: "dropdown",
+          label: "Resources",
+          position: "left",
+          items: [
+            {
+              href: "https://github.com/sammy6378/reference/blob/main/CONTRIBUTING.md",
+              label: "Contributing",
+            },
+            {
+              href: "https://github.com/sammy6378/reference/discussions",
+              label: "Community",
+            },
+            {
+              href: "https://github.com/sammy6378/reference/issues",
+              label: "Support",
+            },
           ],
         },
         {
@@ -50,29 +90,12 @@ const config: Config = {
       style: "dark",
       links: [
         {
-          title: "About",
+          title: "Documentation",
           items: [
             {
               label: "Getting Started",
               to: "/docs/getting-started",
             },
-            {
-              label: "Introduction",
-              to: "/docs/intro",
-            },
-            {
-              label: "Contributing",
-              href: "https://github.com/sammy6378/reference/blob/main/CONTRIBUTING.md",
-            },
-            {
-              label: "License",
-              href: "https://github.com/sammy6378/reference/blob/main/LICENSE",
-            },
-          ],
-        },
-        {
-          title: "Documentation",
-          items: [
             {
               label: "JavaScript",
               to: "/docs/js/basics",
@@ -85,14 +108,31 @@ const config: Config = {
               label: "React Native",
               to: "/docs/react-native/setup",
             },
+          ],
+        },
+        {
+          title: "Resources",
+          items: [
             {
               label: "Advanced Topics",
               to: "/docs/js/advanced",
             },
+            {
+              label: "Contributing Guide",
+              href: "https://github.com/sammy6378/reference/blob/main/CONTRIBUTING.md",
+            },
+            {
+              label: "License",
+              href: "https://github.com/sammy6378/reference/blob/main/LICENSE",
+            },
+            {
+              label: "Changelog",
+              href: "https://github.com/sammy6378/reference/releases",
+            },
           ],
         },
         {
-          title: "Community & Social",
+          title: "Community",
           items: [
             {
               label: "GitHub",
@@ -103,17 +143,38 @@ const config: Config = {
               href: "https://github.com/sammy6378/reference/discussions",
             },
             {
-              label: "Issues",
+              label: "Issues & Bug Reports",
               href: "https://github.com/sammy6378/reference/issues",
             },
             {
-              label: "Discord",
-              href: "https://discord.gg/your-server",
+              label: "Discord Community",
+              href: "https://discord.gg/sammy_in_tech",
+            },
+          ],
+        },
+        {
+          title: "Sponsor",
+          items: [
+            {
+              label: "Nuvex Solutions",
+              href: "https://nuvex.com",
+            },
+            {
+              label: "Support the Project",
+              href: "https://github.com/sponsors/sammy6378",
+            },
+            {
+              label: "Contact Us",
+              href: "mailto:contact@nuvex.com",
+            },
+            {
+              label: "Partnership",
+              href: "mailto:partnerships@nuvex.com",
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Sponsored by Nuvex.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Modern JavaScript Documentation. Proudly sponsored by <a href="https://nuvex.com" target="_blank" rel="noopener noreferrer">Nuvex Solutions</a>. Built with ❤️ for the developer community.`,
     },
     prism: {
       theme: prismThemes.github,
@@ -131,7 +192,7 @@ const config: Config = {
       "classic",
       {
         docs: {
-          sidebarPath: "./Sidebar.ts",
+          sidebarPath: "./sidebars.ts",
           editUrl: "https://github.com/sammy6378/reference/tree/main/",
         },
         theme: {
@@ -139,19 +200,6 @@ const config: Config = {
         },
       },
     ],
-  ],
-  plugins: [
-    async function myPlugin(context, options) {
-      return {
-        name: "docusaurus-tailwindcss",
-        configurePostCss(postcssOptions) {
-          // Appends TailwindCSS and AutoPrefixer.
-          postcssOptions.plugins.push(require("@tailwindcss/postcss"));
-          postcssOptions.plugins.push(require("autoprefixer"));
-          return postcssOptions;
-        },
-      };
-    },
   ],
 };
 
