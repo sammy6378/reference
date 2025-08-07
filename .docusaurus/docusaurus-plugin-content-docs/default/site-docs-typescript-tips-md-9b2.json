@@ -1,0 +1,24 @@
+{
+  "id": "Typescript/tips",
+  "title": "TypeScript Tips & Best Practices",
+  "description": "Generic Types",
+  "source": "@site/docs/Typescript/tips.md",
+  "sourceDirName": "Typescript",
+  "slug": "/Typescript/tips",
+  "permalink": "/reference/docs/Typescript/tips",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/Typescript/tips.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "TypeScript Introduction",
+    "permalink": "/reference/docs/Typescript/intro"
+  },
+  "next": {
+    "title": "React Native Components",
+    "permalink": "/reference/docs/react-native/components"
+  }
+}

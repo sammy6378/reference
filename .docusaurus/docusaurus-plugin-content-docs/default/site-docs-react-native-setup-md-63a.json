@@ -14,10 +14,6 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "TypeScript Tips & Best Practices",
-    "permalink": "/reference/docs/ts/tips"
-  },
-  "next": {
     "title": "React Native Components",
     "permalink": "/reference/docs/react-native/components"
   }

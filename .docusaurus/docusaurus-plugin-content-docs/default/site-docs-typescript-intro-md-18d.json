@@ -1,0 +1,24 @@
+{
+  "id": "Typescript/intro",
+  "title": "TypeScript Introduction",
+  "description": "What is TypeScript?",
+  "source": "@site/docs/Typescript/intro.md",
+  "sourceDirName": "Typescript",
+  "slug": "/Typescript/intro",
+  "permalink": "/reference/docs/Typescript/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/Typescript/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JavaScript Basics",
+    "permalink": "/reference/docs/Javascript/basics"
+  },
+  "next": {
+    "title": "TypeScript Tips & Best Practices",
+    "permalink": "/reference/docs/Typescript/tips"
+  }
+}

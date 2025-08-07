@@ -1,9 +1,6 @@
 /* You can override the default Docusaurus CSS variables here. */
 /* See https://docusaurus.io/docs/styling-and-layout for more info */
 
-@import "tailwindcss/preflight";
-@import "tailwindcss/utilities";
-
 :root {
   --ifm-color-primary: #667eea;
   --ifm-color-primary-dark: #5a6fd8;
@@ -43,73 +40,17 @@
   opacity: 0.6;
 }
 
+[data-theme='dark'] .header-github-link {
+  filter: brightness(0) invert(1);
+}
+
 .header-github-link::before {
   content: '';
-  width: 24px;
-  height: 24px;
+  width: 22px;
+  height: 22px;
   display: flex;
   background: url("data:image/svg+xml,%3Csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12'/%3E%3C/svg%3E")
     no-repeat;
-}
-
-[data-theme='dark'] .header-github-link::before {
-  background: url("data:image/svg+xml,%3Csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill='white' d='M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12'/%3E%3C/svg%3E")
-    no-repeat;
-}
-
-/* Navbar customizations */
-.navbar {
-  box-shadow: 0 2px 8px 0 rgba(0,0,0,.08);
-  backdrop-filter: blur(8px);
-  background: rgba(255, 255, 255, 0.95);
-  border-bottom: 1px solid var(--ifm-color-emphasis-200);
-}
-
-[data-theme='dark'] .navbar {
-  background: rgba(24, 25, 26, 0.95);
-  border-bottom-color: var(--ifm-color-emphasis-300);
-}
-
-.navbar__brand {
-  font-weight: bold;
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-}
-
-.navbar__logo {
-  transition: transform 0.2s ease;
-}
-
-.navbar__brand:hover .navbar__logo {
-  transform: scale(1.1);
-}
-
-.navbar__title {
-  font-size: 1.6rem;
-  font-weight: 800;
-  background: linear-gradient(135deg, var(--ifm-color-primary) 0%, #764ba2 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-  text-decoration: none;
-  transition: all 0.3s ease;
-  letter-spacing: -0.02em;
-}
-
-.navbar__title:hover {
-  background: linear-gradient(135deg, var(--ifm-color-primary-dark) 0%, #5a4b7c 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-  transform: scale(1.05);
-}
-
-[data-theme='dark'] .navbar__title {
-  background: linear-gradient(135deg, var(--ifm-color-primary-light) 0%, #9fb1ff 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
 }
 
 /* Button cursor fixes - Global */
@@ -142,70 +83,6 @@ a[role="button"]:hover {
 
 .navbar__item--dropdown:hover .navbar__link {
   color: var(--ifm-navbar-link-hover-color);
-}
-
-/* Sidebar styling improvements */
-.theme-doc-sidebar-container {
-  border-right: 1px solid var(--ifm-color-emphasis-200);
-}
-
-/* Enhanced sidebar dropdown arrows - React Native style */
-.menu__list-item-collapsible .menu__link--sublist-caret:after {
-  background: var(--ifm-menu-color) !important;
-  transition: transform 0.15s ease;
-  width: 0.5rem;
-  height: 0.5rem;
-  background-size: 0.5rem 0.5rem;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath fill='%23525860' d='M6 4l4 4-4 4V4z'/%3E%3C/svg%3E");
-  transform: rotate(0deg);
-  background-repeat: no-repeat;
-  background-position: center;
-  border: none;
-  margin: 0;
-}
-
-.menu__list-item-collapsible--active .menu__link--sublist-caret:after {
-  transform: rotate(90deg);
-}
-
-[data-theme='dark'] .menu__list-item-collapsible .menu__link--sublist-caret:after {
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath fill='%23ffffff' d='M6 4l4 4-4 4V4z'/%3E%3C/svg%3E");
-}
-
-/* Improve dropdown arrow positioning and visibility */
-.menu__list-item-collapsible .menu__link--sublist {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding-right: 0.75rem;
-}
-
-.menu__list-item-collapsible .menu__link--sublist-caret {
-  position: relative;
-  width: 1rem;
-  height: 1rem;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-shrink: 0;
-}
-
-/* Sidebar menu spacing improvements */
-.menu__list .menu__list-item:not(:first-child) {
-  margin-top: 0.125rem;
-}
-
-.menu__list-item-collapsible {
-  margin-bottom: 0.25rem;
-}
-
-.menu__list-item .menu__link {
-  border-radius: 0.375rem;
-  transition: all 0.15s ease;
-}
-
-.menu__list-item .menu__link:hover {
-  background-color: var(--ifm-menu-color-background-hover);
 }
 
 /* Enhanced theme toggle */

@@ -39,15 +39,15 @@ export default [
   },
   {
     path: '/reference/docs',
-    component: ComponentCreator('/reference/docs', 'c5b'),
+    component: ComponentCreator('/reference/docs', '9b7'),
     routes: [
       {
         path: '/reference/docs',
-        component: ComponentCreator('/reference/docs', 'fb5'),
+        component: ComponentCreator('/reference/docs', 'b47'),
         routes: [
           {
             path: '/reference/docs',
-            component: ComponentCreator('/reference/docs', 'dd7'),
+            component: ComponentCreator('/reference/docs', '61e'),
             routes: [
               {
                 path: '/reference/docs/getting-started',
@@ -56,20 +56,14 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/reference/docs/intro',
-                component: ComponentCreator('/reference/docs/intro', '061'),
+                path: '/reference/docs/Javascript/advanced',
+                component: ComponentCreator('/reference/docs/Javascript/advanced', '0f9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/reference/docs/js/advanced',
-                component: ComponentCreator('/reference/docs/js/advanced', '378'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/reference/docs/js/basics',
-                component: ComponentCreator('/reference/docs/js/basics', 'c79'),
+                path: '/reference/docs/Javascript/basics',
+                component: ComponentCreator('/reference/docs/Javascript/basics', '9d7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -86,14 +80,14 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/reference/docs/ts/intro',
-                component: ComponentCreator('/reference/docs/ts/intro', '598'),
+                path: '/reference/docs/Typescript/intro',
+                component: ComponentCreator('/reference/docs/Typescript/intro', 'c78'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/reference/docs/ts/tips',
-                component: ComponentCreator('/reference/docs/ts/tips', '27d'),
+                path: '/reference/docs/Typescript/tips',
+                component: ComponentCreator('/reference/docs/Typescript/tips', 'e8d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

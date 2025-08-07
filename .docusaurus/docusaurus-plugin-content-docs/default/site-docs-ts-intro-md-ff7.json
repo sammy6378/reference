@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Advanced JavaScript",
-    "permalink": "/reference/docs/js/advanced"
+    "title": "React Native Setup",
+    "permalink": "/reference/docs/react-native/setup"
   },
   "next": {
     "title": "TypeScript Tips & Best Practices",

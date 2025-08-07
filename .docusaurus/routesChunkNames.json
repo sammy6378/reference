@@ -42,34 +42,30 @@
       "plugin": "plugin---reference-docusaurus-debugb-38-950"
     }
   },
-  "/reference/docs-c5b": {
+  "/reference/docs-9b7": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---reference-docsaba-3e5"
     }
   },
-  "/reference/docs-fb5": {
+  "/reference/docs-b47": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---reference-docs-964-c0b"
   },
-  "/reference/docs-dd7": {
+  "/reference/docs-61e": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/reference/docs/getting-started-a80": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---reference-docs-getting-startedd-58-9cb"
   },
-  "/reference/docs/intro-061": {
+  "/reference/docs/Javascript/advanced-0f9": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-intro-0-e-3-5af"
+    "content": "content---reference-docs-javascript-advanced-43-e-dbc"
   },
-  "/reference/docs/js/advanced-378": {
+  "/reference/docs/Javascript/basics-9d7": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-js-advanceda-8-c-d46"
-  },
-  "/reference/docs/js/basics-c79": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-js-basics-058-7c9"
+    "content": "content---reference-docs-javascript-basicsb-35-74c"
   },
   "/reference/docs/react-native/components-8b0": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -79,13 +75,13 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---reference-docs-react-native-setup-63-a-bb4"
   },
-  "/reference/docs/ts/intro-598": {
+  "/reference/docs/Typescript/intro-c78": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-ts-introff-7-7d3"
+    "content": "content---reference-docs-typescript-intro-18-d-60a"
   },
-  "/reference/docs/ts/tips-27d": {
+  "/reference/docs/Typescript/tips-e8d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-ts-tipsa-2-c-8fa"
+    "content": "content---reference-docs-typescript-tips-9-b-2-d1f"
   },
   "/reference/-a57": {
     "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",

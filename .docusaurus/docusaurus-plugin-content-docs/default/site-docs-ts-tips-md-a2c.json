@@ -16,9 +16,5 @@
   "previous": {
     "title": "TypeScript Introduction",
     "permalink": "/reference/docs/ts/intro"
-  },
-  "next": {
-    "title": "React Native Setup",
-    "permalink": "/reference/docs/react-native/setup"
   }
 }

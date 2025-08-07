@@ -13,8 +13,12 @@
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
-  "next": {
+  "previous": {
     "title": "Getting Started",
     "permalink": "/reference/docs/getting-started"
+  },
+  "next": {
+    "title": "Advanced JavaScript",
+    "permalink": "/reference/docs/js/advanced"
   }
 }

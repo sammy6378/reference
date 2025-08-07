@@ -8,7 +8,7 @@
           "label": "Next",
           "isLast": true,
           "path": "/reference/docs",
-          "mainDocId": "intro",
+          "mainDocId": "getting-started",
           "docs": [
             {
               "id": "getting-started",
@@ -16,18 +16,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "intro",
-              "path": "/reference/docs/intro",
+              "id": "Javascript/advanced",
+              "path": "/reference/docs/Javascript/advanced",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "js/advanced",
-              "path": "/reference/docs/js/advanced",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "js/basics",
-              "path": "/reference/docs/js/basics",
+              "id": "Javascript/basics",
+              "path": "/reference/docs/Javascript/basics",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -41,13 +36,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "ts/intro",
-              "path": "/reference/docs/ts/intro",
+              "id": "Typescript/intro",
+              "path": "/reference/docs/Typescript/intro",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "ts/tips",
-              "path": "/reference/docs/ts/tips",
+              "id": "Typescript/tips",
+              "path": "/reference/docs/Typescript/tips",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -55,8 +50,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/reference/docs/intro",
-                "label": "intro"
+                "path": "/reference/docs/getting-started",
+                "label": "getting-started"
               }
             }
           }
