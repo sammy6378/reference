@@ -38,11 +38,6 @@ export default [
     exact: true
   },
   {
-    path: '/reference/Home',
-    component: ComponentCreator('/reference/Home', 'df5'),
-    exact: true
-  },
-  {
     path: '/reference/docs',
     component: ComponentCreator('/reference/docs', 'c5b'),
     routes: [

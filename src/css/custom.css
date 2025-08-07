@@ -1,6 +1,9 @@
 /* You can override the default Docusaurus CSS variables here. */
 /* See https://docusaurus.io/docs/styling-and-layout for more info */
 
+@import "tailwindcss/preflight";
+@import "tailwindcss/utilities";
+
 :root {
   --ifm-color-primary: #667eea;
   --ifm-color-primary-dark: #5a6fd8;
@@ -146,45 +149,63 @@ a[role="button"]:hover {
   border-right: 1px solid var(--ifm-color-emphasis-200);
 }
 
-/* Enhanced sidebar dropdown arrows */
+/* Enhanced sidebar dropdown arrows - React Native style */
 .menu__list-item-collapsible .menu__link--sublist-caret:after {
   background: var(--ifm-menu-color) !important;
-  transition: transform 0.2s ease;
+  transition: transform 0.15s ease;
+  width: 0.5rem;
+  height: 0.5rem;
+  background-size: 0.5rem 0.5rem;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath fill='%23525860' d='M6 4l4 4-4 4V4z'/%3E%3C/svg%3E");
+  transform: rotate(0deg);
+  background-repeat: no-repeat;
+  background-position: center;
+  border: none;
+  margin: 0;
 }
 
-/* Improve dropdown arrow visibility */
+.menu__list-item-collapsible--active .menu__link--sublist-caret:after {
+  transform: rotate(90deg);
+}
+
+[data-theme='dark'] .menu__list-item-collapsible .menu__link--sublist-caret:after {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath fill='%23ffffff' d='M6 4l4 4-4 4V4z'/%3E%3C/svg%3E");
+}
+
+/* Improve dropdown arrow positioning and visibility */
 .menu__list-item-collapsible .menu__link--sublist {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding-right: 1rem;
+  padding-right: 0.75rem;
 }
 
 .menu__list-item-collapsible .menu__link--sublist-caret {
   position: relative;
-  width: 1.25rem;
-  height: 1.25rem;
+  width: 1rem;
+  height: 1rem;
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-shrink: 0;
 }
 
-.menu__list-item-collapsible .menu__link--sublist-caret:after {
-  content: '';
-  width: 0.5rem;
-  height: 0.5rem;
-  background-size: 0.5rem 0.5rem;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath fill='%23525860' d='M4.427 9.573L8 6.000l3.573 3.573.854-.854L8 4.293 3.573 8.719z'/%3E%3C/svg%3E");
-  transition: transform 0.2s ease;
-  transform: rotate(180deg);
+/* Sidebar menu spacing improvements */
+.menu__list .menu__list-item:not(:first-child) {
+  margin-top: 0.125rem;
 }
 
-.menu__list-item-collapsible--active .menu__link--sublist-caret:after {
-  transform: rotate(0deg);
+.menu__list-item-collapsible {
+  margin-bottom: 0.25rem;
 }
 
-[data-theme='dark'] .menu__list-item-collapsible .menu__link--sublist-caret:after {
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath fill='%23ffffff' d='M4.427 9.573L8 6.000l3.573 3.573.854-.854L8 4.293 3.573 8.719z'/%3E%3C/svg%3E");
+.menu__list-item .menu__link {
+  border-radius: 0.375rem;
+  transition: all 0.15s ease;
+}
+
+.menu__list-item .menu__link:hover {
+  background-color: var(--ifm-menu-color-background-hover);
 }
 
 /* Enhanced theme toggle */

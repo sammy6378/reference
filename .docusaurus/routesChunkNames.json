@@ -42,13 +42,6 @@
       "plugin": "plugin---reference-docusaurus-debugb-38-950"
     }
   },
-  "/reference/Home-df5": {
-    "__comp": "__comp---site-src-pages-home-tsx-5-f-9-639",
-    "__context": {
-      "plugin": "plugin---reference-homea-74-626"
-    },
-    "config": "config---reference-home-5-e-9-ab2"
-  },
   "/reference/docs-c5b": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
@@ -97,8 +90,8 @@
   "/reference/-a57": {
     "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
     "__context": {
-      "plugin": "plugin---reference-homea-74-626"
+      "plugin": "plugin---reference-a-74-6fd"
     },
-    "config": "config---reference-home-5-e-9-ab2"
+    "config": "config---reference-5-e-9-d1b"
   }
 }

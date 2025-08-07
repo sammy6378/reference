@@ -13,32 +13,24 @@ const sidebars: SidebarsConfig = {
     "getting-started", // Getting Started (added after intro)
     {
       type: "category",
-      label: "📚 Learning",
+      label: "JavaScript",
       collapsible: true,
-      collapsed: false,
-      items: [
-        {
-          type: "category",
-          label: "🌐 JavaScript",
-          collapsible: true,
-          collapsed: true,
-          items: ["js/basics", "js/advanced"],
-        },
-        {
-          type: "category",
-          label: "🔷 TypeScript",
-          collapsible: true,
-          collapsed: true,
-          items: ["ts/intro", "ts/tips"],
-        },
-        {
-          type: "category",
-          label: "📱 React Native",
-          collapsible: true,
-          collapsed: true,
-          items: ["react-native/setup", "react-native/components"],
-        },
-      ],
+      collapsed: true,
+      items: ["js/basics", "js/advanced"],
+    },
+    {
+      type: "category",
+      label: "TypeScript",
+      collapsible: true,
+      collapsed: true,
+      items: ["ts/intro", "ts/tips"],
+    },
+    {
+      type: "category",
+      label: "React Native",
+      collapsible: true,
+      collapsed: true,
+      items: ["react-native/setup", "react-native/components"],
     },
   ],
 };

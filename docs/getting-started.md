@@ -37,47 +37,15 @@ Before diving in, make sure you have:
 - Basic understanding of programming concepts
 - **Git** for version control
 
+```
 ## 📱 Choose Your Path
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem; margin: 2rem 0;">
-
-<div style="border: 2px solid var(--ifm-color-primary); border-radius: 8px; padding: 1.5rem; text-align: center;">
 
 ### 🌐 Web Development
 
-Perfect for frontend developers
-
-**Start with:** [JavaScript Basics](./js/basics)  
-**Then:** [TypeScript Introduction](./ts/intro)  
-**Build:** Dynamic web applications
-
-</div>
-
-<div style="border: 2px solid var(--ifm-color-success); border-radius: 8px; padding: 1.5rem; text-align: center;">
-
-### 📱 Mobile Development  
-
-Build native mobile apps
-
-**Start with:** [React Native Setup](./react-native/setup)  
-**Then:** [Components Guide](./react-native/components)  
-**Build:** iOS and Android apps
-
-</div>
-
-<div style="border: 2px solid var(--ifm-color-warning); border-radius: 8px; padding: 1.5rem; text-align: center;">
-
-### 🔧 Full-Stack Development
-
-Complete development stack
-
-**Start with:** [JavaScript Basics](./js/basics)  
-**Then:** [TypeScript Introduction](./ts/intro)  
-**Build:** End-to-end applications
-
-</div>
-
-</div>
+> **Perfect for frontend developers**  
+> **Start with:** [JavaScript Basics](./js/basics)  
+> **Then:** [TypeScript Introduction](./ts/intro)  
+> **Build:** Dynamic web applications
 
 ## 💡 Tips for Success
 
@@ -95,9 +63,9 @@ Web technologies evolve rapidly. We regularly update our documentation to reflec
 
 ## 🤝 Need Help?
 
-- 💬 **Questions?** Check our [GitHub Discussions](https://github.com/your-username/reference/discussions)  
-- 🐛 **Found an issue?** Report it on [GitHub Issues](https://github.com/your-username/reference/issues)  
-- 📧 **Want to contribute?** See our [Contributing Guide](https://github.com/your-username/reference/blob/main/CONTRIBUTING.md)
+- 💬 **Questions?** Check our [GitHub Discussions](https://github.com/sammy6378/reference/discussions)  
+- 🐛 **Found an issue?** Report it on [GitHub Issues](https://github.com/sammy6378/reference/issues)  
+- 📧 **Want to contribute?** See our [Contributing Guide](https://github.com/sammy6378/reference/blob/main/CONTRIBUTING.md)
 
 ## 🏆 What's Next?
 

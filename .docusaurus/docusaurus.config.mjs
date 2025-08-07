@@ -6,10 +6,10 @@
 export default {
   "title": "JS, TS & React Native Docs",
   "tagline": "Documentation for JavaScript, TypeScript, and React Native",
-  "url": "https://your-username.github.io",
+  "url": "https://sammy6378.github.io",
   "baseUrl": "/reference/",
   "favicon": "img/favicon.ico",
-  "organizationName": "your-username",
+  "organizationName": "sammy6378",
   "projectName": "reference",
   "deploymentBranch": "gh-pages",
   "trailingSlash": false,
@@ -53,7 +53,7 @@ export default {
           ]
         },
         {
-          "href": "https://github.com/your-username/reference",
+          "href": "https://github.com/sammy6378/reference",
           "position": "right",
           "className": "header-github-link",
           "aria-label": "GitHub repository"
@@ -77,11 +77,11 @@ export default {
             },
             {
               "label": "Contributing",
-              "href": "https://github.com/your-username/reference/blob/main/CONTRIBUTING.md"
+              "href": "https://github.com/sammy6378/reference/blob/main/CONTRIBUTING.md"
             },
             {
               "label": "License",
-              "href": "https://github.com/your-username/reference/blob/main/LICENSE"
+              "href": "https://github.com/sammy6378/reference/blob/main/LICENSE"
             }
           ]
         },
@@ -111,15 +111,15 @@ export default {
           "items": [
             {
               "label": "GitHub",
-              "href": "https://github.com/your-username/reference"
+              "href": "https://github.com/sammy6378/reference"
             },
             {
               "label": "Discussions",
-              "href": "https://github.com/your-username/reference/discussions"
+              "href": "https://github.com/sammy6378/reference/discussions"
             },
             {
               "label": "Issues",
-              "href": "https://github.com/your-username/reference/issues"
+              "href": "https://github.com/sammy6378/reference/issues"
             },
             {
               "label": "Discord",
@@ -367,13 +367,16 @@ export default {
       {
         "docs": {
           "sidebarPath": "./Sidebar.ts",
-          "editUrl": "https://github.com/your-username/reference/tree/main/"
+          "editUrl": "https://github.com/sammy6378/reference/tree/main/"
         },
         "theme": {
           "customCss": "C:\\Users\\samue\\Desktop\\All\\CSK\\reference\\src\\css\\custom.css"
         }
       }
     ]
+  ],
+  "plugins": [
+    null
   ],
   "baseUrlIssueBanner": true,
   "future": {
@@ -403,7 +406,6 @@ export default {
     "static"
   ],
   "customFields": {},
-  "plugins": [],
   "themes": [],
   "scripts": [],
   "headTags": [],

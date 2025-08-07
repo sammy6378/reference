@@ -18,4 +18,4 @@ This documentation covers:
 
 ## Contributing
 
-Found an issue or want to contribute? Check out our [GitHub repository](https://github.com/your-username/reference).
+Found an issue or want to contribute? Check out our [GitHub repository](https://github.com/sammy6378/reference).
