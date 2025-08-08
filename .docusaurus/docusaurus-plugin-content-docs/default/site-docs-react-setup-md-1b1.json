@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "JavaScript Basics",
-    "permalink": "/reference/docs/Javascript/basics"
+    "title": "patterns",
+    "permalink": "/reference/docs/React/patterns"
   },
   "next": {
     "title": "TypeScript Introduction",

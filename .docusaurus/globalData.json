@@ -36,6 +36,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "React/patterns",
+              "path": "/reference/docs/React/patterns",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "React/setup",
               "path": "/reference/docs/React/setup",
               "sidebar": "tutorialSidebar"

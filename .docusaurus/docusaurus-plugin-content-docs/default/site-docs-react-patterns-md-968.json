@@ -1,0 +1,24 @@
+{
+  "id": "React/patterns",
+  "title": "patterns",
+  "description": "",
+  "source": "@site/docs/React/patterns.md",
+  "sourceDirName": "React",
+  "slug": "/React/patterns",
+  "permalink": "/reference/docs/React/patterns",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/React/patterns.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JavaScript Basics",
+    "permalink": "/reference/docs/Javascript/basics"
+  },
+  "next": {
+    "title": "setup",
+    "permalink": "/reference/docs/React/setup"
+  }
+}
