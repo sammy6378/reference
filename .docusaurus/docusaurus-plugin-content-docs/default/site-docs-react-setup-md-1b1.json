@@ -1,0 +1,24 @@
+{
+  "id": "React/setup",
+  "title": "setup",
+  "description": "",
+  "source": "@site/docs/React/setup.md",
+  "sourceDirName": "React",
+  "slug": "/React/setup",
+  "permalink": "/reference/docs/React/setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/React/setup.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JavaScript Basics",
+    "permalink": "/reference/docs/Javascript/basics"
+  },
+  "next": {
+    "title": "TypeScript Introduction",
+    "permalink": "/reference/docs/Typescript/intro"
+  }
+}

@@ -43,15 +43,15 @@ export default {
           "position": "left",
           "items": [
             {
-              "to": "/docs/js/basics",
+              "to": "/docs/Javascript/basics",
               "label": "JavaScript Basics"
             },
             {
-              "to": "/docs/js/advanced",
+              "to": "/docs/Javascript/advanced",
               "label": "Advanced JavaScript"
             },
             {
-              "to": "/docs/ts/intro",
+              "to": "/docs/Typescript/intro",
               "label": "TypeScript"
             },
             {
@@ -104,11 +104,11 @@ export default {
             },
             {
               "label": "JavaScript",
-              "to": "/docs/js/basics"
+              "to": "/docs/Javascript/basics"
             },
             {
               "label": "TypeScript",
-              "to": "/docs/ts/intro"
+              "to": "/docs/Typescript/intro"
             },
             {
               "label": "React Native",
@@ -121,7 +121,7 @@ export default {
           "items": [
             {
               "label": "Advanced Topics",
-              "to": "/docs/js/advanced"
+              "to": "/docs/Javascript/advanced"
             },
             {
               "label": "Contributing Guide",

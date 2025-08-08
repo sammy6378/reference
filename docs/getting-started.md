@@ -23,18 +23,18 @@ Let’s get you started on your journey to building amazing applications!
 
 New to coding? Start with the basics to build a strong foundation:
 
-1. [JavaScript Basics](./js/basics) - Learn variables, functions, objects, and arrays.
-2. [TypeScript Introduction](./ts/intro) - Add types to JavaScript for safer code.
-3. [React Setup](./react/setup) - Set up your React environment.
+1. [JavaScript Basics](./Javascript/basics) - Learn variables, functions, objects, and arrays.
+2. [TypeScript Introduction](./Typescript/intro) - Add types to JavaScript for safer code.
+3. [React Setup](./React/setup) - Set up your React environment.
 4. [React Native Setup](./react-native/setup) - Get ready for mobile app development.
 
 ### For Experienced Developers
 
 Ready to level up? Dive into advanced topics:
 
-- [Advanced JavaScript](./js/advanced) - Master promises, async/await, and ES modules.
-- [TypeScript Tips](./ts/tips) - Explore generics, utility types, and advanced patterns.
-- [React Patterns](./react/patterns) - Build scalable web UIs with hooks and state management.
+- [Advanced JavaScript](./Javascript/advanced) - Master promises, async/await, and ES modules.
+- [TypeScript Tips](./Typescript/tips) - Explore generics, utility types, and advanced patterns.
+- [React Patterns](./React/patterns) - Build scalable web UIs with hooks and state management.
 - [React Native Components](./react-native/components) - Create stunning mobile UIs.
 
 ## 🛠 Prerequisites
@@ -61,7 +61,7 @@ To ensure a smooth start, set up the following tools:
 
 - **Basic Programming Knowledge**:
   - Familiarity with variables, functions, and basic logic is helpful but not required.
-  - If you're new, our [JavaScript Basics](./js/basics) section will guide you step-by-step.
+  - If you're new, our [JavaScript Basics](./Javascript/basics) section will guide you step-by-step.
 
 **Troubleshooting Setup**:
 
@@ -76,13 +76,13 @@ Pick a focus based on your goals:
 ### 🌐 Web Development
 
 **Best for**: Frontend developers building web applications.  
-**Start with**: [JavaScript Basics](./js/basics) → [TypeScript Introduction](./ts/intro) → [React Setup](./react/setup).  
+**Start with**: [JavaScript Basics](./Javascript/basics) → [TypeScript Introduction](./Typescript/intro) → [React Setup](./React/setup).  
 **Outcome**: Build dynamic, interactive web apps.
 
 ### 📱 Mobile Development
 
 **Best for**: Developers creating iOS and Android apps.  
-**Start with**: [JavaScript Basics](./js/basics) → [React Native Setup](./react-native/setup).  
+**Start with**: [JavaScript Basics](./Javascript/basics) → [React Native Setup](./react-native/setup).  
 **Outcome**: Develop cross-platform mobile apps with native performance.
 
 ## 💡 Tips for Success
@@ -102,7 +102,7 @@ Web and mobile tech evolves fast. We update this guide regularly to keep you on 
 ## ❓ FAQ
 
 **Q: Do I need to learn JavaScript before TypeScript?**  
-A: Yes, JavaScript is the foundation for TypeScript. Start with [JavaScript Basics](./js/basics).
+A: Yes, JavaScript is the foundation for TypeScript. Start with [JavaScript Basics](./Javascript/basics).
 
 **Q: Can I use this guide for React Native without React experience?**  
 A: While React knowledge helps, our [React Native Setup](./react-native/setup) guide covers the basics.

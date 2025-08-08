@@ -238,7 +238,7 @@
 }
 
 .code-content {
-  text-align: left;
+  text-align: start;
   font-size: 14px;
   font-family: monospace;
   color: #10b981;

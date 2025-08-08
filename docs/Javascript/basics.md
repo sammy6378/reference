@@ -46,4 +46,4 @@ const person = {
 ## Next Steps
 
 - Learn about [Advanced JavaScript](./advanced)
-- Explore [TypeScript](../ts/intro)
+- Explore [TypeScript](../Typescript/intro)

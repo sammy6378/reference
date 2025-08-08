@@ -39,15 +39,15 @@ export default [
   },
   {
     path: '/reference/docs',
-    component: ComponentCreator('/reference/docs', '9b7'),
+    component: ComponentCreator('/reference/docs', 'e6f'),
     routes: [
       {
         path: '/reference/docs',
-        component: ComponentCreator('/reference/docs', 'b47'),
+        component: ComponentCreator('/reference/docs', '83d'),
         routes: [
           {
             path: '/reference/docs',
-            component: ComponentCreator('/reference/docs', '61e'),
+            component: ComponentCreator('/reference/docs', 'ec4'),
             routes: [
               {
                 path: '/reference/docs/getting-started',
@@ -76,6 +76,12 @@ export default [
               {
                 path: '/reference/docs/react-native/setup',
                 component: ComponentCreator('/reference/docs/react-native/setup', 'b56'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/reference/docs/React/setup',
+                component: ComponentCreator('/reference/docs/React/setup', '898'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

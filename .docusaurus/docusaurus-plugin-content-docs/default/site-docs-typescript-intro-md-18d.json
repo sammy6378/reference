@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "JavaScript Basics",
-    "permalink": "/reference/docs/Javascript/basics"
+    "title": "setup",
+    "permalink": "/reference/docs/React/setup"
   },
   "next": {
     "title": "TypeScript Tips & Best Practices",

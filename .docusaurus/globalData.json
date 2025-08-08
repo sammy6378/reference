@@ -36,6 +36,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "React/setup",
+              "path": "/reference/docs/React/setup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Typescript/intro",
               "path": "/reference/docs/Typescript/intro",
               "sidebar": "tutorialSidebar"
