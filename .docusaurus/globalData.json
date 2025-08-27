@@ -149,6 +149,21 @@
               "id": "Typescript/tips",
               "path": "/reference/docs/Typescript/tips",
               "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/javascript",
+              "path": "/reference/docs/category/javascript",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/beginner",
+              "path": "/reference/docs/category/beginner",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/intermediate",
+              "path": "/reference/docs/category/intermediate",
+              "sidebar": "tutorialSidebar"
             }
           ],
           "draftIds": [],

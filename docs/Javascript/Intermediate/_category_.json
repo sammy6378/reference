@@ -1,0 +1,10 @@
+{
+  "label": "Intermediate", 
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Level up your JavaScript skills with DOM manipulation, ES6+, async programming, and more!"
+  },
+  "collapsible": true,
+  "collapsed": false
+}

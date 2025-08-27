@@ -19,7 +19,7 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Intermediate",
-    "permalink": "/reference/docs/Javascript/Intermediate"
+    "permalink": "/reference/docs/category/intermediate"
   },
   "next": {
     "title": "DOM Manipulation",

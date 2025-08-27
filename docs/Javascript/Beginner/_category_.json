@@ -1,0 +1,10 @@
+{
+  "label": "Beginner",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Start your JavaScript journey here! Learn the fundamentals step by step."
+  },
+  "collapsible": true,
+  "collapsed": false
+}

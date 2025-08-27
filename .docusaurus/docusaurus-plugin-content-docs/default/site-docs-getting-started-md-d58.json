@@ -17,7 +17,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Intermediate",
-    "permalink": "/reference/docs/Javascript/Intermediate"
+    "title": "JavaScript",
+    "permalink": "/reference/docs/category/javascript"
   }
 }

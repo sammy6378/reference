@@ -42,18 +42,30 @@
       "plugin": "plugin---reference-docusaurus-debugb-38-950"
     }
   },
-  "/reference/docs-87a": {
+  "/reference/docs-e34": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---reference-docsaba-3e5"
     }
   },
-  "/reference/docs-915": {
+  "/reference/docs-57e": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---reference-docs-964-c0b"
   },
-  "/reference/docs-32a": {
+  "/reference/docs-f0d": {
     "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/reference/docs/category/beginner-89a": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---reference-docs-category-beginner-631-54a"
+  },
+  "/reference/docs/category/intermediate-72a": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---reference-docs-category-intermediate-88-a-029"
+  },
+  "/reference/docs/category/javascript-fdc": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---reference-docs-category-javascripte-00-a54"
   },
   "/reference/docs/getting-started-a80": {
     "__comp": "__comp---theme-doc-item-178-a40",

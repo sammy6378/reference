@@ -39,16 +39,34 @@ export default [
   },
   {
     path: '/reference/docs',
-    component: ComponentCreator('/reference/docs', '87a'),
+    component: ComponentCreator('/reference/docs', 'e34'),
     routes: [
       {
         path: '/reference/docs',
-        component: ComponentCreator('/reference/docs', '915'),
+        component: ComponentCreator('/reference/docs', '57e'),
         routes: [
           {
             path: '/reference/docs',
-            component: ComponentCreator('/reference/docs', '32a'),
+            component: ComponentCreator('/reference/docs', 'f0d'),
             routes: [
+              {
+                path: '/reference/docs/category/beginner',
+                component: ComponentCreator('/reference/docs/category/beginner', '89a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/reference/docs/category/intermediate',
+                component: ComponentCreator('/reference/docs/category/intermediate', '72a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/reference/docs/category/javascript',
+                component: ComponentCreator('/reference/docs/category/javascript', 'fdc'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
               {
                 path: '/reference/docs/getting-started',
                 component: ComponentCreator('/reference/docs/getting-started', 'a80'),

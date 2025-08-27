@@ -11,19 +11,17 @@
   "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/Javascript/Intermediate/index.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 1,
   "frontMatter": {
-    "sidebar_position": 1,
     "title": "Intermediate",
     "slug": "/Javascript/Intermediate"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Getting Started",
-    "permalink": "/reference/docs/getting-started"
+    "title": "Final Projects",
+    "permalink": "/reference/docs/Javascript/Intermediate/final-projects"
   },
   "next": {
-    "title": "Advanced Functions",
-    "permalink": "/reference/docs/Javascript/Intermediate/advanced-functions"
+    "title": "patterns",
+    "permalink": "/reference/docs/React/patterns"
   }
 }
