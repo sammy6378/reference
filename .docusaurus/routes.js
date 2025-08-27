@@ -39,15 +39,15 @@ export default [
   },
   {
     path: '/reference/docs',
-    component: ComponentCreator('/reference/docs', 'e34'),
+    component: ComponentCreator('/reference/docs', '12a'),
     routes: [
       {
         path: '/reference/docs',
-        component: ComponentCreator('/reference/docs', '57e'),
+        component: ComponentCreator('/reference/docs', '300'),
         routes: [
           {
             path: '/reference/docs',
-            component: ComponentCreator('/reference/docs', 'f0d'),
+            component: ComponentCreator('/reference/docs', '853'),
             routes: [
               {
                 path: '/reference/docs/category/beginner',
@@ -124,12 +124,6 @@ export default [
               {
                 path: '/reference/docs/Javascript/Beginner/variables-and-datatypes',
                 component: ComponentCreator('/reference/docs/Javascript/Beginner/variables-and-datatypes', '5fe'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/reference/docs/Javascript/Intermediate',
-                component: ComponentCreator('/reference/docs/Javascript/Intermediate', '9ab'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

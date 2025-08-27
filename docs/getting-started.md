@@ -32,7 +32,7 @@ New to coding? Start with the basics to build a strong foundation:
 
 Ready to level up? Dive into advanced topics:
 
-- [Advanced JavaScript](./Javascript/Advanced/) - Master promises, async/await, and ES modules.
+- [Intermediate JavaScript](./Javascript/Intermediate) - Master promises, async/await, and ES modules.
 - [TypeScript Tips](./Typescript/tips) - Explore generics, utility types, and advanced patterns.
 - [React Patterns](./React/patterns) - Build scalable web UIs with hooks and state management.
 - [React Native Components](./react-native/components) - Create stunning mobile UIs.

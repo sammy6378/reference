@@ -42,17 +42,17 @@
       "plugin": "plugin---reference-docusaurus-debugb-38-950"
     }
   },
-  "/reference/docs-e34": {
+  "/reference/docs-12a": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---reference-docsaba-3e5"
     }
   },
-  "/reference/docs-57e": {
+  "/reference/docs-300": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---reference-docs-964-c0b"
   },
-  "/reference/docs-f0d": {
+  "/reference/docs-853": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/reference/docs/category/beginner-89a": {
@@ -106,10 +106,6 @@
   "/reference/docs/Javascript/Beginner/variables-and-datatypes-5fe": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---reference-docs-javascript-beginner-variables-and-datatypes-8-f-5-a09"
-  },
-  "/reference/docs/Javascript/Intermediate-9ab": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-javascript-intermediatea-29-880"
   },
   "/reference/docs/Javascript/Intermediate/advanced-functions-d81": {
     "__comp": "__comp---theme-doc-item-178-a40",

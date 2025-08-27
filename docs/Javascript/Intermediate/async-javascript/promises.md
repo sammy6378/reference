@@ -600,9 +600,9 @@ fetchUser(1)
 
 ## What's Next? 🚀
 
-Promises are powerful, but there's an even cleaner way to write async code! Next, we'll explore [Async/Await](./async-await), which makes asynchronous code look and feel like synchronous code. It's built on top of Promises, so everything you've learned here applies!
+Promises are powerful, but there's an even cleaner way to write async code! Next, we'll explore [Async/Await](./async-await.md), which makes asynchronous code look and feel like synchronous code. It's built on top of Promises, so everything you've learned here applies!
 
-Ready to make async code even more readable? Let's dive into [Async/Await](./async-await)! 🎯
+Ready to make async code even more readable? Let's dive into [Async/Await](./async-await.md)! 🎯
 
 :::tip Promise Memory
 Promises are "eager" - they start executing immediately when created. If you need "lazy" execution, wrap them in functions! 🏃‍♂️

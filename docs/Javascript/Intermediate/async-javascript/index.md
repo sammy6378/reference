@@ -11,10 +11,10 @@ In this section, we'll explore the evolution of async JavaScript through four ke
 
 ## What You'll Learn 🚀
 
-1. **[Callbacks](./callbacks)** - The original async pioneers and how to use them effectively
-2. **[Asynchronous Operations](./asynchronous-operations)** - Understanding timers, events, and the event loop
-3. **[Promises](./promises)** - A cleaner path to handling async operations
-4. **[Async/Await](./async-await)** - The modern, readable approach to async code
+1. **[Callbacks](./callbacks.md)** - The original async pioneers and how to use them effectively
+2. **[Asynchronous Operations](./asynchronous-operations.md)** - Understanding timers, events, and the event loop
+3. **[Promises](./promises.md)** - A cleaner path to handling async operations
+4. **[Async/Await](./async-await.md)** - The modern, readable approach to async code
 
 ## Why Async Matters 🎯
 

@@ -476,9 +476,9 @@ This example demonstrates:
 
 ## What's Next? 🚀
 
-You now understand how JavaScript handles asynchronous operations under the hood! This knowledge will make the next concepts much clearer. Let's move on to [Promises](./promises), which provide a much cleaner way to handle async operations than callbacks.
+You now understand how JavaScript handles asynchronous operations under the hood! This knowledge will make the next concepts much clearer. Let's move on to [Promises](./promises.md), which provide a much cleaner way to handle async operations than callbacks.
 
-Ready to escape callback hell? Let's dive into [Promises](./promises)! 🎯
+Ready to escape callback hell? Let's dive into [Promises](./promises.md)! 🎯
 
 :::tip Performance Tip
 Use `requestAnimationFrame` for animations, `setTimeout` for delays, and `setInterval` sparingly. Always clear timers when done to prevent memory leaks! 🧹

@@ -287,14 +287,14 @@ Try this hands-on example:
 
 ## What's Next? 🚀
 
-You've mastered callbacks—the foundation of async JavaScript! But callbacks have limitations (hello, callback hell!). Next, we'll explore [Asynchronous Operations](./asynchronous-operations) to understand how JavaScript handles timing and events under the hood.
+You've mastered callbacks—the foundation of async JavaScript! But callbacks have limitations (hello, callback hell!). Next, we'll explore [Asynchronous Operations](./asynchronous-operations.md) to understand how JavaScript handles timing and events under the hood.
 
 Understanding callbacks is crucial because:
 - Many older APIs still use them
 - They help you understand how JavaScript async works
 - Promises and async/await build on these concepts
 
-Ready to dive deeper? Let's explore [Asynchronous Operations](./asynchronous-operations) next! 🎯
+Ready to dive deeper? Let's explore [Asynchronous Operations](./asynchronous-operations.md) next! 🎯
 
 :::tip Remember
 Callbacks are just functions—don't overthink them! The key is understanding when they run (after something completes) and how to handle both success and error cases properly.

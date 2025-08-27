@@ -286,7 +286,7 @@ Try this mini-project to combine async concepts:
 
 ## What’s Next?
 
-You’re an async master, handling delays with callbacks, Promises, and async/await! Next, we’ll explore **JSON and APIs** to fetch and work with real-world data. Zoom to [JSON and APIs](./Javascript/json-apis) for the next adventure. You’re rocking this—keep it up! 💪
+You’re an async master, handling delays with callbacks, Promises, and async/await! Next, we’ll explore **JSON and APIs** to fetch and work with real-world data. Zoom to [JSON and APIs](../json-apis.md) for the next adventure. You’re rocking this—keep it up! 💪
 
 Questions? Check out our [GitHub Discussions](https://github.com/sammy6378/reference/discussions). Code on! ✨
 
@@ -958,7 +958,7 @@ Congratulations! You've mastered async/await, the most modern and readable way t
 
 Your async journey is complete! With callbacks, Promises, and async/await in your toolkit, you're ready to handle any asynchronous challenge JavaScript throws at you.
 
-**Next up**: Ready to put your async skills to use? Check out our [JSON and APIs](../json-apis) section to learn how to fetch and work with real data from servers!
+**Next up**: Ready to put your async skills to use? Check out our [JSON and APIs](../json-apis.md) section to learn how to fetch and work with real data from servers!
 
 :::tip Final Async Wisdom
 Async/await is powerful but remember: with great power comes great responsibility. Always handle errors, optimize for performance, and keep your code readable. Your future self will thank you! 🙏

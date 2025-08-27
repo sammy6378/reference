@@ -1,7 +1,7 @@
 {
   "id": "Javascript/Beginner/projects",
   "title": "Fun Beginner Projects",
-  "description": "Wow, you’ve made it through the JavaScript basics—time to celebrate by building something awesome! 🎉 These three mini-projects—Digital Dice Roller, Random Joke Generator, and Simple Calculator—will put your ski#### WYou've built three awesome projects—dice, jokes, and math! You're ready for more challenges. Head to Intermediate JavaScript for topics like callbacks, promises, and DOM deep-dives. Or, keep building with more projects in Advanced Projects. You're a coding hero—keep it up! 🦸‍♂️at's Next?",
+  "description": "Wow, you’ve made it through the JavaScript basics—time to celebrate by building something awesome! 🎉 These three mini-projects—Digital Dice Roller, Random Joke Generator, and Simple Calculator—will put your skills to work. You’ll use variables, functions, arrays, objects, and loops, plus a touch of HTML and CSS to make them interactive on a webpage. Each project is beginner-friendly, includes full code, and runs in your browser. Let’s create some magic! 🪄",
   "source": "@site/docs/Javascript/Beginner/projects.md",
   "sourceDirName": "Javascript/Beginner",
   "slug": "/Javascript/Beginner/projects",
