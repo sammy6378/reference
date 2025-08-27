@@ -13,7 +13,7 @@ export default {
   "projectName": "reference",
   "deploymentBranch": "gh-pages",
   "trailingSlash": false,
-  "onBrokenLinks": "throw",
+  "onBrokenLinks": "warn",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
     "defaultLocale": "en",
@@ -422,14 +422,14 @@ export default {
           "editUrl": "https://github.com/sammy6378/reference/tree/main/"
         },
         "theme": {
-          "customCss": "C:\\Users\\samue\\Desktop\\All\\CSK\\reference\\src\\css\\custom.css"
+          "customCss": "/home/runner/work/reference/reference/src/css/custom.css"
         }
       }
     ]
   ],
   "plugins": [
     [
-      "C:\\Users\\samue\\Desktop\\All\\CSK\\reference\\node_modules\\@easyops-cn\\docusaurus-search-local\\dist\\server\\server\\index.js",
+      "/home/runner/work/reference/reference/node_modules/@easyops-cn/docusaurus-search-local/dist/server/server/index.js",
       {
         "hashed": true,
         "language": [
