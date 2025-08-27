@@ -9,19 +9,25 @@ export default [
   },
   {
     path: '/reference/docs',
-    component: ComponentCreator('/reference/docs', '5b1'),
+    component: ComponentCreator('/reference/docs', '40a'),
     routes: [
       {
         path: '/reference/docs',
-        component: ComponentCreator('/reference/docs', '5c5'),
+        component: ComponentCreator('/reference/docs', '9eb'),
         routes: [
           {
             path: '/reference/docs',
-            component: ComponentCreator('/reference/docs', '565'),
+            component: ComponentCreator('/reference/docs', '342'),
             routes: [
               {
                 path: '/reference/docs/getting-started',
                 component: ComponentCreator('/reference/docs/getting-started', 'a80'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/reference/docs/Javascript/Advanced',
+                component: ComponentCreator('/reference/docs/Javascript/Advanced', '690'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -76,6 +82,12 @@ export default [
               {
                 path: '/reference/docs/Javascript/Beginner/variables-and-datatypes',
                 component: ComponentCreator('/reference/docs/Javascript/Beginner/variables-and-datatypes', '5fe'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/reference/docs/Javascript/Intermediate',
+                component: ComponentCreator('/reference/docs/Javascript/Intermediate', '9ab'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

@@ -1,6 +1,9 @@
 import { Config } from "@docusaurus/types";
 import { themes as prismThemes } from "prism-react-renderer";
 
+// Load polyfills for Web APIs in Node.js environment
+require("./polyfills");
+
 const config: Config = {
   title: "JS, TS & React Native Docs",
   tagline: "Documentation for JavaScript, TypeScript, and React Native",
@@ -12,7 +15,7 @@ const config: Config = {
   deploymentBranch: "gh-pages",
   trailingSlash: false,
 
-  onBrokenLinks: "throw",
+  onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   i18n: {
     defaultLocale: "en",

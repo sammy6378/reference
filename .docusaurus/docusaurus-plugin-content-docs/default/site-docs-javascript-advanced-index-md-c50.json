@@ -1,7 +1,7 @@
 {
   "id": "Javascript/Advanced/index",
-  "title": "index",
-  "description": "",
+  "title": "Advanced JavaScript Topics",
+  "description": "Welcome to the Advanced JavaScript section. This section covers advanced concepts and patterns in JavaScript development.",
   "source": "@site/docs/Javascript/Advanced/index.md",
   "sourceDirName": "Javascript/Advanced",
   "slug": "/Javascript/Advanced/",

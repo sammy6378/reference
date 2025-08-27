@@ -294,7 +294,7 @@ Try this mini-project to combine ES6+ features with DOM:
 
 ## What’s Next?
 
-You’re wielding ES6+ like a modern JS ninja—destructuring, templates, and safe operators! Next, let’s tackle **Asynchronous JavaScript** to handle data fetching, timers, and promises. Zoom to [Asynchronous JavaScript](./async-javascript.md) for the next adventure. You’re killing it—keep shining! 💪
+You’re wielding ES6+ like a modern JS ninja—destructuring, templates, and safe operators! Next, let’s tackle **Asynchronous JavaScript** to handle data fetching, timers, and promises. Zoom to [Asynchronous JavaScript](./async-javascript) for the next adventure. You’re killing it—keep shining! 💪
 
 Questions? Hit up our [GitHub Discussions](https://github.com/sammy6378/reference/discussions). Code on! ✨
  example for the next async section! Ready for promises and async/await? 🚀

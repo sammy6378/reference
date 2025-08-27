@@ -237,6 +237,6 @@ Try this mini-project to fetch and display user data:
 
 ## What’s Next?
 
-You’re fetching data like a web wizard! Next, we’ll tackle **Error Handling** to make your code bulletproof against crashes and bugs. Head to [Error Handling](./Javascript/error-handling) for the next adventure. You’re soaring—keep it up! 💪
+You’re fetching data like a web wizard! Next, we’ll tackle **Error Handling** to make your code bulletproof against crashes and bugs. Head to [Error Handling](./error-handling) for the next adventure. You’re soaring—keep it up! 💪
 
 Questions? Join our [GitHub Discussions](https://github.com/sammy6378/reference/discussions). Code on! ✨

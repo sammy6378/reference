@@ -5,22 +5,26 @@
       "plugin": "138e0e15"
     }
   },
-  "/reference/docs-5b1": {
+  "/reference/docs-40a": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/reference/docs-5c5": {
+  "/reference/docs-9eb": {
     "__comp": "a7bd4aaa",
     "__props": "9641e80f"
   },
-  "/reference/docs-565": {
+  "/reference/docs-342": {
     "__comp": "a94703ab"
   },
   "/reference/docs/getting-started-a80": {
     "__comp": "17896441",
     "content": "d589d3a7"
+  },
+  "/reference/docs/Javascript/Advanced-690": {
+    "__comp": "17896441",
+    "content": "c500bc4d"
   },
   "/reference/docs/Javascript/Beginner/arrays-740": {
     "__comp": "17896441",
@@ -57,6 +61,10 @@
   "/reference/docs/Javascript/Beginner/variables-and-datatypes-5fe": {
     "__comp": "17896441",
     "content": "8f579ec1"
+  },
+  "/reference/docs/Javascript/Intermediate-9ab": {
+    "__comp": "17896441",
+    "content": "a29a5391"
   },
   "/reference/docs/Javascript/Intermediate/advanced-functions-d81": {
     "__comp": "17896441",
