@@ -16,13 +16,53 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Javascript/advanced",
-              "path": "/reference/docs/Javascript/advanced",
+              "id": "Javascript/Beginner/arrays",
+              "path": "/reference/docs/Javascript/Beginner/arrays",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Javascript/basics",
-              "path": "/reference/docs/Javascript/basics",
+              "id": "Javascript/Beginner/control-structures",
+              "path": "/reference/docs/Javascript/Beginner/control-structures",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Javascript/Beginner/functions",
+              "path": "/reference/docs/Javascript/Beginner/functions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Javascript/Beginner/introduction-to-javascript",
+              "path": "/reference/docs/Javascript/Beginner/introduction-to-javascript",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Javascript/Beginner/loops",
+              "path": "/reference/docs/Javascript/Beginner/loops",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Javascript/Beginner/objects",
+              "path": "/reference/docs/Javascript/Beginner/objects",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Javascript/Beginner/operators",
+              "path": "/reference/docs/Javascript/Beginner/operators",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Javascript/Beginner/projects",
+              "path": "/reference/docs/Javascript/Beginner/projects",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Javascript/Beginner/variables-and-datatypes",
+              "path": "/reference/docs/Javascript/Beginner/variables-and-datatypes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Javascript/Intermediate/index",
+              "path": "/reference/docs/Javascript/Intermediate/",
               "sidebar": "tutorialSidebar"
             },
             {

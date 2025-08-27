@@ -43,11 +43,11 @@ export default {
           "position": "left",
           "items": [
             {
-              "to": "/docs/Javascript/basics",
+              "to": "/docs/Javascript/Beginner/introduction-to-javascript",
               "label": "JavaScript Basics"
             },
             {
-              "to": "/docs/Javascript/advanced",
+              "to": "/docs/Javascript/Advanced",
               "label": "Advanced JavaScript"
             },
             {
@@ -104,7 +104,7 @@ export default {
             },
             {
               "label": "JavaScript",
-              "to": "/docs/Javascript/basics"
+              "to": "/docs/Javascript/Beginner/introduction-to-javascript"
             },
             {
               "label": "TypeScript",
@@ -121,7 +121,7 @@ export default {
           "items": [
             {
               "label": "Advanced Topics",
-              "to": "/docs/Javascript/advanced"
+              "to": "/docs/Javascript/Advanced"
             },
             {
               "label": "Contributing Guide",
@@ -427,6 +427,19 @@ export default {
       }
     ]
   ],
+  "plugins": [
+    [
+      "C:\\Users\\samue\\Desktop\\All\\CSK\\reference\\node_modules\\@easyops-cn\\docusaurus-search-local\\dist\\server\\server\\index.js",
+      {
+        "hashed": true,
+        "language": [
+          "en"
+        ],
+        "highlightSearchTermsOnTargetPage": true,
+        "explicitSearchResultPath": true
+      }
+    ]
+  ],
   "baseUrlIssueBanner": true,
   "future": {
     "v4": {
@@ -455,7 +468,6 @@ export default {
     "static"
   ],
   "customFields": {},
-  "plugins": [],
   "themes": [],
   "scripts": [],
   "headTags": [],

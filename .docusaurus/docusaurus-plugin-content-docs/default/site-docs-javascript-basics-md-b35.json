@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Advanced JavaScript",
-    "permalink": "/reference/docs/Javascript/advanced"
+    "title": "Control Structures",
+    "permalink": "/reference/docs/Javascript/Beginner/control-structures"
   },
   "next": {
     "title": "patterns",

@@ -1,0 +1,28 @@
+{
+  "id": "Javascript/Beginner/control-structures",
+  "title": "Control Structures",
+  "description": "Whoa, code adventurer! 🧭 You've mastered operators, so now let's give your programs a brain—control structures! These are like choose-your-own-adventure books for code: they let your script make decisions based on conditions. No more straight-line code; now it can branch out, skip parts, or choose paths.",
+  "source": "@site/docs/Javascript/Beginner/control-structures.md",
+  "sourceDirName": "Javascript/Beginner",
+  "slug": "/Javascript/Beginner/control-structures",
+  "permalink": "/reference/docs/Javascript/Beginner/control-structures",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/Javascript/Beginner/control-structures.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Control Structures"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Operators in JavaScript",
+    "permalink": "/reference/docs/Javascript/Beginner/operators"
+  },
+  "next": {
+    "title": "Loops",
+    "permalink": "/reference/docs/Javascript/Beginner/loops"
+  }
+}

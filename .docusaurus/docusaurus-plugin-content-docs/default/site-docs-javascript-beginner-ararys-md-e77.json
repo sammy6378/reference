@@ -1,0 +1,28 @@
+{
+  "id": "Javascript/Beginner/ararys",
+  "title": "Arrays",
+  "description": "Hey, code rockstar! 🎸 You've got functions nailed, so now let’s dive into arrays—your go-to tool for storing lists of stuff. Think of arrays as your digital backpack: you can stuff numbers, strings, or even other arrays inside, then pull them out whenever you need. Arrays are perfect for keeping track of things like to-do lists, scores, or your favorite emoji collection.",
+  "source": "@site/docs/Javascript/Beginner/ararys.md",
+  "sourceDirName": "Javascript/Beginner",
+  "slug": "/Javascript/Beginner/ararys",
+  "permalink": "/reference/docs/Javascript/Beginner/ararys",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/Javascript/Beginner/ararys.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7,
+    "title": "Arrays"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Functions",
+    "permalink": "/reference/docs/Javascript/Beginner/functions"
+  },
+  "next": {
+    "title": "Objects",
+    "permalink": "/reference/docs/Javascript/Beginner/objects"
+  }
+}

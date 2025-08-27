@@ -42,30 +42,68 @@
       "plugin": "plugin---reference-docusaurus-debugb-38-950"
     }
   },
-  "/reference/docs-d62": {
+  "/reference/search-083": {
+    "__comp": "__comp---theme-search-page-1-a-4-d6f",
+    "__context": {
+      "plugin": "plugin---reference-search-138-b5c"
+    }
+  },
+  "/reference/docs-15b": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---reference-docsaba-3e5"
     }
   },
-  "/reference/docs-d21": {
+  "/reference/docs-c68": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---reference-docs-964-c0b"
   },
-  "/reference/docs-e89": {
+  "/reference/docs-3e9": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/reference/docs/getting-started-a80": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---reference-docs-getting-startedd-58-9cb"
   },
-  "/reference/docs/Javascript/advanced-0f9": {
+  "/reference/docs/Javascript/Beginner/arrays-740": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-javascript-advanced-43-e-dbc"
+    "content": "content---reference-docs-javascript-beginner-arraysa-03-b2a"
   },
-  "/reference/docs/Javascript/basics-9d7": {
+  "/reference/docs/Javascript/Beginner/control-structures-fb5": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-javascript-basicsb-35-74c"
+    "content": "content---reference-docs-javascript-beginner-control-structures-26-f-0aa"
+  },
+  "/reference/docs/Javascript/Beginner/functions-798": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---reference-docs-javascript-beginner-functions-988-1c7"
+  },
+  "/reference/docs/Javascript/Beginner/introduction-to-javascript-5f7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---reference-docs-javascript-beginner-introduction-to-javascriptac-5-f4c"
+  },
+  "/reference/docs/Javascript/Beginner/loops-78f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---reference-docs-javascript-beginner-loops-69-a-262"
+  },
+  "/reference/docs/Javascript/Beginner/objects-a09": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---reference-docs-javascript-beginner-objects-2-d-1-cf6"
+  },
+  "/reference/docs/Javascript/Beginner/operators-5cb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---reference-docs-javascript-beginner-operators-34-d-de5"
+  },
+  "/reference/docs/Javascript/Beginner/projects-cc7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---reference-docs-javascript-beginner-projectsbfb-6f6"
+  },
+  "/reference/docs/Javascript/Beginner/variables-and-datatypes-5fe": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---reference-docs-javascript-beginner-variables-and-datatypes-8-f-5-a09"
+  },
+  "/reference/docs/Javascript/Intermediate-9ab": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---reference-docs-javascript-intermediatea-29-880"
   },
   "/reference/docs/react-native/components-8b0": {
     "__comp": "__comp---theme-doc-item-178-a40",

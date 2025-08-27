@@ -38,11 +38,11 @@ const config: Config = {
           position: "left",
           items: [
             {
-              to: "/docs/Javascript/basics",
+              to: "/docs/Javascript/Beginner/introduction-to-javascript",
               label: "JavaScript Basics",
             },
             {
-              to: "/docs/Javascript/advanced",
+              to: "/docs/Javascript/Advanced",
               label: "Advanced JavaScript",
             },
             {
@@ -98,7 +98,7 @@ const config: Config = {
             },
             {
               label: "JavaScript",
-              to: "/docs/Javascript/basics",
+              to: "/docs/Javascript/Beginner/introduction-to-javascript",
             },
             {
               label: "TypeScript",
@@ -115,7 +115,7 @@ const config: Config = {
           items: [
             {
               label: "Advanced Topics",
-              to: "/docs/Javascript/advanced",
+              to: "/docs/Javascript/Advanced",
             },
             {
               label: "Contributing Guide",
@@ -198,6 +198,17 @@ const config: Config = {
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
+      },
+    ],
+  ],
+  plugins: [
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      {
+        hashed: true,
+        language: ["en"],
+        highlightSearchTermsOnTargetPage: true,
+        explicitSearchResultPath: true,
       },
     ],
   ],

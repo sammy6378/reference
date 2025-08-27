@@ -38,16 +38,21 @@ export default [
     exact: true
   },
   {
+    path: '/reference/search',
+    component: ComponentCreator('/reference/search', '083'),
+    exact: true
+  },
+  {
     path: '/reference/docs',
-    component: ComponentCreator('/reference/docs', 'd62'),
+    component: ComponentCreator('/reference/docs', '15b'),
     routes: [
       {
         path: '/reference/docs',
-        component: ComponentCreator('/reference/docs', 'd21'),
+        component: ComponentCreator('/reference/docs', 'c68'),
         routes: [
           {
             path: '/reference/docs',
-            component: ComponentCreator('/reference/docs', 'e89'),
+            component: ComponentCreator('/reference/docs', '3e9'),
             routes: [
               {
                 path: '/reference/docs/getting-started',
@@ -56,14 +61,62 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/reference/docs/Javascript/advanced',
-                component: ComponentCreator('/reference/docs/Javascript/advanced', '0f9'),
+                path: '/reference/docs/Javascript/Beginner/arrays',
+                component: ComponentCreator('/reference/docs/Javascript/Beginner/arrays', '740'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/reference/docs/Javascript/basics',
-                component: ComponentCreator('/reference/docs/Javascript/basics', '9d7'),
+                path: '/reference/docs/Javascript/Beginner/control-structures',
+                component: ComponentCreator('/reference/docs/Javascript/Beginner/control-structures', 'fb5'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/reference/docs/Javascript/Beginner/functions',
+                component: ComponentCreator('/reference/docs/Javascript/Beginner/functions', '798'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/reference/docs/Javascript/Beginner/introduction-to-javascript',
+                component: ComponentCreator('/reference/docs/Javascript/Beginner/introduction-to-javascript', '5f7'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/reference/docs/Javascript/Beginner/loops',
+                component: ComponentCreator('/reference/docs/Javascript/Beginner/loops', '78f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/reference/docs/Javascript/Beginner/objects',
+                component: ComponentCreator('/reference/docs/Javascript/Beginner/objects', 'a09'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/reference/docs/Javascript/Beginner/operators',
+                component: ComponentCreator('/reference/docs/Javascript/Beginner/operators', '5cb'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/reference/docs/Javascript/Beginner/projects',
+                component: ComponentCreator('/reference/docs/Javascript/Beginner/projects', 'cc7'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/reference/docs/Javascript/Beginner/variables-and-datatypes',
+                component: ComponentCreator('/reference/docs/Javascript/Beginner/variables-and-datatypes', '5fe'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/reference/docs/Javascript/Intermediate',
+                component: ComponentCreator('/reference/docs/Javascript/Intermediate', '9ab'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
