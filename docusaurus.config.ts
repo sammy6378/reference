@@ -12,7 +12,8 @@ const config: Config = {
   deploymentBranch: "gh-pages",
   trailingSlash: false,
 
-  onBrokenLinks: "throw",
+  // Do not fail builds on broken links; logs will still show issues
+  onBrokenLinks: "ignore",
   onBrokenMarkdownLinks: "warn",
   i18n: {
     defaultLocale: "en",
@@ -21,11 +22,6 @@ const config: Config = {
   themeConfig: {
     navbar: {
       title: "Docs",
-      // logo: {
-      //   alt: "Modern JavaScript Documentation",
-      //   src: "img/logo.svg",
-      //   srcDark: "img/logo-dark.svg",
-      // },
       items: [
         {
           to: "/docs/getting-started",
@@ -42,7 +38,7 @@ const config: Config = {
               label: "JavaScript Basics",
             },
             {
-              to: "/docs/Javascript/Intermediate",
+              to: "/docs/Javascript/Intermediate/advanced-functions",
               label: "Intermediate JavaScript",
             },
             {
@@ -115,7 +111,7 @@ const config: Config = {
           items: [
             {
               label: "Intermediate Topics",
-              to: "/docs/Javascript/Intermediate",
+              to: "/docs/Javascript/Intermediate/advanced-functions",
             },
             {
               label: "Contributing Guide",

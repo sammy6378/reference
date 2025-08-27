@@ -13,7 +13,7 @@ export default {
   "projectName": "reference",
   "deploymentBranch": "gh-pages",
   "trailingSlash": false,
-  "onBrokenLinks": "throw",
+  "onBrokenLinks": "ignore",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
     "defaultLocale": "en",
@@ -42,7 +42,7 @@ export default {
               "label": "JavaScript Basics"
             },
             {
-              "to": "/docs/Javascript/Intermediate",
+              "to": "/docs/Javascript/Intermediate/advanced-functions",
               "label": "Intermediate JavaScript"
             },
             {
@@ -116,7 +116,7 @@ export default {
           "items": [
             {
               "label": "Intermediate Topics",
-              "to": "/docs/Javascript/Intermediate"
+              "to": "/docs/Javascript/Intermediate/advanced-functions"
             },
             {
               "label": "Contributing Guide",

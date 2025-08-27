@@ -313,6 +313,6 @@ Always validate inputs (e.g., `isNaN`) to prevent crashes.
 
 ## What’s Next?
 
-You’ve built three awesome projects—dice, jokes, and math! You’re ready for more challenges. Head to [Intermediate JavaScript](../Intermediate//index.md) for topics like callbacks, promises, and DOM deep-dives. Or, keep building with more projects in [Intermediate Projects](../Intermediate/final-projects.md). You’re a coding hero—keep it up! 🦸‍♂️
+You’ve built three awesome projects—dice, jokes, and math! You’re ready for more challenges. Head to [Intermediate JavaScript](../Intermediate/advanced-functions.md) for topics like callbacks, promises, and DOM deep-dives. Or, keep building with more projects in [Intermediate Projects](../Intermediate/final-projects.md). You’re a coding hero—keep it up! 🦸‍♂️
 
 Questions? Join our [GitHub Discussions](https://github.com/sammy6378/reference/discussions). Happy building! 🎉
