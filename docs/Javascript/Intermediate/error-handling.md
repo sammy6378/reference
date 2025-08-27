@@ -270,6 +270,6 @@ Try this mini-project to combine error handling with a DOM-based API fetcher:
 
 ## What’s Next?
 
-Your code is now error-proof and debug-savvy! You’ve completed the intermediate JavaScript section—huge congrats! 🎉 Next, let’s apply your skills with some **Intermediate Projects** to build interactive apps. Head to [Intermediate Projects](./Javascript/intermediate-projects) for challenges like a to-do list app or a weather dashboard. You’re a JavaScript star—keep shining! 💪
+Your code is now error-proof and debug-savvy! You've completed the intermediate JavaScript section—huge congrats! 🎉 Next, let's apply your skills with some **Final Projects** to build interactive apps. Head to [Final Projects](./final-projects) for challenges like a task manager app or a weather dashboard. You're a JavaScript star—keep shining! 💪
 
 Questions? Join our [GitHub Discussions](https://github.com/sammy6378/reference/discussions). Code on! ✨

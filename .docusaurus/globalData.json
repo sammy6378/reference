@@ -111,6 +111,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Javascript/Intermediate/index",
+              "path": "/reference/docs/Javascript/Intermediate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Javascript/Intermediate/json-apis",
               "path": "/reference/docs/Javascript/Intermediate/json-apis",
               "sidebar": "tutorialSidebar"

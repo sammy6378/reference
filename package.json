@@ -15,7 +15,6 @@
   "dependencies": {
     "@docusaurus/core": "^3.3.2",
     "@docusaurus/preset-classic": "^3.3.2",
-    "@easyops-cn/docusaurus-search-local": "^0.52.1",
     "lucide-react": "^0.536.0"
   },
   "devDependencies": {

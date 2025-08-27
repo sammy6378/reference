@@ -21,11 +21,11 @@ const config: Config = {
   themeConfig: {
     navbar: {
       title: "Docs",
-      logo: {
-        alt: "Modern JavaScript Documentation",
-        src: "img/logo.svg",
-        srcDark: "img/logo-dark.svg",
-      },
+      // logo: {
+      //   alt: "Modern JavaScript Documentation",
+      //   src: "img/logo.svg",
+      //   srcDark: "img/logo-dark.svg",
+      // },
       items: [
         {
           to: "/docs/getting-started",
@@ -42,8 +42,8 @@ const config: Config = {
               label: "JavaScript Basics",
             },
             {
-              to: "/docs/Javascript/Advanced",
-              label: "Advanced JavaScript",
+              to: "/docs/Javascript/Intermediate",
+              label: "Intermediate JavaScript",
             },
             {
               to: "/docs/Typescript/intro",
@@ -114,8 +114,8 @@ const config: Config = {
           title: "Resources",
           items: [
             {
-              label: "Advanced Topics",
-              to: "/docs/Javascript/Advanced",
+              label: "Intermediate Topics",
+              to: "/docs/Javascript/Intermediate",
             },
             {
               label: "Contributing Guide",
@@ -198,17 +198,6 @@ const config: Config = {
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
-      },
-    ],
-  ],
-  plugins: [
-    [
-      require.resolve("@easyops-cn/docusaurus-search-local"),
-      {
-        hashed: true,
-        language: ["en"],
-        highlightSearchTermsOnTargetPage: true,
-        explicitSearchResultPath: true,
       },
     ],
   ],

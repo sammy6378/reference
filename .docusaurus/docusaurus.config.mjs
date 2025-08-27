@@ -26,11 +26,6 @@ export default {
   "themeConfig": {
     "navbar": {
       "title": "Docs",
-      "logo": {
-        "alt": "Modern JavaScript Documentation",
-        "src": "img/logo.svg",
-        "srcDark": "img/logo-dark.svg"
-      },
       "items": [
         {
           "to": "/docs/getting-started",
@@ -47,8 +42,8 @@ export default {
               "label": "JavaScript Basics"
             },
             {
-              "to": "/docs/Javascript/Advanced",
-              "label": "Advanced JavaScript"
+              "to": "/docs/Javascript/Intermediate",
+              "label": "Intermediate JavaScript"
             },
             {
               "to": "/docs/Typescript/intro",
@@ -120,8 +115,8 @@ export default {
           "title": "Resources",
           "items": [
             {
-              "label": "Advanced Topics",
-              "to": "/docs/Javascript/Advanced"
+              "label": "Intermediate Topics",
+              "to": "/docs/Javascript/Intermediate"
             },
             {
               "label": "Contributing Guide",
@@ -427,19 +422,6 @@ export default {
       }
     ]
   ],
-  "plugins": [
-    [
-      "C:\\Users\\samue\\Desktop\\All\\CSK\\reference\\node_modules\\@easyops-cn\\docusaurus-search-local\\dist\\server\\server\\index.js",
-      {
-        "hashed": true,
-        "language": [
-          "en"
-        ],
-        "highlightSearchTermsOnTargetPage": true,
-        "explicitSearchResultPath": true
-      }
-    ]
-  ],
   "baseUrlIssueBanner": true,
   "future": {
     "v4": {
@@ -468,6 +450,7 @@ export default {
     "static"
   ],
   "customFields": {},
+  "plugins": [],
   "themes": [],
   "scripts": [],
   "headTags": [],

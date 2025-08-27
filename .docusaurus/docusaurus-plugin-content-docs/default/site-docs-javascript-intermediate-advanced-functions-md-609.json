@@ -18,8 +18,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Fun Beginner Projects",
-    "permalink": "/reference/docs/Javascript/Beginner/projects"
+    "title": "Intermediate",
+    "permalink": "/reference/docs/Javascript/Intermediate"
   },
   "next": {
     "title": "DOM Manipulation",

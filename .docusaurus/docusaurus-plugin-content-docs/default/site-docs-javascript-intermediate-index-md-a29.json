@@ -1,21 +1,26 @@
 {
   "id": "Javascript/Intermediate/index",
-  "title": "index",
-  "description": "",
+  "title": "Intermediate",
+  "description": "Welcome back, JavaScript warrior! 🚀 You've conquered the basics—variables, functions, loops, and objects. Now it's time to level up with intermediate concepts that will transform you from a beginner into a confident developer ready to build real-world applications.",
   "source": "@site/docs/Javascript/Intermediate/index.md",
   "sourceDirName": "Javascript/Intermediate",
-  "slug": "/Javascript/Intermediate/",
-  "permalink": "/reference/docs/Javascript/Intermediate/",
+  "slug": "/Javascript/Intermediate",
+  "permalink": "/reference/docs/Javascript/Intermediate",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/Javascript/Intermediate/index.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Intermediate",
+    "slug": "/Javascript/Intermediate"
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Fun Beginner Projects",
-    "permalink": "/reference/docs/Javascript/Beginner/projects"
+    "title": "Getting Started",
+    "permalink": "/reference/docs/getting-started"
   },
   "next": {
     "title": "Advanced Functions",
