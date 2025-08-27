@@ -48,17 +48,17 @@
       "plugin": "plugin---reference-search-138-b5c"
     }
   },
-  "/reference/docs-15b": {
+  "/reference/docs-5b1": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---reference-docsaba-3e5"
     }
   },
-  "/reference/docs-c68": {
+  "/reference/docs-5c5": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---reference-docs-964-c0b"
   },
-  "/reference/docs-3e9": {
+  "/reference/docs-565": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/reference/docs/getting-started-a80": {
@@ -101,9 +101,49 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---reference-docs-javascript-beginner-variables-and-datatypes-8-f-5-a09"
   },
-  "/reference/docs/Javascript/Intermediate-9ab": {
+  "/reference/docs/Javascript/Intermediate/advanced-functions-d81": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-javascript-intermediatea-29-880"
+    "content": "content---reference-docs-javascript-intermediate-advanced-functions-609-444"
+  },
+  "/reference/docs/Javascript/Intermediate/async-javascript-a8e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---reference-docs-javascript-intermediate-async-javascriptbcd-07f"
+  },
+  "/reference/docs/Javascript/Intermediate/async-javascript/async-await-8d7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---reference-docs-javascript-intermediate-async-javascript-async-awaitbf-7-bba"
+  },
+  "/reference/docs/Javascript/Intermediate/async-javascript/asynchronous-operations-f30": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---reference-docs-javascript-intermediate-async-javascript-asynchronous-operationse-11-5de"
+  },
+  "/reference/docs/Javascript/Intermediate/async-javascript/callbacks-b77": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---reference-docs-javascript-intermediate-async-javascript-callbacks-2-a-7-62c"
+  },
+  "/reference/docs/Javascript/Intermediate/async-javascript/promises-5f4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---reference-docs-javascript-intermediate-async-javascript-promises-191-091"
+  },
+  "/reference/docs/Javascript/Intermediate/dom-manipulation-fc1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---reference-docs-javascript-intermediate-dom-manipulation-0-e-5-8ec"
+  },
+  "/reference/docs/Javascript/Intermediate/error-handling-649": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---reference-docs-javascript-intermediate-error-handling-376-532"
+  },
+  "/reference/docs/Javascript/Intermediate/es6-features-209": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---reference-docs-javascript-intermediate-es-6-features-2-d-7-65d"
+  },
+  "/reference/docs/Javascript/Intermediate/final-projects-791": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---reference-docs-javascript-intermediate-final-projectsc-38-105"
+  },
+  "/reference/docs/Javascript/Intermediate/json-apis-c42": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---reference-docs-javascript-intermediate-json-apis-5-f-9-130"
   },
   "/reference/docs/react-native/components-8b0": {
     "__comp": "__comp---theme-doc-item-178-a40",

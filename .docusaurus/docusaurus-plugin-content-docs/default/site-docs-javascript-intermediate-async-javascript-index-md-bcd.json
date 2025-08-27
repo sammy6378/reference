@@ -1,0 +1,28 @@
+{
+  "id": "Javascript/Intermediate/async-javascript/index",
+  "title": "Asynchronous Js",
+  "description": "Hey, time-traveling coder! ⏰ You've mastered DOM manipulation and ES6+ features—now it's time to conquer asynchronous JavaScript, the magic that lets your code handle tasks that take time, like fetching data, waiting for timers, or responding to user clicks without freezing the page. JavaScript is single-threaded (one task at a time), but async tricks make it feel multitasking!",
+  "source": "@site/docs/Javascript/Intermediate/async-javascript/index.md",
+  "sourceDirName": "Javascript/Intermediate/async-javascript",
+  "slug": "/Javascript/Intermediate/async-javascript/",
+  "permalink": "/reference/docs/Javascript/Intermediate/async-javascript/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/Javascript/Intermediate/async-javascript/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Asynchronous Js"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ES6+ Features",
+    "permalink": "/reference/docs/Javascript/Intermediate/es6-features"
+  },
+  "next": {
+    "title": "JS Callbacks",
+    "permalink": "/reference/docs/Javascript/Intermediate/async-javascript/callbacks"
+  }
+}

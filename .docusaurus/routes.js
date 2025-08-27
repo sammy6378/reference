@@ -44,15 +44,15 @@ export default [
   },
   {
     path: '/reference/docs',
-    component: ComponentCreator('/reference/docs', '15b'),
+    component: ComponentCreator('/reference/docs', '5b1'),
     routes: [
       {
         path: '/reference/docs',
-        component: ComponentCreator('/reference/docs', 'c68'),
+        component: ComponentCreator('/reference/docs', '5c5'),
         routes: [
           {
             path: '/reference/docs',
-            component: ComponentCreator('/reference/docs', '3e9'),
+            component: ComponentCreator('/reference/docs', '565'),
             routes: [
               {
                 path: '/reference/docs/getting-started',
@@ -115,8 +115,68 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/reference/docs/Javascript/Intermediate',
-                component: ComponentCreator('/reference/docs/Javascript/Intermediate', '9ab'),
+                path: '/reference/docs/Javascript/Intermediate/advanced-functions',
+                component: ComponentCreator('/reference/docs/Javascript/Intermediate/advanced-functions', 'd81'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/reference/docs/Javascript/Intermediate/async-javascript',
+                component: ComponentCreator('/reference/docs/Javascript/Intermediate/async-javascript', 'a8e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/reference/docs/Javascript/Intermediate/async-javascript/async-await',
+                component: ComponentCreator('/reference/docs/Javascript/Intermediate/async-javascript/async-await', '8d7'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/reference/docs/Javascript/Intermediate/async-javascript/asynchronous-operations',
+                component: ComponentCreator('/reference/docs/Javascript/Intermediate/async-javascript/asynchronous-operations', 'f30'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/reference/docs/Javascript/Intermediate/async-javascript/callbacks',
+                component: ComponentCreator('/reference/docs/Javascript/Intermediate/async-javascript/callbacks', 'b77'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/reference/docs/Javascript/Intermediate/async-javascript/promises',
+                component: ComponentCreator('/reference/docs/Javascript/Intermediate/async-javascript/promises', '5f4'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/reference/docs/Javascript/Intermediate/dom-manipulation',
+                component: ComponentCreator('/reference/docs/Javascript/Intermediate/dom-manipulation', 'fc1'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/reference/docs/Javascript/Intermediate/error-handling',
+                component: ComponentCreator('/reference/docs/Javascript/Intermediate/error-handling', '649'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/reference/docs/Javascript/Intermediate/es6-features',
+                component: ComponentCreator('/reference/docs/Javascript/Intermediate/es6-features', '209'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/reference/docs/Javascript/Intermediate/final-projects',
+                component: ComponentCreator('/reference/docs/Javascript/Intermediate/final-projects', '791'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/reference/docs/Javascript/Intermediate/json-apis',
+                component: ComponentCreator('/reference/docs/Javascript/Intermediate/json-apis', 'c42'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

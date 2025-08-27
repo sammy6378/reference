@@ -1,0 +1,28 @@
+{
+  "id": "Javascript/Intermediate/async-javascript/asynchronous-operations",
+  "title": "JS Asynchronous Operations",
+  "description": "Time to peek behind the curtain! ⏰ You've learned about callbacks, but how does JavaScript actually handle asynchronous operations? Let's explore timers, events, and the magical event loop that makes it all work. Understanding this will make you a better async programmer!",
+  "source": "@site/docs/Javascript/Intermediate/async-javascript/asynchronous-operations.md",
+  "sourceDirName": "Javascript/Intermediate/async-javascript",
+  "slug": "/Javascript/Intermediate/async-javascript/asynchronous-operations",
+  "permalink": "/reference/docs/Javascript/Intermediate/async-javascript/asynchronous-operations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/Javascript/Intermediate/async-javascript/asynchronous-operations.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "JS Asynchronous Operations"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JS Callbacks",
+    "permalink": "/reference/docs/Javascript/Intermediate/async-javascript/callbacks"
+  },
+  "next": {
+    "title": "JS Promises",
+    "permalink": "/reference/docs/Javascript/Intermediate/async-javascript/promises"
+  }
+}

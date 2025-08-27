@@ -1,7 +1,7 @@
 {
   "id": "Javascript/Intermediate/index",
-  "title": "Intermediate JavaScript",
-  "description": "Welcome to Intermediate JavaScript! 🎯",
+  "title": "index",
+  "description": "",
   "source": "@site/docs/Javascript/Intermediate/index.md",
   "sourceDirName": "Javascript/Intermediate",
   "slug": "/Javascript/Intermediate/",
@@ -11,18 +11,14 @@
   "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/Javascript/Intermediate/index.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 1,
-  "frontMatter": {
-    "sidebar_position": 1,
-    "title": "Intermediate JavaScript"
-  },
+  "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Getting Started",
-    "permalink": "/reference/docs/getting-started"
+    "title": "Fun Beginner Projects",
+    "permalink": "/reference/docs/Javascript/Beginner/projects"
   },
   "next": {
-    "title": "JavaScript Basics",
-    "permalink": "/reference/docs/Javascript/Beginner/introduction-to-javascript"
+    "title": "Advanced Functions",
+    "permalink": "/reference/docs/Javascript/Intermediate/advanced-functions"
   }
 }

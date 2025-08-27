@@ -1,7 +1,7 @@
 {
   "id": "Javascript/Advanced/index",
-  "title": "Advanced JavaScript",
-  "description": "Welcome to Advanced JavaScript! 🚀",
+  "title": "index",
+  "description": "",
   "source": "@site/docs/Javascript/Advanced/index.md",
   "sourceDirName": "Javascript/Advanced",
   "slug": "/Javascript/Advanced/",
@@ -11,18 +11,14 @@
   "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/Javascript/Advanced/index.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 1,
-  "frontMatter": {
-    "sidebar_position": 1,
-    "title": "Advanced JavaScript"
-  },
+  "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Getting Started",
     "permalink": "/reference/docs/getting-started"
   },
   "next": {
-    "title": "Intermediate JavaScript",
-    "permalink": "/reference/docs/Javascript/Intermediate/"
+    "title": "JavaScript Basics",
+    "permalink": "/reference/docs/Javascript/Beginner/introduction-to-javascript"
   }
 }

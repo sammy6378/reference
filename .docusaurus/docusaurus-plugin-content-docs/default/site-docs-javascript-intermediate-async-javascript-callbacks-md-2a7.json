@@ -1,0 +1,28 @@
+{
+  "id": "Javascript/Intermediate/async-javascript/callbacks",
+  "title": "JS Callbacks",
+  "description": "Welcome to the world of callbacks! 📞 You've actually used these before in our advanced functions section, but now we're diving deeper into their async superpowers. Callbacks are the OG way to handle tasks that take time—they're functions passed to other functions to run when something finishes (or fails).",
+  "source": "@site/docs/Javascript/Intermediate/async-javascript/callbacks.md",
+  "sourceDirName": "Javascript/Intermediate/async-javascript",
+  "slug": "/Javascript/Intermediate/async-javascript/callbacks",
+  "permalink": "/reference/docs/Javascript/Intermediate/async-javascript/callbacks",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/Javascript/Intermediate/async-javascript/callbacks.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "JS Callbacks"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Asynchronous Js",
+    "permalink": "/reference/docs/Javascript/Intermediate/async-javascript/"
+  },
+  "next": {
+    "title": "JS Asynchronous Operations",
+    "permalink": "/reference/docs/Javascript/Intermediate/async-javascript/asynchronous-operations"
+  }
+}

@@ -17,7 +17,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Intermediate JavaScript",
-    "permalink": "/reference/docs/Javascript/Intermediate/"
+    "title": "JavaScript Basics",
+    "permalink": "/reference/docs/Javascript/Beginner/introduction-to-javascript"
   }
 }

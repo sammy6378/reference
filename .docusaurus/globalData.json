@@ -61,8 +61,58 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Javascript/Intermediate/index",
-              "path": "/reference/docs/Javascript/Intermediate/",
+              "id": "Javascript/Intermediate/advanced-functions",
+              "path": "/reference/docs/Javascript/Intermediate/advanced-functions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Javascript/Intermediate/async-javascript/async-await",
+              "path": "/reference/docs/Javascript/Intermediate/async-javascript/async-await",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Javascript/Intermediate/async-javascript/asynchronous-operations",
+              "path": "/reference/docs/Javascript/Intermediate/async-javascript/asynchronous-operations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Javascript/Intermediate/async-javascript/callbacks",
+              "path": "/reference/docs/Javascript/Intermediate/async-javascript/callbacks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Javascript/Intermediate/async-javascript/index",
+              "path": "/reference/docs/Javascript/Intermediate/async-javascript/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Javascript/Intermediate/async-javascript/promises",
+              "path": "/reference/docs/Javascript/Intermediate/async-javascript/promises",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Javascript/Intermediate/dom-manipulation",
+              "path": "/reference/docs/Javascript/Intermediate/dom-manipulation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Javascript/Intermediate/error-handling",
+              "path": "/reference/docs/Javascript/Intermediate/error-handling",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Javascript/Intermediate/es6-features",
+              "path": "/reference/docs/Javascript/Intermediate/es6-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Javascript/Intermediate/final-projects",
+              "path": "/reference/docs/Javascript/Intermediate/final-projects",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Javascript/Intermediate/json-apis",
+              "path": "/reference/docs/Javascript/Intermediate/json-apis",
               "sidebar": "tutorialSidebar"
             },
             {
