@@ -18,8 +18,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Getting Started",
-    "permalink": "/reference/docs/getting-started"
+    "title": "JavaScript Beginner Guide",
+    "permalink": "/reference/docs/Javascript/Beginner/"
   },
   "next": {
     "title": "Variables and Data Types",

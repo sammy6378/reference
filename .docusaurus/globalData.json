@@ -16,6 +16,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Javascript/Advanced/index",
+              "path": "/reference/docs/Javascript/Advanced/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Javascript/Beginner/arrays",
               "path": "/reference/docs/Javascript/Beginner/arrays",
               "sidebar": "tutorialSidebar"
@@ -28,6 +33,11 @@
             {
               "id": "Javascript/Beginner/functions",
               "path": "/reference/docs/Javascript/Beginner/functions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Javascript/Beginner/index",
+              "path": "/reference/docs/Javascript/Beginner/",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -108,6 +118,11 @@
             {
               "id": "Javascript/Intermediate/final-projects",
               "path": "/reference/docs/Javascript/Intermediate/final-projects",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Javascript/Intermediate/index",
+              "path": "/reference/docs/Javascript/Intermediate/",
               "sidebar": "tutorialSidebar"
             },
             {

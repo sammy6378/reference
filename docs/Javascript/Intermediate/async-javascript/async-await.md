@@ -286,7 +286,7 @@ Try this mini-project to combine async concepts:
 
 ## What’s Next?
 
-You’re an async master, handling delays with callbacks, Promises, and async/await! Next, we’ll explore **JSON and APIs** to fetch and work with real-world data. Zoom to [JSON and APIs](./Javascript/json-apis) for the next adventure. You’re rocking this—keep it up! 💪
+You’re an async master, handling delays with callbacks, Promises, and async/await! Next, we’ll explore **JSON and APIs** to fetch and work with real-world data. Zoom to [JSON and APIs](../json-apis) for the next adventure. You’re rocking this—keep it up! 💪
 
 Questions? Check out our [GitHub Discussions](https://github.com/sammy6378/reference/discussions). Code on! ✨
 

@@ -1,5 +1,5 @@
 export const removeDefaultStemmer = false;
-export { default as Mark } from "C:\\Users\\samue\\Desktop\\All\\CSK\\reference\\node_modules\\mark.js\\dist\\mark.js"
+export { default as Mark } from "/home/runner/work/reference/reference/node_modules/mark.js/dist/mark.js"
 export const searchResultContextMaxLength = 50;
 export const explicitSearchResultPath = true;
 export const searchBarShortcut = true;

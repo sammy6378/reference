@@ -205,6 +205,6 @@ Play: Add more items, find one that’s not there, or skip an item in the loop.
 
 ## What's Next?
 
-Arrays are your data superstars—lists made easy! Next, we’ll tackle objects to store key-value data like a pro. Hop to [Objects](./Javascript/objects) and keep the vibe going. You’re killing it! 🚀
+Arrays are your data superstars—lists made easy! Next, we’ll tackle objects to store key-value data like a pro. Hop to [Objects](./objects) and keep the vibe going. You’re killing it! 🚀
 
 Got questions? Swing by our [GitHub Discussions](https://github.com/sammy6378/reference/discussions). Code on! ✨

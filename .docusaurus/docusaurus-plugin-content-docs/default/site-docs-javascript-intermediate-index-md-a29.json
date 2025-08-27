@@ -1,7 +1,7 @@
 {
   "id": "Javascript/Intermediate/index",
-  "title": "index",
-  "description": "",
+  "title": "Intermediate JavaScript",
+  "description": "Welcome to Intermediate JavaScript! You've mastered the basics, and now it's time to dive deeper into more advanced concepts that will make you a more effective JavaScript developer.",
   "source": "@site/docs/Javascript/Intermediate/index.md",
   "sourceDirName": "Javascript/Intermediate",
   "slug": "/Javascript/Intermediate/",

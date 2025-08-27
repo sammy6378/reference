@@ -3,60 +3,37 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/reference/__docusaurus/debug',
-    component: ComponentCreator('/reference/__docusaurus/debug', '696'),
-    exact: true
-  },
-  {
-    path: '/reference/__docusaurus/debug/config',
-    component: ComponentCreator('/reference/__docusaurus/debug/config', '6ab'),
-    exact: true
-  },
-  {
-    path: '/reference/__docusaurus/debug/content',
-    component: ComponentCreator('/reference/__docusaurus/debug/content', 'd1e'),
-    exact: true
-  },
-  {
-    path: '/reference/__docusaurus/debug/globalData',
-    component: ComponentCreator('/reference/__docusaurus/debug/globalData', 'ec2'),
-    exact: true
-  },
-  {
-    path: '/reference/__docusaurus/debug/metadata',
-    component: ComponentCreator('/reference/__docusaurus/debug/metadata', 'ee5'),
-    exact: true
-  },
-  {
-    path: '/reference/__docusaurus/debug/registry',
-    component: ComponentCreator('/reference/__docusaurus/debug/registry', '39f'),
-    exact: true
-  },
-  {
-    path: '/reference/__docusaurus/debug/routes',
-    component: ComponentCreator('/reference/__docusaurus/debug/routes', '6bd'),
-    exact: true
-  },
-  {
     path: '/reference/search',
     component: ComponentCreator('/reference/search', '083'),
     exact: true
   },
   {
     path: '/reference/docs',
-    component: ComponentCreator('/reference/docs', '5b1'),
+    component: ComponentCreator('/reference/docs', '4e8'),
     routes: [
       {
         path: '/reference/docs',
-        component: ComponentCreator('/reference/docs', '5c5'),
+        component: ComponentCreator('/reference/docs', '0d0'),
         routes: [
           {
             path: '/reference/docs',
-            component: ComponentCreator('/reference/docs', '565'),
+            component: ComponentCreator('/reference/docs', 'bab'),
             routes: [
               {
                 path: '/reference/docs/getting-started',
                 component: ComponentCreator('/reference/docs/getting-started', 'a80'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/reference/docs/Javascript/Advanced',
+                component: ComponentCreator('/reference/docs/Javascript/Advanced', '690'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/reference/docs/Javascript/Beginner',
+                component: ComponentCreator('/reference/docs/Javascript/Beginner', '845'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -111,6 +88,12 @@ export default [
               {
                 path: '/reference/docs/Javascript/Beginner/variables-and-datatypes',
                 component: ComponentCreator('/reference/docs/Javascript/Beginner/variables-and-datatypes', '5fe'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/reference/docs/Javascript/Intermediate',
+                component: ComponentCreator('/reference/docs/Javascript/Intermediate', '9ab'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

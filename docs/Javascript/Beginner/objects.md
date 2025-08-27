@@ -157,6 +157,6 @@ Play: Add a new property, use a method with `this`, or try bracket notation with
 
 ## What's Next?
 
-Objects are your data superheroes, organizing everything neatly! You’ve now got the beginner basics down—variables, loops, functions, arrays, and objects. Time to put it all together with some fun projects! Jump to [Beginner Projects](./Javascript/projects) to build a Digital Dice Roller, Random Joke Generator, and Simple Calculator. You’re ready to create—let’s do this! 🎉
+Objects are your data superheroes, organizing everything neatly! You’ve now got the beginner basics down—variables, loops, functions, arrays, and objects. Time to put it all together with some fun projects! Jump to [Beginner Projects](./projects) to build a Digital Dice Roller, Random Joke Generator, and Simple Calculator. You’re ready to create—let’s do this! 🎉
 
 Questions? Hit up our [GitHub Discussions](https://github.com/sammy6378/reference/discussions). Keep shining! ✨

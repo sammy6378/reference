@@ -198,6 +198,6 @@ Play around: Add a default to `subtract`, or make an arrow to check if a number 
 
 ## What's Next?
 
-Functions are your code’s superpowers—reusable and awesome! Next, we’ll tackle arrays to store lists of data. Dash to [Arrays](./Javascript/arrays) to keep rocking it. You’re coding like a pro—keep shining! 💥
+Functions are your code’s superpowers—reusable and awesome! Next, we’ll tackle arrays to store lists of data. Dash to [Arrays](./arrays) to keep rocking it. You’re coding like a pro—keep shining! 💥
 
 Got questions? Pop over to our [GitHub Discussions](https://github.com/sammy6378/reference/discussions). Code away! 🚀
