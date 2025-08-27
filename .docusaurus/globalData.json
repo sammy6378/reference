@@ -36,6 +36,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Javascript/Beginner/index",
+              "path": "/reference/docs/Javascript/Beginner/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Javascript/Beginner/introduction-to-javascript",
               "path": "/reference/docs/Javascript/Beginner/introduction-to-javascript",
               "sidebar": "tutorialSidebar"

@@ -1,0 +1,24 @@
+{
+  "id": "Javascript/Beginner/index",
+  "title": "JavaScript Beginner Guide",
+  "description": "Welcome to JavaScript! 🎉 You're about to embark on an exciting journey into the world's most popular programming language. Whether you're completely new to coding or coming from another language, this beginner-friendly guide will get you coding like a pro in no time!",
+  "source": "@site/docs/Javascript/Beginner/index.md",
+  "sourceDirName": "Javascript/Beginner",
+  "slug": "/Javascript/Beginner/",
+  "permalink": "/reference/docs/Javascript/Beginner/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/Javascript/Beginner/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Advanced JavaScript Topics",
+    "permalink": "/reference/docs/Javascript/Advanced/"
+  },
+  "next": {
+    "title": "JavaScript Basics",
+    "permalink": "/reference/docs/Javascript/Beginner/introduction-to-javascript"
+  }
+}

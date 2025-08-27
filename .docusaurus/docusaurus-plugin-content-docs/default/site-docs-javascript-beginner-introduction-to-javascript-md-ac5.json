@@ -18,8 +18,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Advanced JavaScript Topics",
-    "permalink": "/reference/docs/Javascript/Advanced/"
+    "title": "JavaScript Beginner Guide",
+    "permalink": "/reference/docs/Javascript/Beginner/"
   },
   "next": {
     "title": "Variables and Data Types",

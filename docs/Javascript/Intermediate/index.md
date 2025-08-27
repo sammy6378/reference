@@ -7,17 +7,17 @@ Welcome to Intermediate JavaScript! You've mastered the basics, and now it's tim
 In this section, we'll cover essential intermediate topics including:
 
 ### Core Concepts
-- **[Advanced Functions](advanced-functions)** - Arrow functions, closures, and higher-order functions
-- **[ES6+ Features](es6-features)** - Modern JavaScript syntax and features
-- **[DOM Manipulation](dom-manipulation)** - Interacting with web pages dynamically
+- **[Advanced Functions](/docs/Javascript/Intermediate/advanced-functions)** - Arrow functions, closures, and higher-order functions
+- **[ES6+ Features](/docs/Javascript/Intermediate/es6-features)** - Modern JavaScript syntax and features
+- **[DOM Manipulation](/docs/Javascript/Intermediate/dom-manipulation)** - Interacting with web pages dynamically
 
 ### Asynchronous Programming
-- **[Asynchronous JavaScript](async-javascript)** - Master callbacks, promises, and async/await
-- **[JSON and APIs](json-apis)** - Working with data from external sources
-- **[Error Handling](error-handling)** - Building robust, error-resistant code
+- **[Asynchronous JavaScript](/docs/Javascript/Intermediate/async-javascript)** - Master callbacks, promises, and async/await
+- **[JSON and APIs](/docs/Javascript/Intermediate/json-apis)** - Working with data from external sources
+- **[Error Handling](/docs/Javascript/Intermediate/error-handling)** - Building robust, error-resistant code
 
 ### Projects
-- **[Final Projects](final-projects)** - Put your skills to practice with real-world projects
+- **[Final Projects](/docs/Javascript/Intermediate/final-projects)** - Put your skills to practice with real-world projects
 
 ## Prerequisites
 
@@ -42,7 +42,7 @@ We recommend following the topics in this order:
 
 If you have questions or get stuck:
 - Check our [GitHub Discussions](https://github.com/sammy6378/reference/discussions)
-- Review the [Beginner Section](../Beginner) if you need to refresh basics
-- Jump to [Advanced Topics](../Advanced) when you're ready for the next level
+- Review the [Beginner Section](/docs/Javascript/Beginner) if you need to refresh basics
+- Jump to [Advanced Topics](/docs/Javascript/Advanced) when you're ready for the next level
 
 Let's build something amazing! 🚀

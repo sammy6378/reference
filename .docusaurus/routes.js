@@ -9,15 +9,15 @@ export default [
   },
   {
     path: '/reference/docs',
-    component: ComponentCreator('/reference/docs', '40a'),
+    component: ComponentCreator('/reference/docs', '4e8'),
     routes: [
       {
         path: '/reference/docs',
-        component: ComponentCreator('/reference/docs', '9eb'),
+        component: ComponentCreator('/reference/docs', '0d0'),
         routes: [
           {
             path: '/reference/docs',
-            component: ComponentCreator('/reference/docs', '342'),
+            component: ComponentCreator('/reference/docs', 'bab'),
             routes: [
               {
                 path: '/reference/docs/getting-started',
@@ -28,6 +28,12 @@ export default [
               {
                 path: '/reference/docs/Javascript/Advanced',
                 component: ComponentCreator('/reference/docs/Javascript/Advanced', '690'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/reference/docs/Javascript/Beginner',
+                component: ComponentCreator('/reference/docs/Javascript/Beginner', '845'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

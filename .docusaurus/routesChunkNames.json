@@ -5,17 +5,17 @@
       "plugin": "138e0e15"
     }
   },
-  "/reference/docs-40a": {
+  "/reference/docs-4e8": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/reference/docs-9eb": {
+  "/reference/docs-0d0": {
     "__comp": "a7bd4aaa",
     "__props": "9641e80f"
   },
-  "/reference/docs-342": {
+  "/reference/docs-bab": {
     "__comp": "a94703ab"
   },
   "/reference/docs/getting-started-a80": {
@@ -25,6 +25,10 @@
   "/reference/docs/Javascript/Advanced-690": {
     "__comp": "17896441",
     "content": "c500bc4d"
+  },
+  "/reference/docs/Javascript/Beginner-845": {
+    "__comp": "17896441",
+    "content": "ca0b2db0"
   },
   "/reference/docs/Javascript/Beginner/arrays-740": {
     "__comp": "17896441",

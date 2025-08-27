@@ -11,10 +11,10 @@ In this section, we'll explore the evolution of async JavaScript through four ke
 
 ## What You'll Learn 🚀
 
-1. **[Callbacks](./callbacks)** - The original async pioneers and how to use them effectively
-2. **[Asynchronous Operations](./asynchronous-operations)** - Understanding timers, events, and the event loop
-3. **[Promises](./promises)** - A cleaner path to handling async operations
-4. **[Async/Await](./async-await)** - The modern, readable approach to async code
+1. **[Callbacks](/docs/Javascript/Intermediate/async-javascript/callbacks)** - The original async pioneers and how to use them effectively
+2. **[Asynchronous Operations](/docs/Javascript/Intermediate/async-javascript/asynchronous-operations)** - Understanding timers, events, and the event loop
+3. **[Promises](/docs/Javascript/Intermediate/async-javascript/promises)** - A cleaner path to handling async operations
+4. **[Async/Await](/docs/Javascript/Intermediate/async-javascript/async-await)** - The modern, readable approach to async code
 
 ## Why Async Matters 🎯
 
@@ -24,7 +24,7 @@ JavaScript runs on a single thread, but the world isn't synchronous. Users click
 
 We'll start with the foundations (callbacks and async operations), then progress to modern solutions (Promises and async/await). Each concept builds on the previous, so by the end, you'll understand not just how to write async code, but why each approach exists and when to use it.
 
-Ready to dive in? Let's start with [Callbacks](./callbacks) and work our way up to async mastery! 💪
+Ready to dive in? Let's start with [Callbacks](/docs/Javascript/Intermediate/async-javascript/callbacks) and work our way up to async mastery! 💪
 
 :::tip Learning Path
 Follow the sections in order—each builds on concepts from the previous ones. Don't worry if it feels complex at first; async programming is one of JavaScript's trickier topics, but you've got this! 🌟

@@ -13,7 +13,7 @@ export default {
   "projectName": "reference",
   "deploymentBranch": "gh-pages",
   "trailingSlash": false,
-  "onBrokenLinks": "warn",
+  "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
     "defaultLocale": "en",
