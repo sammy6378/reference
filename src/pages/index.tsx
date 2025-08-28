@@ -135,10 +135,10 @@ const Home = () => {
                   </span>
                 </button>
 
-                <button className="btn-secondary" onClick={handleWatchDemo}>
+                {/* <button className="btn-secondary" onClick={handleWatchDemo}>
                   <Play className="mr-2 w-5 h-5 transition-transform" />
                   Watch Demo
-                </button>
+                </button> */}
               </div>
 
               {/* Technology Tabs */}
