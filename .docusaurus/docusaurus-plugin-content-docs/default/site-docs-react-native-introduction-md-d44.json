@@ -1,0 +1,24 @@
+{
+  "id": "react-native/introduction",
+  "title": "introduction",
+  "description": "",
+  "source": "@site/docs/react-native/introduction.md",
+  "sourceDirName": "react-native",
+  "slug": "/react-native/introduction",
+  "permalink": "/docs/react-native/introduction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/react-native/introduction.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "React Native Components",
+    "permalink": "/docs/react-native/components"
+  },
+  "next": {
+    "title": "React Native Setup",
+    "permalink": "/docs/react-native/setup"
+  }
+}

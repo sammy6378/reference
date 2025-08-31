@@ -5,7 +5,7 @@
   "source": "@site/docs/getting-started.md",
   "sourceDirName": ".",
   "slug": "/getting-started",
-  "permalink": "/reference/docs/getting-started",
+  "permalink": "/docs/getting-started",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/getting-started.md",
@@ -18,6 +18,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "JavaScript",
-    "permalink": "/reference/docs/category/javascript"
+    "permalink": "/docs/category/javascript"
   }
 }

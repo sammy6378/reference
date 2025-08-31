@@ -7,8 +7,8 @@ export default {
   "title": "JS, TS & React Native Docs",
   "tagline": "Documentation for JavaScript, TypeScript, and React Native",
   "url": "https://sammy6378.github.io",
-  "baseUrl": "/reference/",
-  "favicon": "img/favicon.ico",
+  "baseUrl": "/",
+  "favicon": "/img/favicon.ico",
   "organizationName": "sammy6378",
   "projectName": "reference",
   "deploymentBranch": "gh-pages",
@@ -417,7 +417,7 @@ export default {
           "editUrl": "https://github.com/sammy6378/reference/tree/main/"
         },
         "theme": {
-          "customCss": "C:\\Users\\samue\\Desktop\\All\\CSK\\reference\\src\\css\\custom.css"
+          "customCss": "C:\\Users\\jeff-Arribion\\Desktop\\SAM-CONTRIBUTION\\reference\\src\\css\\custom.css"
         }
       }
     ]

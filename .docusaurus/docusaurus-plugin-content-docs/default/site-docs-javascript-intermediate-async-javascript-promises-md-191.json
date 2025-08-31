@@ -5,7 +5,7 @@
   "source": "@site/docs/Javascript/Intermediate/async-javascript/promises.md",
   "sourceDirName": "Javascript/Intermediate/async-javascript",
   "slug": "/Javascript/Intermediate/async-javascript/promises",
-  "permalink": "/reference/docs/Javascript/Intermediate/async-javascript/promises",
+  "permalink": "/docs/Javascript/Intermediate/async-javascript/promises",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/Javascript/Intermediate/async-javascript/promises.md",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "JS Asynchronous Operations",
-    "permalink": "/reference/docs/Javascript/Intermediate/async-javascript/asynchronous-operations"
+    "permalink": "/docs/Javascript/Intermediate/async-javascript/asynchronous-operations"
   },
   "next": {
     "title": "Asynchronous JavaScript",
-    "permalink": "/reference/docs/Javascript/Intermediate/async-javascript/async-await"
+    "permalink": "/docs/Javascript/Intermediate/async-javascript/async-await"
   }
 }

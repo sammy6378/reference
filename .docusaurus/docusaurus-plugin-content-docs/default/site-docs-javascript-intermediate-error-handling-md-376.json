@@ -5,7 +5,7 @@
   "source": "@site/docs/Javascript/Intermediate/error-handling.md",
   "sourceDirName": "Javascript/Intermediate",
   "slug": "/Javascript/Intermediate/error-handling",
-  "permalink": "/reference/docs/Javascript/Intermediate/error-handling",
+  "permalink": "/docs/Javascript/Intermediate/error-handling",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/Javascript/Intermediate/error-handling.md",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "JSON and APIs",
-    "permalink": "/reference/docs/Javascript/Intermediate/json-apis"
+    "permalink": "/docs/Javascript/Intermediate/json-apis"
   },
   "next": {
     "title": "Final Projects",
-    "permalink": "/reference/docs/Javascript/Intermediate/final-projects"
+    "permalink": "/docs/Javascript/Intermediate/final-projects"
   }
 }

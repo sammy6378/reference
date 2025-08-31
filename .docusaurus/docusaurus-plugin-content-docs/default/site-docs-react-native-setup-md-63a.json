@@ -5,7 +5,7 @@
   "source": "@site/docs/react-native/setup.md",
   "sourceDirName": "react-native",
   "slug": "/react-native/setup",
-  "permalink": "/reference/docs/react-native/setup",
+  "permalink": "/docs/react-native/setup",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/react-native/setup.md",
@@ -14,7 +14,7 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "React Native Components",
-    "permalink": "/reference/docs/react-native/components"
+    "title": "Core Components and APIs",
+    "permalink": "/docs/react-native/components"
   }
 }

@@ -5,7 +5,7 @@
   "source": "@site/docs/Javascript/Beginner/functions.md",
   "sourceDirName": "Javascript/Beginner",
   "slug": "/Javascript/Beginner/functions",
-  "permalink": "/reference/docs/Javascript/Beginner/functions",
+  "permalink": "/docs/Javascript/Beginner/functions",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/Javascript/Beginner/functions.md",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Loops",
-    "permalink": "/reference/docs/Javascript/Beginner/loops"
+    "permalink": "/docs/Javascript/Beginner/loops"
   },
   "next": {
     "title": "Arrays",
-    "permalink": "/reference/docs/Javascript/Beginner/arrays"
+    "permalink": "/docs/Javascript/Beginner/arrays"
   }
 }

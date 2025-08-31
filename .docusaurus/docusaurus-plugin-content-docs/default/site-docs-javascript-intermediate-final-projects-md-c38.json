@@ -5,7 +5,7 @@
   "source": "@site/docs/Javascript/Intermediate/final-projects.md",
   "sourceDirName": "Javascript/Intermediate",
   "slug": "/Javascript/Intermediate/final-projects",
-  "permalink": "/reference/docs/Javascript/Intermediate/final-projects",
+  "permalink": "/docs/Javascript/Intermediate/final-projects",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/Javascript/Intermediate/final-projects.md",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Error Handling",
-    "permalink": "/reference/docs/Javascript/Intermediate/error-handling"
+    "permalink": "/docs/Javascript/Intermediate/error-handling"
   },
   "next": {
     "title": "patterns",
-    "permalink": "/reference/docs/React/patterns"
+    "permalink": "/docs/React/patterns"
   }
 }

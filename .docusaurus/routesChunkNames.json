@@ -1,185 +1,189 @@
 {
-  "/reference/__docusaurus/debug-696": {
+  "/__docusaurus/debug-5ff": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---reference-docusaurus-debugb-38-950"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/reference/__docusaurus/debug/config-6ab": {
+  "/__docusaurus/debug/config-5ba": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---reference-docusaurus-debugb-38-950"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/reference/__docusaurus/debug/content-d1e": {
+  "/__docusaurus/debug/content-a2b": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---reference-docusaurus-debugb-38-950"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     },
-    "__props": "__props---reference-docusaurus-debug-contentcba-e16"
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
   },
-  "/reference/__docusaurus/debug/globalData-ec2": {
+  "/__docusaurus/debug/globalData-c3c": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---reference-docusaurus-debugb-38-950"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/reference/__docusaurus/debug/metadata-ee5": {
+  "/__docusaurus/debug/metadata-156": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---reference-docusaurus-debugb-38-950"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/reference/__docusaurus/debug/registry-39f": {
+  "/__docusaurus/debug/registry-88c": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---reference-docusaurus-debugb-38-950"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/reference/__docusaurus/debug/routes-6bd": {
+  "/__docusaurus/debug/routes-000": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---reference-docusaurus-debugb-38-950"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/reference/docs-12a": {
+  "/docs-0eb": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "plugin---reference-docsaba-3e5"
+      "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/reference/docs-300": {
+  "/docs-f00": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---reference-docs-964-c0b"
+    "__props": "__props---docs-005-788"
   },
-  "/reference/docs-853": {
+  "/docs-bee": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/reference/docs/category/beginner-89a": {
+  "/docs/category/beginner-616": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---reference-docs-category-beginner-631-54a"
+    "__props": "__props---docs-category-beginner-521-554"
   },
-  "/reference/docs/category/intermediate-72a": {
+  "/docs/category/intermediate-d33": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---reference-docs-category-intermediate-88-a-029"
+    "__props": "__props---docs-category-intermediate-72-b-1b6"
   },
-  "/reference/docs/category/javascript-fdc": {
+  "/docs/category/javascript-59a": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---reference-docs-category-javascripte-00-a54"
+    "__props": "__props---docs-category-javascriptf-63-c6b"
   },
-  "/reference/docs/getting-started-a80": {
+  "/docs/getting-started-2a1": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-getting-startedd-58-9cb"
+    "content": "content---docs-getting-startedd-58-f94"
   },
-  "/reference/docs/Javascript/Beginner/arrays-740": {
+  "/docs/Javascript/Beginner/arrays-1a2": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-javascript-beginner-arraysa-03-b2a"
+    "content": "content---docs-javascript-beginner-arraysa-03-8a2"
   },
-  "/reference/docs/Javascript/Beginner/control-structures-fb5": {
+  "/docs/Javascript/Beginner/control-structures-8df": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-javascript-beginner-control-structures-26-f-0aa"
+    "content": "content---docs-javascript-beginner-control-structures-26-f-754"
   },
-  "/reference/docs/Javascript/Beginner/functions-798": {
+  "/docs/Javascript/Beginner/functions-18d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-javascript-beginner-functions-988-1c7"
+    "content": "content---docs-javascript-beginner-functions-988-0cd"
   },
-  "/reference/docs/Javascript/Beginner/introduction-to-javascript-5f7": {
+  "/docs/Javascript/Beginner/introduction-to-javascript-1db": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-javascript-beginner-introduction-to-javascriptac-5-f4c"
+    "content": "content---docs-javascript-beginner-introduction-to-javascriptac-5-fe3"
   },
-  "/reference/docs/Javascript/Beginner/loops-78f": {
+  "/docs/Javascript/Beginner/loops-179": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-javascript-beginner-loops-69-a-262"
+    "content": "content---docs-javascript-beginner-loops-69-a-635"
   },
-  "/reference/docs/Javascript/Beginner/objects-a09": {
+  "/docs/Javascript/Beginner/objects-27e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-javascript-beginner-objects-2-d-1-cf6"
+    "content": "content---docs-javascript-beginner-objects-2-d-1-e53"
   },
-  "/reference/docs/Javascript/Beginner/operators-5cb": {
+  "/docs/Javascript/Beginner/operators-49f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-javascript-beginner-operators-34-d-de5"
+    "content": "content---docs-javascript-beginner-operators-34-d-5b8"
   },
-  "/reference/docs/Javascript/Beginner/projects-cc7": {
+  "/docs/Javascript/Beginner/projects-df7": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-javascript-beginner-projectsbfb-6f6"
+    "content": "content---docs-javascript-beginner-projectsbfb-109"
   },
-  "/reference/docs/Javascript/Beginner/variables-and-datatypes-5fe": {
+  "/docs/Javascript/Beginner/variables-and-datatypes-628": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-javascript-beginner-variables-and-datatypes-8-f-5-a09"
+    "content": "content---docs-javascript-beginner-variables-and-datatypes-8-f-5-252"
   },
-  "/reference/docs/Javascript/Intermediate/advanced-functions-d81": {
+  "/docs/Javascript/Intermediate/advanced-functions-4cc": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-javascript-intermediate-advanced-functions-609-444"
+    "content": "content---docs-javascript-intermediate-advanced-functions-609-912"
   },
-  "/reference/docs/Javascript/Intermediate/async-javascript-a8e": {
+  "/docs/Javascript/Intermediate/async-javascript-b07": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-javascript-intermediate-async-javascriptbcd-07f"
+    "content": "content---docs-javascript-intermediate-async-javascriptbcd-1d3"
   },
-  "/reference/docs/Javascript/Intermediate/async-javascript/async-await-8d7": {
+  "/docs/Javascript/Intermediate/async-javascript/async-await-0c0": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-javascript-intermediate-async-javascript-async-awaitbf-7-bba"
+    "content": "content---docs-javascript-intermediate-async-javascript-async-awaitbf-7-e67"
   },
-  "/reference/docs/Javascript/Intermediate/async-javascript/asynchronous-operations-f30": {
+  "/docs/Javascript/Intermediate/async-javascript/asynchronous-operations-1c2": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-javascript-intermediate-async-javascript-asynchronous-operationse-11-5de"
+    "content": "content---docs-javascript-intermediate-async-javascript-asynchronous-operationse-11-57c"
   },
-  "/reference/docs/Javascript/Intermediate/async-javascript/callbacks-b77": {
+  "/docs/Javascript/Intermediate/async-javascript/callbacks-1c0": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-javascript-intermediate-async-javascript-callbacks-2-a-7-62c"
+    "content": "content---docs-javascript-intermediate-async-javascript-callbacks-2-a-7-bfc"
   },
-  "/reference/docs/Javascript/Intermediate/async-javascript/promises-5f4": {
+  "/docs/Javascript/Intermediate/async-javascript/promises-17c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-javascript-intermediate-async-javascript-promises-191-091"
+    "content": "content---docs-javascript-intermediate-async-javascript-promises-191-710"
   },
-  "/reference/docs/Javascript/Intermediate/dom-manipulation-fc1": {
+  "/docs/Javascript/Intermediate/dom-manipulation-78d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-javascript-intermediate-dom-manipulation-0-e-5-8ec"
+    "content": "content---docs-javascript-intermediate-dom-manipulation-0-e-5-620"
   },
-  "/reference/docs/Javascript/Intermediate/error-handling-649": {
+  "/docs/Javascript/Intermediate/error-handling-138": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-javascript-intermediate-error-handling-376-532"
+    "content": "content---docs-javascript-intermediate-error-handling-376-53e"
   },
-  "/reference/docs/Javascript/Intermediate/es6-features-209": {
+  "/docs/Javascript/Intermediate/es6-features-fb5": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-javascript-intermediate-es-6-features-2-d-7-65d"
+    "content": "content---docs-javascript-intermediate-es-6-features-2-d-7-b84"
   },
-  "/reference/docs/Javascript/Intermediate/final-projects-791": {
+  "/docs/Javascript/Intermediate/final-projects-331": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-javascript-intermediate-final-projectsc-38-105"
+    "content": "content---docs-javascript-intermediate-final-projectsc-38-34e"
   },
-  "/reference/docs/Javascript/Intermediate/json-apis-c42": {
+  "/docs/Javascript/Intermediate/json-apis-041": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-javascript-intermediate-json-apis-5-f-9-130"
+    "content": "content---docs-javascript-intermediate-json-apis-5-f-9-28f"
   },
-  "/reference/docs/react-native/components-8b0": {
+  "/docs/react-native/components-c89": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-react-native-components-6-ec-954"
+    "content": "content---docs-react-native-components-6-ec-384"
   },
-  "/reference/docs/react-native/setup-b56": {
+  "/docs/react-native/Introduction-226": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-react-native-setup-63-a-bb4"
+    "content": "content---docs-react-native-introductiond-50-dde"
   },
-  "/reference/docs/React/patterns-347": {
+  "/docs/react-native/setup-e36": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-react-patterns-968-fef"
+    "content": "content---docs-react-native-setup-63-a-5d1"
   },
-  "/reference/docs/React/setup-898": {
+  "/docs/React/patterns-e63": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-react-setup-1-b-1-012"
+    "content": "content---docs-react-patterns-968-6d4"
   },
-  "/reference/docs/Typescript/intro-c78": {
+  "/docs/React/setup-37e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-typescript-intro-18-d-60a"
+    "content": "content---docs-react-setup-1-b-1-3cc"
   },
-  "/reference/docs/Typescript/tips-e8d": {
+  "/docs/Typescript/intro-9e4": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-typescript-tips-9-b-2-d1f"
+    "content": "content---docs-typescript-intro-18-d-dc8"
   },
-  "/reference/-a57": {
+  "/docs/Typescript/tips-ba8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-typescript-tips-9-b-2-1f5"
+  },
+  "/-e5f": {
     "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
     "__context": {
-      "plugin": "plugin---reference-a-74-6fd"
+      "plugin": "plugin---a-74-9d6"
     },
-    "config": "config---reference-5-e-9-d1b"
+    "config": "config---5-e-9-4f3"
   }
 }
