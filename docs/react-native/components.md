@@ -14,8 +14,38 @@ React Native provides a number of built-in Core Components ready for you to use 
 ### View and Text
 
 **View** The most fundamental component for building a UI. 
+A container for other components, similar to a `<div>` in HTML.
+
+```bash
+import { View } from 'react-native';
+
+<View style={{ padding: 20, backgroundColor: 'lightblue' }}>
+  {/* Child components go here */}
+</View>
+```
 
 **Text:** A component for displaying text.
+Allows user input via keyboard.
+
+
+```bash
+import { Text } from 'react-native';
+
+<Text style={{ fontSize: 18 }}>Hello, world!</Text>
+```
+
+Props
+
+- numberOfLines: Limits lines of text.
+- ellipsizeMode: Controls how text is truncated.
+
+```bash
+<Text numberOfLines={1} ellipsizeMode="tail">
+  This is a very long sentence that will be truncated.
+</Text>
+```
+
+#### More code sample
 
 ```jsx
 import React from 'react';
@@ -48,12 +78,27 @@ const styles = StyleSheet.create({
   },
 });
 ```
+### Pressable
 
-### Button and TouchableOpacity
+- onPress: Triggered when pressed.
+- onLongPress: Triggered on long press.
+- disabled: Disables interaction.
+- android_ripple: Adds ripple effect on Android.
+
+```jsx
+<Pressable
+  onPress={() => alert('Pressed')}
+  android_ripple={{ color: 'gray' }}
+>
+  <Text>Tap Me</Text>
+</Pressable>
+```
+
+### TouchableOpacity
 
 ```jsx
 import React from 'react';
-import { View, Text, Button, TouchableOpacity, Alert } from 'react-native';
+import { View, Text, TouchableOpacity, Alert } from 'react-native';
 
 const ButtonExample = () => {
   const handlePress = () => {
@@ -62,7 +107,6 @@ const ButtonExample = () => {
 
   return (
     <View style={{ padding: 20 }}>
-      <Button title="Press Me" onPress={handlePress} />
       
       <TouchableOpacity 
         style={styles.customButton}
@@ -70,6 +114,7 @@ const ButtonExample = () => {
       >
         <Text style={styles.buttonText}>Custom Button</Text>
       </TouchableOpacity>
+
     </View>
   );
 };
@@ -93,6 +138,24 @@ const styles = StyleSheet.create({
 ### TextInput
 
 **TextInput:** A component for inputting text into the app via a keyboard.
+
+props
+
+- value: Controlled input value.
+- onChangeText: Callback when text changes.
+- placeholder: Hint text.
+- secureTextEntry: Hides input (e.g., for passwords).
+- keyboardType: Type of keyboard (numeric, email-address, etc
+
+```jsx
+<TextInput
+  value={name}
+  onChangeText={setName}
+  placeholder="Enter your name"
+  secureTextEntry={false}
+  keyboardType="default"
+/>
+```
 
 ```jsx
 import React, { useState } from 'react';
@@ -126,9 +189,83 @@ const styles = StyleSheet.create({
 });
 ```
 
+### Image
+
+Renders an image from a URL or local file.
+
+props
+
+- source: Required. URI or local image.
+- resizeMode: How image scales (cover, contain, etc.).
+- onLoad, onError: Event handlers.
+
+```bash
+import { Image } from 'react-native';
+
+<Image
+  source={{ uri: 'https://example.com/image.png' }}
+  style={{ width: 100, height: 100 }}
+  resizeMode="contain"
+  onLoad={() => console.log('Image loaded')}
+/>
+```
+
+### ScrowView
+
+- horizontal: Enables horizontal scrolling.
+- showsVerticalScrollIndicator: Show/hide scroll bar.
+- onScroll: Scroll event handler.
+
+```jsx
+<ScrollView horizontal showsVerticalScrollIndicator={false}>
+  <Text>Scrollable content</Text>
+</ScrollView>
+```
+
+### StyleSheet
+
+Defines styles for components.
+
+```bash
+import { StyleSheet } from 'react-native';
+
+const styles = StyleSheet.create({
+  container: {
+    padding: 20,
+    backgroundColor: 'white',
+  },
+```
 ## Lists Views
 
 ### FlatList
+
+Efficiently renders large lists.
+
+props
+
+- data: Array of items.
+- renderItem: Function to render each item.
+- keyExtractor: Unique key for each item.
+- horizontal, numColumns: Layout options.
+
+```bash
+<FlatList
+  data={[{ id: '1', name: 'Item 1' }]}
+  renderItem={({ item }) => <Text>{item.name}</Text>}
+  keyExtractor={item => item.id}
+/>
+```
+
+```jsx
+import { FlatList, Text } from 'react-native';
+
+const data = [{ key: 'Item 1' }, { key: 'Item 2' }];
+
+<FlatList
+  data={data}
+  renderItem={({ item }) => <Text>{item.key}</Text>}
+/>
+```
 
 ```jsx
 import React from 'react';
@@ -167,7 +304,37 @@ const styles = StyleSheet.create({
 
 ### SectionList
 
+Renders grouped data with section headers.
 Like FlatList, but for sectioned lists.
+
+- sections: Array of sections.
+- renderItem: Render each item.
+- renderSectionHeader: Render section header.
+- keyExtractor: Unique key.
+
+```bash
+<SectionList
+  sections={[{ title: 'Fruits', data: ['Apple', 'Banana'] }]}
+  renderItem={({ item }) => <Text>{item}</Text>}
+  renderSectionHeader={({ section }) => <Text>{section.title}</Text>}
+  keyExtractor={(item, index) => index.toString()}
+/>
+```
+
+```jsx
+import { SectionList, Text } from 'react-native';
+
+const sections = [
+  { title: 'Fruits', data: ['Apple', 'Banana'] },
+  { title: 'Vegetables', data: ['Carrot', 'Spinach'] },
+];
+
+<SectionList
+  sections={sections}
+  renderItem={({ item }) => <Text>{item}</Text>}
+  renderSectionHeader={({ section }) => <Text style={{ fontWeight: 'bold' }}>{section.title}</Text>}
+/>
+```
 
 ## User interface
 
@@ -176,6 +343,11 @@ These common user interface controls will render on any platform.
 ### Button
 
 A basic button component for handling touches that should render nicely on any platform.
+
+- title: Button label.
+- onPress: Action on tap.
+- disabled: Disable button.
+- color: Button color (Android only).
 
 ```jsx
 import React from 'react';
@@ -214,7 +386,33 @@ const styles = StyleSheet.create({
 
 ### Switch
 
-Renders a boolean input  -- toggle on or off 
+Renders a boolean input. Toggle between on/off  state
+
+- value: Boolean state.
+- onValueChange: Callback when toggled.
+- disabled: Disable switch.
+- trackColor, thumbColor: Custom colors.
+
+```bash
+<Switch
+  value={isEnabled}
+  onValueChange={setIsEnabled}
+  trackColor={{ false: 'gray', true: 'green' }}
+  thumbColor={isEnabled ? 'white' : 'black'}
+/>
+```
+
+```jsx
+import { Switch } from 'react-native';
+import { useState } from 'react';
+
+const [isEnabled, setIsEnabled] = useState(false);
+
+<Switch
+  value={isEnabled}
+  onValueChange={setIsEnabled}
+/>
+```
 
 
 ## Android-Specific
@@ -223,19 +421,63 @@ Many of the following components provide wrappers for commonly used Android clas
 
 ### BackHandler
 
-Detect hardware button presses for back navigation.
+Detect hardware button presses for back navigation and
+Handles it.
+
+```jsx
+import { BackHandler } from 'react-native';
+
+BackHandler.addEventListener('hardwareBackPress', () => {
+  alert('Back button pressed!');
+  return true;
+});
+```
 
 ### DrawerLayoutAndroid
 
-Renders a DrawerLayout on Android.
+Renders a DrawerLayout on Android or simply
+Implements drawer navigation.
+
+```jsx
+import { DrawerLayoutAndroid, Text } from 'react-native';
+
+<DrawerLayoutAndroid
+  drawerWidth={300}
+  drawerPosition="left"
+  renderNavigationView={() => <Text>Drawer Content</Text>}
+>
+  <Text>Main Content</Text>
+</DrawerLayoutAndroid>
+```
 
 ### PermissionsAndroid 
 
 Provides access to the permissions model introduced in Android M.
+Requests runtime permissions.
+
+```jsx
+import { PermissionsAndroid } from 'react-native';
+
+const requestCameraPermission = async () => {
+  const granted = await PermissionsAndroid.request(
+    PermissionsAndroid.PERMISSIONS.CAMERA
+  );
+  if (granted === PermissionsAndroid.RESULTS.GRANTED) {
+    alert('Camera permission granted');
+  }
+};
+```
 
 ### ToastAndroid
 
 Create an Android Toast alert.
+Displays native toast messages.
+
+```jsx
+import { ToastAndroid } from 'react-native';
+
+ToastAndroid.show('Hello from Android!', ToastAndroid.SHORT);
+```
 
 ## iOS-Specific
 
