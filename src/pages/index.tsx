@@ -201,7 +201,7 @@ const Home = () => {
               ))}
             </div>
           </div>
-        </section> */}
+        </section>*/}
 
         {/* Features Section */}
         <section className="features-section">
