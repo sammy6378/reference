@@ -5,7 +5,7 @@
   "source": "@site/docs/Javascript/Intermediate/dom-manipulation.md",
   "sourceDirName": "Javascript/Intermediate",
   "slug": "/Javascript/Intermediate/dom-manipulation",
-  "permalink": "/reference/docs/Javascript/Intermediate/dom-manipulation",
+  "permalink": "/docs/Javascript/Intermediate/dom-manipulation",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/Javascript/Intermediate/dom-manipulation.md",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Advanced Functions",
-    "permalink": "/reference/docs/Javascript/Intermediate/advanced-functions"
+    "permalink": "/docs/Javascript/Intermediate/advanced-functions"
   },
   "next": {
     "title": "ES6+ Features",
-    "permalink": "/reference/docs/Javascript/Intermediate/es6-features"
+    "permalink": "/docs/Javascript/Intermediate/es6-features"
   }
 }

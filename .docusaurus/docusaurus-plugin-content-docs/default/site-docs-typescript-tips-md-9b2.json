@@ -5,7 +5,7 @@
   "source": "@site/docs/Typescript/tips.md",
   "sourceDirName": "Typescript",
   "slug": "/Typescript/tips",
-  "permalink": "/reference/docs/Typescript/tips",
+  "permalink": "/docs/Typescript/tips",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/Typescript/tips.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "TypeScript Introduction",
-    "permalink": "/reference/docs/Typescript/intro"
+    "permalink": "/docs/Typescript/intro"
   },
   "next": {
-    "title": "React Native Components",
-    "permalink": "/reference/docs/react-native/components"
+    "title": "Introduction to React Native",
+    "permalink": "/docs/react-native/Introduction/"
   }
 }

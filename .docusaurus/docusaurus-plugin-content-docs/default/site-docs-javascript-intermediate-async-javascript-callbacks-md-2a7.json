@@ -5,7 +5,7 @@
   "source": "@site/docs/Javascript/Intermediate/async-javascript/callbacks.md",
   "sourceDirName": "Javascript/Intermediate/async-javascript",
   "slug": "/Javascript/Intermediate/async-javascript/callbacks",
-  "permalink": "/reference/docs/Javascript/Intermediate/async-javascript/callbacks",
+  "permalink": "/docs/Javascript/Intermediate/async-javascript/callbacks",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/Javascript/Intermediate/async-javascript/callbacks.md",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Asynchronous Js",
-    "permalink": "/reference/docs/Javascript/Intermediate/async-javascript/"
+    "permalink": "/docs/Javascript/Intermediate/async-javascript/"
   },
   "next": {
     "title": "JS Asynchronous Operations",
-    "permalink": "/reference/docs/Javascript/Intermediate/async-javascript/asynchronous-operations"
+    "permalink": "/docs/Javascript/Intermediate/async-javascript/asynchronous-operations"
   }
 }

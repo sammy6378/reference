@@ -5,7 +5,7 @@
   "source": "@site/docs/Javascript/Beginner/operators.md",
   "sourceDirName": "Javascript/Beginner",
   "slug": "/Javascript/Beginner/operators",
-  "permalink": "/reference/docs/Javascript/Beginner/operators",
+  "permalink": "/docs/Javascript/Beginner/operators",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/Javascript/Beginner/operators.md",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Variables and Data Types",
-    "permalink": "/reference/docs/Javascript/Beginner/variables-and-datatypes"
+    "permalink": "/docs/Javascript/Beginner/variables-and-datatypes"
   },
   "next": {
     "title": "Control Structures",
-    "permalink": "/reference/docs/Javascript/Beginner/control-structures"
+    "permalink": "/docs/Javascript/Beginner/control-structures"
   }
 }

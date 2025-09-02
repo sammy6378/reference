@@ -1,11 +1,11 @@
 {
   "id": "react-native/components",
-  "title": "React Native Components",
-  "description": "Basic Components",
+  "title": "Core Components and APIs",
+  "description": "React Native provides a number of built-in Core Components ready for you to use in your app. You can find them all in the left sidebar (or menu above, if you are on a narrow screen). If you're not sure where to get started, take a look at the following categories:",
   "source": "@site/docs/react-native/components.md",
   "sourceDirName": "react-native",
   "slug": "/react-native/components",
-  "permalink": "/reference/docs/react-native/components",
+  "permalink": "/docs/react-native/components",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/react-native/components.md",
@@ -14,11 +14,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "TypeScript Tips & Best Practices",
-    "permalink": "/reference/docs/Typescript/tips"
+    "title": "Introduction to React Native",
+    "permalink": "/docs/react-native/Introduction/"
   },
   "next": {
     "title": "React Native Setup",
-    "permalink": "/reference/docs/react-native/setup"
+    "permalink": "/docs/react-native/setup"
   }
 }

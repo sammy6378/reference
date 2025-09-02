@@ -5,7 +5,7 @@
   "source": "@site/docs/React/patterns.md",
   "sourceDirName": "React",
   "slug": "/React/patterns",
-  "permalink": "/reference/docs/React/patterns",
+  "permalink": "/docs/React/patterns",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/React/patterns.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Final Projects",
-    "permalink": "/reference/docs/Javascript/Intermediate/final-projects"
+    "permalink": "/docs/Javascript/Intermediate/final-projects"
   },
   "next": {
     "title": "setup",
-    "permalink": "/reference/docs/React/setup"
+    "permalink": "/docs/React/setup"
   }
 }

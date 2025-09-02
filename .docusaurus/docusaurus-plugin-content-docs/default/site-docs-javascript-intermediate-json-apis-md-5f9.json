@@ -5,7 +5,7 @@
   "source": "@site/docs/Javascript/Intermediate/json-apis.md",
   "sourceDirName": "Javascript/Intermediate",
   "slug": "/Javascript/Intermediate/json-apis",
-  "permalink": "/reference/docs/Javascript/Intermediate/json-apis",
+  "permalink": "/docs/Javascript/Intermediate/json-apis",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/Javascript/Intermediate/json-apis.md",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Asynchronous JavaScript",
-    "permalink": "/reference/docs/Javascript/Intermediate/async-javascript/async-await"
+    "permalink": "/docs/Javascript/Intermediate/async-javascript/async-await"
   },
   "next": {
     "title": "Error Handling",
-    "permalink": "/reference/docs/Javascript/Intermediate/error-handling"
+    "permalink": "/docs/Javascript/Intermediate/error-handling"
   }
 }
