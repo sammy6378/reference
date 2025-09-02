@@ -1,4 +1,7 @@
 node_modules
 build
 .env
-.docusaurus
+# Ignore docusaurus generated cache
+.docusaurus/
+dist/
+
