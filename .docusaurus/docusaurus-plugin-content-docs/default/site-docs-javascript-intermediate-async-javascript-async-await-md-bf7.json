@@ -5,7 +5,7 @@
   "source": "@site/docs/Javascript/Intermediate/async-javascript/async-await.md",
   "sourceDirName": "Javascript/Intermediate/async-javascript",
   "slug": "/Javascript/Intermediate/async-javascript/async-await",
-  "permalink": "/reference/docs/Javascript/Intermediate/async-javascript/async-await",
+  "permalink": "/docs/Javascript/Intermediate/async-javascript/async-await",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/Javascript/Intermediate/async-javascript/async-await.md",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "JS Promises",
-    "permalink": "/reference/docs/Javascript/Intermediate/async-javascript/promises"
+    "permalink": "/docs/Javascript/Intermediate/async-javascript/promises"
   },
   "next": {
     "title": "JSON and APIs",
-    "permalink": "/reference/docs/Javascript/Intermediate/json-apis"
+    "permalink": "/docs/Javascript/Intermediate/json-apis"
   }
 }

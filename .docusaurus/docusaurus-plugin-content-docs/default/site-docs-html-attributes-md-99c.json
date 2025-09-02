@@ -1,0 +1,28 @@
+{
+  "id": "HTML/attributes",
+  "title": "HTML Attributes",
+  "description": "Awesome! Now let’s make your elements more powerful with attributes. Attributes add extra information to elements—like giving your car a color or your phone a ringtone.",
+  "source": "@site/docs/HTML/attributes.md",
+  "sourceDirName": "HTML",
+  "slug": "/HTML/attributes",
+  "permalink": "/docs/HTML/attributes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/HTML/attributes.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "HTML Attributes",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "HTML Elements",
+    "permalink": "/docs/HTML/elements"
+  },
+  "next": {
+    "title": "Forms & Input Types",
+    "permalink": "/docs/HTML/forms-and-input-types"
+  }
+}

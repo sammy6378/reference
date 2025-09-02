@@ -1,0 +1,28 @@
+{
+  "id": "CSS/introduction-to-css",
+  "title": "Introduction to CSS",
+  "description": "Welcome, style wizard! 🎨 Now that you know HTML, it’s time to make your web pages beautiful with CSS (Cascading Style Sheets). If HTML is the structure of your house, CSS is the paint, wallpaper, and decorations that make it shine.",
+  "source": "@site/docs/CSS/introduction-to-css.md",
+  "sourceDirName": "CSS",
+  "slug": "/CSS/introduction-to-css",
+  "permalink": "/docs/CSS/introduction-to-css",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/CSS/introduction-to-css.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Introduction to CSS",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Accessibility & SEO Basics",
+    "permalink": "/docs/HTML/accessibility-seo"
+  },
+  "next": {
+    "title": "Selectors & Properties",
+    "permalink": "/docs/CSS/selectors-and-properties"
+  }
+}

@@ -5,7 +5,7 @@
   "source": "@site/docs/Javascript/Beginner/loops.md",
   "sourceDirName": "Javascript/Beginner",
   "slug": "/Javascript/Beginner/loops",
-  "permalink": "/reference/docs/Javascript/Beginner/loops",
+  "permalink": "/docs/Javascript/Beginner/loops",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/Javascript/Beginner/loops.md",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Control Structures",
-    "permalink": "/reference/docs/Javascript/Beginner/control-structures"
+    "permalink": "/docs/Javascript/Beginner/control-structures"
   },
   "next": {
     "title": "Functions",
-    "permalink": "/reference/docs/Javascript/Beginner/functions"
+    "permalink": "/docs/Javascript/Beginner/functions"
   }
 }

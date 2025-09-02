@@ -5,7 +5,7 @@
   "source": "@site/docs/Javascript/Beginner/objects.md",
   "sourceDirName": "Javascript/Beginner",
   "slug": "/Javascript/Beginner/objects",
-  "permalink": "/reference/docs/Javascript/Beginner/objects",
+  "permalink": "/docs/Javascript/Beginner/objects",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/Javascript/Beginner/objects.md",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Arrays",
-    "permalink": "/reference/docs/Javascript/Beginner/arrays"
+    "permalink": "/docs/Javascript/Beginner/arrays"
   },
   "next": {
     "title": "Fun Beginner Projects",
-    "permalink": "/reference/docs/Javascript/Beginner/projects"
+    "permalink": "/docs/Javascript/Beginner/projects"
   }
 }

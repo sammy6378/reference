@@ -1,0 +1,28 @@
+{
+  "id": "HTML/forms",
+  "title": "HTML Forms",
+  "description": "You’re doing great! Now, let’s learn how to collect information from users with forms. Forms are how websites get input—like sign-ups, searches, or feedback.",
+  "source": "@site/docs/HTML/forms.md",
+  "sourceDirName": "HTML",
+  "slug": "/HTML/forms",
+  "permalink": "/docs/HTML/forms",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/HTML/forms.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "HTML Forms",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Forms & Input Types",
+    "permalink": "/docs/HTML/forms-and-input-types"
+  },
+  "next": {
+    "title": "Semantic HTML",
+    "permalink": "/docs/HTML/semantic-html"
+  }
+}

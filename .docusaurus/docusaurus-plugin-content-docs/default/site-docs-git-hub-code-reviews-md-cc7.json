@@ -1,0 +1,24 @@
+{
+  "id": "GitHub/code-reviews",
+  "title": "Code Reviews",
+  "description": "Code reviews let team members check each other's work before merging changes. This helps catch bugs, improve code quality, and share knowledge.",
+  "source": "@site/docs/GitHub/code-reviews.md",
+  "sourceDirName": "GitHub",
+  "slug": "/GitHub/code-reviews",
+  "permalink": "/docs/GitHub/code-reviews",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/GitHub/code-reviews.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Best Practices",
+    "permalink": "/docs/GitHub/best-practices"
+  },
+  "next": {
+    "title": "Collaboration on GitHub",
+    "permalink": "/docs/GitHub/collaboration"
+  }
+}

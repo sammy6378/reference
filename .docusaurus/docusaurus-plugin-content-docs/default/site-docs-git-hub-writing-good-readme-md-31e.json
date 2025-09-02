@@ -1,0 +1,24 @@
+{
+  "id": "GitHub/writing-good-readme",
+  "title": "Writing Good README Files",
+  "description": "A good README helps others understand and use your project. Include:",
+  "source": "@site/docs/GitHub/writing-good-readme.md",
+  "sourceDirName": "GitHub",
+  "slug": "/GitHub/writing-good-readme",
+  "permalink": "/docs/GitHub/writing-good-readme",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/GitHub/writing-good-readme.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "What are Workflows?",
+    "permalink": "/docs/GitHub/workflows"
+  },
+  "next": {
+    "title": "JavaScript",
+    "permalink": "/docs/category/javascript"
+  }
+}

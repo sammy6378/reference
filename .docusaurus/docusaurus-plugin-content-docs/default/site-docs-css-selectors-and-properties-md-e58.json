@@ -1,0 +1,28 @@
+{
+  "id": "CSS/selectors-and-properties",
+  "title": "Selectors & Properties",
+  "description": "Selectors are how you target HTML elements to style them. Properties are what you change (like color, font, size).",
+  "source": "@site/docs/CSS/selectors-and-properties.md",
+  "sourceDirName": "CSS",
+  "slug": "/CSS/selectors-and-properties",
+  "permalink": "/docs/CSS/selectors-and-properties",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/CSS/selectors-and-properties.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Selectors & Properties",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to CSS",
+    "permalink": "/docs/CSS/introduction-to-css"
+  },
+  "next": {
+    "title": "CSS Selectors",
+    "permalink": "/docs/CSS/selectors"
+  }
+}

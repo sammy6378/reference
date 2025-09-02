@@ -1,0 +1,24 @@
+{
+  "id": "GitHub/introduction",
+  "title": "Introduction to GitHub",
+  "description": "GitHub is a web-based platform that helps developers store, manage, and collaborate on code. It uses Git, a version control system, to track changes and enable teamwork. With GitHub, you can work on projects with others, contribute to open source, and showcase your work to the world.",
+  "source": "@site/docs/GitHub/introduction.md",
+  "sourceDirName": "GitHub",
+  "slug": "/GitHub/introduction",
+  "permalink": "/docs/GitHub/introduction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/GitHub/introduction.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Hosting a Static Website on GitHub Pages",
+    "permalink": "/docs/GitHub/hosting-github-pages"
+  },
+  "next": {
+    "title": "Issues & Discussions",
+    "permalink": "/docs/GitHub/issues-discussions"
+  }
+}

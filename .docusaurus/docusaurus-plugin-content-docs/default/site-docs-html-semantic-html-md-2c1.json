@@ -1,0 +1,28 @@
+{
+  "id": "HTML/semantic-html",
+  "title": "Semantic HTML",
+  "description": "Let’s make your pages meaningful! Semantic HTML uses tags that describe their purpose, making your code easier to read and better for accessibility and SEO.",
+  "source": "@site/docs/HTML/semantic-html.md",
+  "sourceDirName": "HTML",
+  "slug": "/HTML/semantic-html",
+  "permalink": "/docs/HTML/semantic-html",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/HTML/semantic-html.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Semantic HTML",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "HTML Forms",
+    "permalink": "/docs/HTML/forms"
+  },
+  "next": {
+    "title": "Media (Images, Audio, Video, Iframes)",
+    "permalink": "/docs/HTML/media"
+  }
+}

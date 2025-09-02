@@ -1,0 +1,24 @@
+{
+  "id": "GitHub/uploading-project",
+  "title": "Uploading a Project to GitHub",
+  "description": "To upload (push) your project to GitHub:",
+  "source": "@site/docs/GitHub/uploading-project.md",
+  "sourceDirName": "GitHub",
+  "slug": "/GitHub/uploading-project",
+  "permalink": "/docs/GitHub/uploading-project",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/GitHub/uploading-project.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Protecting Branches",
+    "permalink": "/docs/GitHub/protecting-branches"
+  },
+  "next": {
+    "title": "What is GitHub & Why Use It?",
+    "permalink": "/docs/GitHub/what-is-github"
+  }
+}

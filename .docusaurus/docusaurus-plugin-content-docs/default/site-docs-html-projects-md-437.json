@@ -1,0 +1,28 @@
+{
+  "id": "HTML/projects",
+  "title": "HTML Projects",
+  "description": "Congratulations! 🎉 You’ve learned the basics of HTML. Now it’s time to practice with some fun projects.",
+  "source": "@site/docs/HTML/projects.md",
+  "sourceDirName": "HTML",
+  "slug": "/HTML/projects",
+  "permalink": "/docs/HTML/projects",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/HTML/projects.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "HTML Projects",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Media (Images, Audio, Video, Iframes)",
+    "permalink": "/docs/HTML/media"
+  },
+  "next": {
+    "title": "Accessibility & SEO Basics",
+    "permalink": "/docs/HTML/accessibility-seo"
+  }
+}

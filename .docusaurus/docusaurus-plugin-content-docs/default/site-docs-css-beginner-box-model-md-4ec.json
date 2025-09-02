@@ -1,0 +1,28 @@
+{
+  "id": "CSS/Beginner/box-model",
+  "title": "CSS Box Model",
+  "description": "Awesome! Now, let’s understand how every element is a box. The box model is the secret to spacing, borders, and layout.",
+  "source": "@site/docs/CSS/Beginner/box-model.md",
+  "sourceDirName": "CSS/Beginner",
+  "slug": "/CSS/Beginner/box-model",
+  "permalink": "/docs/CSS/Beginner/box-model",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/CSS/Beginner/box-model.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "CSS Box Model",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CSS Selectors",
+    "permalink": "/docs/CSS/Beginner/selectors"
+  },
+  "next": {
+    "title": "CSS Layout",
+    "permalink": "/docs/CSS/Beginner/layout"
+  }
+}

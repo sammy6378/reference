@@ -1,163 +1,358 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/reference/docs",
+      "path": "/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/reference/docs",
+          "path": "/docs",
           "mainDocId": "getting-started",
           "docs": [
             {
+              "id": "CSS/box-model",
+              "path": "/docs/CSS/box-model",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CSS/introduction-to-css",
+              "path": "/docs/CSS/introduction-to-css",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CSS/layout",
+              "path": "/docs/CSS/layout",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CSS/layout-techniques",
+              "path": "/docs/CSS/layout-techniques",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CSS/projects",
+              "path": "/docs/CSS/projects",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CSS/selectors",
+              "path": "/docs/CSS/selectors",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CSS/selectors-and-properties",
+              "path": "/docs/CSS/selectors-and-properties",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "getting-started",
-              "path": "/reference/docs/getting-started",
+              "path": "/docs/getting-started",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Git/basic-commands",
+              "path": "/docs/Git/basic-commands",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Git/branching",
+              "path": "/docs/Git/branching",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Git/github-workflow",
+              "path": "/docs/Git/github-workflow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Git/introduction-to-git",
+              "path": "/docs/Git/introduction-to-git",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Git/projects",
+              "path": "/docs/Git/projects",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "GitHub/actions-cicd",
+              "path": "/docs/GitHub/actions-cicd",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "GitHub/best-practices",
+              "path": "/docs/GitHub/best-practices",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "GitHub/code-reviews",
+              "path": "/docs/GitHub/code-reviews",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "GitHub/collaboration",
+              "path": "/docs/GitHub/collaboration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "GitHub/creating-cloning-repos",
+              "path": "/docs/GitHub/creating-cloning-repos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "GitHub/example-auto-deploy",
+              "path": "/docs/GitHub/example-auto-deploy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "GitHub/git-clone",
+              "path": "/docs/GitHub/git-clone",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "GitHub/hosting-github-pages",
+              "path": "/docs/GitHub/hosting-github-pages",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "GitHub/introduction",
+              "path": "/docs/GitHub/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "GitHub/issues-discussions",
+              "path": "/docs/GitHub/issues-discussions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "GitHub/pages",
+              "path": "/docs/GitHub/pages",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "GitHub/projects-kanban",
+              "path": "/docs/GitHub/projects-kanban",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "GitHub/protecting-branches",
+              "path": "/docs/GitHub/protecting-branches",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "GitHub/uploading-project",
+              "path": "/docs/GitHub/uploading-project",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "GitHub/what-is-github",
+              "path": "/docs/GitHub/what-is-github",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "GitHub/workflows",
+              "path": "/docs/GitHub/workflows",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "GitHub/writing-good-readme",
+              "path": "/docs/GitHub/writing-good-readme",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "HTML/accessibility-seo",
+              "path": "/docs/HTML/accessibility-seo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "HTML/attributes",
+              "path": "/docs/HTML/attributes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "HTML/elements",
+              "path": "/docs/HTML/elements",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "HTML/elements-and-attributes",
+              "path": "/docs/HTML/elements-and-attributes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "HTML/forms",
+              "path": "/docs/HTML/forms",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "HTML/forms-and-input-types",
+              "path": "/docs/HTML/forms-and-input-types",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "HTML/introduction-to-html",
+              "path": "/docs/HTML/introduction-to-html",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "HTML/media",
+              "path": "/docs/HTML/media",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "HTML/projects",
+              "path": "/docs/HTML/projects",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "HTML/semantic-html",
+              "path": "/docs/HTML/semantic-html",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Javascript/Beginner/arrays",
-              "path": "/reference/docs/Javascript/Beginner/arrays",
+              "path": "/docs/Javascript/Beginner/arrays",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Javascript/Beginner/control-structures",
-              "path": "/reference/docs/Javascript/Beginner/control-structures",
+              "path": "/docs/Javascript/Beginner/control-structures",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Javascript/Beginner/functions",
-              "path": "/reference/docs/Javascript/Beginner/functions",
+              "path": "/docs/Javascript/Beginner/functions",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Javascript/Beginner/introduction-to-javascript",
-              "path": "/reference/docs/Javascript/Beginner/introduction-to-javascript",
+              "path": "/docs/Javascript/Beginner/introduction-to-javascript",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Javascript/Beginner/loops",
-              "path": "/reference/docs/Javascript/Beginner/loops",
+              "path": "/docs/Javascript/Beginner/loops",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Javascript/Beginner/objects",
-              "path": "/reference/docs/Javascript/Beginner/objects",
+              "path": "/docs/Javascript/Beginner/objects",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Javascript/Beginner/operators",
-              "path": "/reference/docs/Javascript/Beginner/operators",
+              "path": "/docs/Javascript/Beginner/operators",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Javascript/Beginner/projects",
-              "path": "/reference/docs/Javascript/Beginner/projects",
+              "path": "/docs/Javascript/Beginner/projects",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Javascript/Beginner/variables-and-datatypes",
-              "path": "/reference/docs/Javascript/Beginner/variables-and-datatypes",
+              "path": "/docs/Javascript/Beginner/variables-and-datatypes",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Javascript/Intermediate/advanced-functions",
-              "path": "/reference/docs/Javascript/Intermediate/advanced-functions",
+              "path": "/docs/Javascript/Intermediate/advanced-functions",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Javascript/Intermediate/async-javascript/async-await",
-              "path": "/reference/docs/Javascript/Intermediate/async-javascript/async-await",
+              "path": "/docs/Javascript/Intermediate/async-javascript/async-await",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Javascript/Intermediate/async-javascript/asynchronous-operations",
-              "path": "/reference/docs/Javascript/Intermediate/async-javascript/asynchronous-operations",
+              "path": "/docs/Javascript/Intermediate/async-javascript/asynchronous-operations",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Javascript/Intermediate/async-javascript/callbacks",
-              "path": "/reference/docs/Javascript/Intermediate/async-javascript/callbacks",
+              "path": "/docs/Javascript/Intermediate/async-javascript/callbacks",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Javascript/Intermediate/async-javascript/index",
-              "path": "/reference/docs/Javascript/Intermediate/async-javascript/",
+              "path": "/docs/Javascript/Intermediate/async-javascript/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Javascript/Intermediate/async-javascript/promises",
-              "path": "/reference/docs/Javascript/Intermediate/async-javascript/promises",
+              "path": "/docs/Javascript/Intermediate/async-javascript/promises",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Javascript/Intermediate/dom-manipulation",
-              "path": "/reference/docs/Javascript/Intermediate/dom-manipulation",
+              "path": "/docs/Javascript/Intermediate/dom-manipulation",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Javascript/Intermediate/error-handling",
-              "path": "/reference/docs/Javascript/Intermediate/error-handling",
+              "path": "/docs/Javascript/Intermediate/error-handling",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Javascript/Intermediate/es6-features",
-              "path": "/reference/docs/Javascript/Intermediate/es6-features",
+              "path": "/docs/Javascript/Intermediate/es6-features",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Javascript/Intermediate/final-projects",
-              "path": "/reference/docs/Javascript/Intermediate/final-projects",
+              "path": "/docs/Javascript/Intermediate/final-projects",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Javascript/Intermediate/json-apis",
-              "path": "/reference/docs/Javascript/Intermediate/json-apis",
+              "path": "/docs/Javascript/Intermediate/json-apis",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "react-native/components",
-              "path": "/reference/docs/react-native/components",
+              "path": "/docs/react-native/components",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "react-native/setup",
-              "path": "/reference/docs/react-native/setup",
+              "path": "/docs/react-native/setup",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "React/patterns",
-              "path": "/reference/docs/React/patterns",
+              "path": "/docs/React/patterns",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "React/setup",
-              "path": "/reference/docs/React/setup",
+              "path": "/docs/React/setup",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Typescript/intro",
-              "path": "/reference/docs/Typescript/intro",
+              "path": "/docs/Typescript/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Typescript/tips",
-              "path": "/reference/docs/Typescript/tips",
+              "path": "/docs/Typescript/tips",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/javascript",
-              "path": "/reference/docs/category/javascript",
+              "path": "/docs/category/javascript",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/beginner",
-              "path": "/reference/docs/category/beginner",
+              "path": "/docs/category/beginner",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/intermediate",
-              "path": "/reference/docs/category/intermediate",
+              "path": "/docs/category/intermediate",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -165,7 +360,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/reference/docs/getting-started",
+                "path": "/docs/getting-started",
                 "label": "getting-started"
               }
             }

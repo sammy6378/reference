@@ -1,0 +1,28 @@
+{
+  "id": "CSS/Beginner/projects",
+  "title": "CSS Projects",
+  "description": "Congratulations! 🎉 You’ve learned the basics of CSS. Now it’s time to practice with some fun projects.",
+  "source": "@site/docs/CSS/Beginner/projects.md",
+  "sourceDirName": "CSS/Beginner",
+  "slug": "/CSS/Beginner/projects",
+  "permalink": "/docs/CSS/Beginner/projects",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/CSS/Beginner/projects.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "CSS Projects",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CSS Layout",
+    "permalink": "/docs/CSS/Beginner/layout"
+  },
+  "next": {
+    "title": "Introduction to Git",
+    "permalink": "/docs/Git/Beginner/introduction-to-git"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "GitHub/collaboration",
+  "title": "Collaboration on GitHub",
+  "description": "GitHub makes it easy to work with others. Common collaboration features include:",
+  "source": "@site/docs/GitHub/collaboration.md",
+  "sourceDirName": "GitHub",
+  "slug": "/GitHub/collaboration",
+  "permalink": "/docs/GitHub/collaboration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/GitHub/collaboration.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Code Reviews",
+    "permalink": "/docs/GitHub/code-reviews"
+  },
+  "next": {
+    "title": "Creating & Cloning Repositories",
+    "permalink": "/docs/GitHub/creating-cloning-repos"
+  }
+}

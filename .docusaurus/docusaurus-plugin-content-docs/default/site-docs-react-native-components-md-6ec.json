@@ -5,7 +5,7 @@
   "source": "@site/docs/react-native/components.md",
   "sourceDirName": "react-native",
   "slug": "/react-native/components",
-  "permalink": "/reference/docs/react-native/components",
+  "permalink": "/docs/react-native/components",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/react-native/components.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "TypeScript Tips & Best Practices",
-    "permalink": "/reference/docs/Typescript/tips"
+    "permalink": "/docs/Typescript/tips"
   },
   "next": {
     "title": "React Native Setup",
-    "permalink": "/reference/docs/react-native/setup"
+    "permalink": "/docs/react-native/setup"
   }
 }

@@ -5,7 +5,7 @@
   "source": "@site/docs/Javascript/Beginner/introduction-to-javascript.md",
   "sourceDirName": "Javascript/Beginner",
   "slug": "/Javascript/Beginner/introduction-to-javascript",
-  "permalink": "/reference/docs/Javascript/Beginner/introduction-to-javascript",
+  "permalink": "/docs/Javascript/Beginner/introduction-to-javascript",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/Javascript/Beginner/introduction-to-javascript.md",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Beginner",
-    "permalink": "/reference/docs/category/beginner"
+    "permalink": "/docs/category/beginner"
   },
   "next": {
     "title": "Variables and Data Types",
-    "permalink": "/reference/docs/Javascript/Beginner/variables-and-datatypes"
+    "permalink": "/docs/Javascript/Beginner/variables-and-datatypes"
   }
 }

@@ -1,0 +1,28 @@
+{
+  "id": "HTML/accessibility-seo",
+  "title": "Accessibility & SEO Basics",
+  "description": "Make your site usable for everyone and easy to find! Accessibility means everyone—including people with disabilities—can use your site. SEO (Search Engine Optimization) helps your site show up in search results.",
+  "source": "@site/docs/HTML/accessibility-seo.md",
+  "sourceDirName": "HTML",
+  "slug": "/HTML/accessibility-seo",
+  "permalink": "/docs/HTML/accessibility-seo",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/HTML/accessibility-seo.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Accessibility & SEO Basics",
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "HTML Projects",
+    "permalink": "/docs/HTML/projects"
+  },
+  "next": {
+    "title": "Introduction to CSS",
+    "permalink": "/docs/CSS/introduction-to-css"
+  }
+}

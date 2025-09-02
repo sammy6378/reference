@@ -1,0 +1,28 @@
+{
+  "id": "HTML/elements-and-attributes",
+  "title": "Elements & Attributes",
+  "description": "Great job starting your HTML journey! 🏗️ Now, let’s talk about elements and attributes—the building blocks of every web page.",
+  "source": "@site/docs/HTML/elements-and-attributes.md",
+  "sourceDirName": "HTML",
+  "slug": "/HTML/elements-and-attributes",
+  "permalink": "/docs/HTML/elements-and-attributes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/HTML/elements-and-attributes.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Elements & Attributes",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to HTML",
+    "permalink": "/docs/HTML/introduction-to-html"
+  },
+  "next": {
+    "title": "HTML Elements",
+    "permalink": "/docs/HTML/elements"
+  }
+}

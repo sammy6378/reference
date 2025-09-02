@@ -1,0 +1,28 @@
+{
+  "id": "HTML/Beginner/projects",
+  "title": "HTML Projects",
+  "description": "Congratulations! 🎉 You’ve learned the basics of HTML. Now it’s time to practice with some fun projects.",
+  "source": "@site/docs/HTML/Beginner/projects.md",
+  "sourceDirName": "HTML/Beginner",
+  "slug": "/HTML/Beginner/projects",
+  "permalink": "/docs/HTML/Beginner/projects",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/HTML/Beginner/projects.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "HTML Projects",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "HTML Forms",
+    "permalink": "/docs/HTML/Beginner/forms"
+  },
+  "next": {
+    "title": "patterns",
+    "permalink": "/docs/React/patterns"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "Git/Beginner/branching copy",
+  "title": "Branching in Git",
+  "description": "Awesome! Now, let’s learn how to work on new features without breaking your main code. Branches are like parallel universes for your project.",
+  "source": "@site/docs/Git/Beginner/branching copy.md",
+  "sourceDirName": "Git/Beginner",
+  "slug": "/Git/Beginner/branching copy",
+  "permalink": "/docs/Git/Beginner/branching copy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/Git/Beginner/branching copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Branching in Git",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Basic Git Commands",
+    "permalink": "/docs/Git/Beginner/basic-commands"
+  },
+  "next": {
+    "title": "Branching in Git",
+    "permalink": "/docs/Git/Beginner/branching"
+  }
+}

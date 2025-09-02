@@ -1,0 +1,28 @@
+{
+  "id": "Git/Beginner/introduction-to-git",
+  "title": "Introduction to Git",
+  "description": "Welcome, version control hero! 🦸‍♂️ Ready to save your code and track every change? Git is your time machine for projects. It lets you record, rewind, and collaborate—so you never lose your work.",
+  "source": "@site/docs/Git/Beginner/introduction-to-git.md",
+  "sourceDirName": "Git/Beginner",
+  "slug": "/Git/Beginner/introduction-to-git",
+  "permalink": "/docs/Git/Beginner/introduction-to-git",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/Git/Beginner/introduction-to-git.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Introduction to Git",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "GitHub Workflow",
+    "permalink": "/docs/Git/github-workflow"
+  },
+  "next": {
+    "title": "Git Projects",
+    "permalink": "/docs/Git/Beginner/projects"
+  }
+}

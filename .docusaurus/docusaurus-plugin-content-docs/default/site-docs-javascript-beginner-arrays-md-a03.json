@@ -5,7 +5,7 @@
   "source": "@site/docs/Javascript/Beginner/arrays.md",
   "sourceDirName": "Javascript/Beginner",
   "slug": "/Javascript/Beginner/arrays",
-  "permalink": "/reference/docs/Javascript/Beginner/arrays",
+  "permalink": "/docs/Javascript/Beginner/arrays",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/Javascript/Beginner/arrays.md",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Functions",
-    "permalink": "/reference/docs/Javascript/Beginner/functions"
+    "permalink": "/docs/Javascript/Beginner/functions"
   },
   "next": {
     "title": "Objects",
-    "permalink": "/reference/docs/Javascript/Beginner/objects"
+    "permalink": "/docs/Javascript/Beginner/objects"
   }
 }

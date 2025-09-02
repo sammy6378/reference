@@ -1,0 +1,28 @@
+{
+  "id": "HTML/elements",
+  "title": "HTML Elements",
+  "description": "Great job starting your HTML journey! 🏗️ Now, let’s talk about elements—the building blocks of every web page.",
+  "source": "@site/docs/HTML/elements.md",
+  "sourceDirName": "HTML",
+  "slug": "/HTML/elements",
+  "permalink": "/docs/HTML/elements",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/HTML/elements.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "HTML Elements",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Elements & Attributes",
+    "permalink": "/docs/HTML/elements-and-attributes"
+  },
+  "next": {
+    "title": "HTML Attributes",
+    "permalink": "/docs/HTML/attributes"
+  }
+}

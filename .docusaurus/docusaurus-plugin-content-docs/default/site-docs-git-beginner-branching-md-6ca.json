@@ -1,0 +1,28 @@
+{
+  "id": "Git/Beginner/branching",
+  "title": "Branching in Git",
+  "description": "Awesome! Now, let’s learn how to work on new features without breaking your main code. Branches are like parallel universes for your project.",
+  "source": "@site/docs/Git/Beginner/branching.md",
+  "sourceDirName": "Git/Beginner",
+  "slug": "/Git/Beginner/branching",
+  "permalink": "/docs/Git/Beginner/branching",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/Git/Beginner/branching.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Branching in Git",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to Git",
+    "permalink": "/docs/Git/Beginner/introduction-to-git"
+  },
+  "next": {
+    "title": "GitHub Workflow",
+    "permalink": "/docs/Git/Beginner/github-workflow"
+  }
+}

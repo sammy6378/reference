@@ -1,0 +1,28 @@
+{
+  "id": "Git/projects",
+  "title": "Git Projects",
+  "description": "Congratulations! 🎉 You’ve learned the basics of Git and GitHub. Now it’s time to practice with some real-world projects.",
+  "source": "@site/docs/Git/projects.md",
+  "sourceDirName": "Git",
+  "slug": "/Git/projects",
+  "permalink": "/docs/Git/projects",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/Git/projects.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Git Projects",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "GitHub Workflow",
+    "permalink": "/docs/Git/github-workflow"
+  },
+  "next": {
+    "title": "GitHub Actions (CI/CD Basics)",
+    "permalink": "/docs/GitHub/actions-cicd"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "HTML/forms-and-input-types",
+  "title": "Forms & Input Types",
+  "description": "You’re doing great! Now, let’s learn how to collect information from users with forms. Forms are how websites get input—like sign-ups, searches, or feedback.",
+  "source": "@site/docs/HTML/forms-and-input-types.md",
+  "sourceDirName": "HTML",
+  "slug": "/HTML/forms-and-input-types",
+  "permalink": "/docs/HTML/forms-and-input-types",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/HTML/forms-and-input-types.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Forms & Input Types",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "HTML Attributes",
+    "permalink": "/docs/HTML/attributes"
+  },
+  "next": {
+    "title": "HTML Forms",
+    "permalink": "/docs/HTML/forms"
+  }
+}

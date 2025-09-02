@@ -1,0 +1,24 @@
+{
+  "id": "GitHub/git-clone",
+  "title": "git clone",
+  "description": "The git clone command copies a repository from GitHub to your local computer. This lets you work on the project offline.",
+  "source": "@site/docs/GitHub/git-clone.md",
+  "sourceDirName": "GitHub",
+  "slug": "/GitHub/git-clone",
+  "permalink": "/docs/GitHub/git-clone",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/sammy6378/reference/tree/main/docs/GitHub/git-clone.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Example: Auto-Deploying a Site",
+    "permalink": "/docs/GitHub/example-auto-deploy"
+  },
+  "next": {
+    "title": "Hosting a Static Website on GitHub Pages",
+    "permalink": "/docs/GitHub/hosting-github-pages"
+  }
+}

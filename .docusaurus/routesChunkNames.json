@@ -1,185 +1,341 @@
 {
-  "/reference/__docusaurus/debug-696": {
+  "/__docusaurus/debug-5ff": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---reference-docusaurus-debugb-38-950"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/reference/__docusaurus/debug/config-6ab": {
+  "/__docusaurus/debug/config-5ba": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---reference-docusaurus-debugb-38-950"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/reference/__docusaurus/debug/content-d1e": {
+  "/__docusaurus/debug/content-a2b": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---reference-docusaurus-debugb-38-950"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     },
-    "__props": "__props---reference-docusaurus-debug-contentcba-e16"
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
   },
-  "/reference/__docusaurus/debug/globalData-ec2": {
+  "/__docusaurus/debug/globalData-c3c": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---reference-docusaurus-debugb-38-950"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/reference/__docusaurus/debug/metadata-ee5": {
+  "/__docusaurus/debug/metadata-156": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---reference-docusaurus-debugb-38-950"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/reference/__docusaurus/debug/registry-39f": {
+  "/__docusaurus/debug/registry-88c": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---reference-docusaurus-debugb-38-950"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/reference/__docusaurus/debug/routes-6bd": {
+  "/__docusaurus/debug/routes-000": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---reference-docusaurus-debugb-38-950"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/reference/docs-12a": {
+  "/docs-b01": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "plugin---reference-docsaba-3e5"
+      "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/reference/docs-300": {
+  "/docs-5e7": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---reference-docs-964-c0b"
+    "__props": "__props---docs-005-788"
   },
-  "/reference/docs-853": {
+  "/docs-3cb": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/reference/docs/category/beginner-89a": {
+  "/docs/category/beginner-616": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---reference-docs-category-beginner-631-54a"
+    "__props": "__props---docs-category-beginner-521-554"
   },
-  "/reference/docs/category/intermediate-72a": {
+  "/docs/category/intermediate-d33": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---reference-docs-category-intermediate-88-a-029"
+    "__props": "__props---docs-category-intermediate-72-b-1b6"
   },
-  "/reference/docs/category/javascript-fdc": {
+  "/docs/category/javascript-59a": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---reference-docs-category-javascripte-00-a54"
+    "__props": "__props---docs-category-javascriptf-63-c6b"
   },
-  "/reference/docs/getting-started-a80": {
+  "/docs/CSS/box-model-8ec": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-getting-startedd-58-9cb"
+    "content": "content---docs-css-box-modelbfd-3cf"
   },
-  "/reference/docs/Javascript/Beginner/arrays-740": {
+  "/docs/CSS/introduction-to-css-ead": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-javascript-beginner-arraysa-03-b2a"
+    "content": "content---docs-css-introduction-to-css-08-c-13e"
   },
-  "/reference/docs/Javascript/Beginner/control-structures-fb5": {
+  "/docs/CSS/layout-9ee": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-javascript-beginner-control-structures-26-f-0aa"
+    "content": "content---docs-css-layout-81-c-5b7"
   },
-  "/reference/docs/Javascript/Beginner/functions-798": {
+  "/docs/CSS/layout-techniques-5b9": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-javascript-beginner-functions-988-1c7"
+    "content": "content---docs-css-layout-techniquesc-1-f-5f5"
   },
-  "/reference/docs/Javascript/Beginner/introduction-to-javascript-5f7": {
+  "/docs/CSS/projects-3af": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-javascript-beginner-introduction-to-javascriptac-5-f4c"
+    "content": "content---docs-css-projects-990-ae7"
   },
-  "/reference/docs/Javascript/Beginner/loops-78f": {
+  "/docs/CSS/selectors-c02": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-javascript-beginner-loops-69-a-262"
+    "content": "content---docs-css-selectors-4-ad-b3a"
   },
-  "/reference/docs/Javascript/Beginner/objects-a09": {
+  "/docs/CSS/selectors-and-properties-cfe": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-javascript-beginner-objects-2-d-1-cf6"
+    "content": "content---docs-css-selectors-and-propertiese-58-396"
   },
-  "/reference/docs/Javascript/Beginner/operators-5cb": {
+  "/docs/getting-started-2a1": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-javascript-beginner-operators-34-d-de5"
+    "content": "content---docs-getting-startedd-58-f94"
   },
-  "/reference/docs/Javascript/Beginner/projects-cc7": {
+  "/docs/Git/basic-commands-9c5": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-javascript-beginner-projectsbfb-6f6"
+    "content": "content---docs-git-basic-commandscda-fb6"
   },
-  "/reference/docs/Javascript/Beginner/variables-and-datatypes-5fe": {
+  "/docs/Git/branching-66c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-javascript-beginner-variables-and-datatypes-8-f-5-a09"
+    "content": "content---docs-git-branching-89-f-a85"
   },
-  "/reference/docs/Javascript/Intermediate/advanced-functions-d81": {
+  "/docs/Git/github-workflow-4c2": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-javascript-intermediate-advanced-functions-609-444"
+    "content": "content---docs-git-github-workflowd-40-e5b"
   },
-  "/reference/docs/Javascript/Intermediate/async-javascript-a8e": {
+  "/docs/Git/introduction-to-git-edd": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-javascript-intermediate-async-javascriptbcd-07f"
+    "content": "content---docs-git-introduction-to-gitc-84-d77"
   },
-  "/reference/docs/Javascript/Intermediate/async-javascript/async-await-8d7": {
+  "/docs/Git/projects-47c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-javascript-intermediate-async-javascript-async-awaitbf-7-bba"
+    "content": "content---docs-git-projectsaf-2-f88"
   },
-  "/reference/docs/Javascript/Intermediate/async-javascript/asynchronous-operations-f30": {
+  "/docs/GitHub/actions-cicd-8df": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-javascript-intermediate-async-javascript-asynchronous-operationse-11-5de"
+    "content": "content---docs-git-hub-actions-cicdab-0-b3c"
   },
-  "/reference/docs/Javascript/Intermediate/async-javascript/callbacks-b77": {
+  "/docs/GitHub/best-practices-715": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-javascript-intermediate-async-javascript-callbacks-2-a-7-62c"
+    "content": "content---docs-git-hub-best-practices-009-125"
   },
-  "/reference/docs/Javascript/Intermediate/async-javascript/promises-5f4": {
+  "/docs/GitHub/code-reviews-5e3": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-javascript-intermediate-async-javascript-promises-191-091"
+    "content": "content---docs-git-hub-code-reviewscc-7-a00"
   },
-  "/reference/docs/Javascript/Intermediate/dom-manipulation-fc1": {
+  "/docs/GitHub/collaboration-510": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-javascript-intermediate-dom-manipulation-0-e-5-8ec"
+    "content": "content---docs-git-hub-collaboration-51-f-d34"
   },
-  "/reference/docs/Javascript/Intermediate/error-handling-649": {
+  "/docs/GitHub/creating-cloning-repos-051": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-javascript-intermediate-error-handling-376-532"
+    "content": "content---docs-git-hub-creating-cloning-reposa-1-e-606"
   },
-  "/reference/docs/Javascript/Intermediate/es6-features-209": {
+  "/docs/GitHub/example-auto-deploy-a80": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-javascript-intermediate-es-6-features-2-d-7-65d"
+    "content": "content---docs-git-hub-example-auto-deploy-060-412"
   },
-  "/reference/docs/Javascript/Intermediate/final-projects-791": {
+  "/docs/GitHub/git-clone-06a": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-javascript-intermediate-final-projectsc-38-105"
+    "content": "content---docs-git-hub-git-clone-164-db3"
   },
-  "/reference/docs/Javascript/Intermediate/json-apis-c42": {
+  "/docs/GitHub/hosting-github-pages-166": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-javascript-intermediate-json-apis-5-f-9-130"
+    "content": "content---docs-git-hub-hosting-github-pagesf-84-7fc"
   },
-  "/reference/docs/react-native/components-8b0": {
+  "/docs/GitHub/introduction-d15": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-react-native-components-6-ec-954"
+    "content": "content---docs-git-hub-introduction-5-dc-3bf"
   },
-  "/reference/docs/react-native/setup-b56": {
+  "/docs/GitHub/issues-discussions-c8a": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-react-native-setup-63-a-bb4"
+    "content": "content---docs-git-hub-issues-discussionse-06-b86"
   },
-  "/reference/docs/React/patterns-347": {
+  "/docs/GitHub/pages-8da": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-react-patterns-968-fef"
+    "content": "content---docs-git-hub-pagesbc-4-174"
   },
-  "/reference/docs/React/setup-898": {
+  "/docs/GitHub/projects-kanban-43f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-react-setup-1-b-1-012"
+    "content": "content---docs-git-hub-projects-kanban-77-a-20e"
   },
-  "/reference/docs/Typescript/intro-c78": {
+  "/docs/GitHub/protecting-branches-26e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-typescript-intro-18-d-60a"
+    "content": "content---docs-git-hub-protecting-branches-20-c-395"
   },
-  "/reference/docs/Typescript/tips-e8d": {
+  "/docs/GitHub/uploading-project-380": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---reference-docs-typescript-tips-9-b-2-d1f"
+    "content": "content---docs-git-hub-uploading-project-9-e-5-4bd"
   },
-  "/reference/-a57": {
+  "/docs/GitHub/what-is-github-760": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-git-hub-what-is-github-641-2e8"
+  },
+  "/docs/GitHub/workflows-df0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-git-hub-workflows-1-f-6-81e"
+  },
+  "/docs/GitHub/writing-good-readme-e2d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-git-hub-writing-good-readme-31-e-5c3"
+  },
+  "/docs/HTML/accessibility-seo-a3f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-html-accessibility-seoc-72-514"
+  },
+  "/docs/HTML/attributes-89d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-html-attributes-99-c-7c7"
+  },
+  "/docs/HTML/elements-f34": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-html-elementsd-9-b-e37"
+  },
+  "/docs/HTML/elements-and-attributes-81d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-html-elements-and-attributes-055-3f4"
+  },
+  "/docs/HTML/forms-ba9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-html-formsa-52-13f"
+  },
+  "/docs/HTML/forms-and-input-types-e3d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-html-forms-and-input-types-67-e-eb5"
+  },
+  "/docs/HTML/introduction-to-html-259": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-html-introduction-to-html-231-486"
+  },
+  "/docs/HTML/media-701": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-html-mediae-4-c-296"
+  },
+  "/docs/HTML/projects-ff0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-html-projects-437-0e0"
+  },
+  "/docs/HTML/semantic-html-57a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-html-semantic-html-2-c-1-4b4"
+  },
+  "/docs/Javascript/Beginner/arrays-1a2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-javascript-beginner-arraysa-03-8a2"
+  },
+  "/docs/Javascript/Beginner/control-structures-8df": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-javascript-beginner-control-structures-26-f-754"
+  },
+  "/docs/Javascript/Beginner/functions-18d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-javascript-beginner-functions-988-0cd"
+  },
+  "/docs/Javascript/Beginner/introduction-to-javascript-1db": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-javascript-beginner-introduction-to-javascriptac-5-fe3"
+  },
+  "/docs/Javascript/Beginner/loops-179": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-javascript-beginner-loops-69-a-635"
+  },
+  "/docs/Javascript/Beginner/objects-27e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-javascript-beginner-objects-2-d-1-e53"
+  },
+  "/docs/Javascript/Beginner/operators-49f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-javascript-beginner-operators-34-d-5b8"
+  },
+  "/docs/Javascript/Beginner/projects-df7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-javascript-beginner-projectsbfb-109"
+  },
+  "/docs/Javascript/Beginner/variables-and-datatypes-628": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-javascript-beginner-variables-and-datatypes-8-f-5-252"
+  },
+  "/docs/Javascript/Intermediate/advanced-functions-4cc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-javascript-intermediate-advanced-functions-609-912"
+  },
+  "/docs/Javascript/Intermediate/async-javascript-b07": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-javascript-intermediate-async-javascriptbcd-1d3"
+  },
+  "/docs/Javascript/Intermediate/async-javascript/async-await-0c0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-javascript-intermediate-async-javascript-async-awaitbf-7-e67"
+  },
+  "/docs/Javascript/Intermediate/async-javascript/asynchronous-operations-1c2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-javascript-intermediate-async-javascript-asynchronous-operationse-11-57c"
+  },
+  "/docs/Javascript/Intermediate/async-javascript/callbacks-1c0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-javascript-intermediate-async-javascript-callbacks-2-a-7-bfc"
+  },
+  "/docs/Javascript/Intermediate/async-javascript/promises-17c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-javascript-intermediate-async-javascript-promises-191-710"
+  },
+  "/docs/Javascript/Intermediate/dom-manipulation-78d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-javascript-intermediate-dom-manipulation-0-e-5-620"
+  },
+  "/docs/Javascript/Intermediate/error-handling-138": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-javascript-intermediate-error-handling-376-53e"
+  },
+  "/docs/Javascript/Intermediate/es6-features-fb5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-javascript-intermediate-es-6-features-2-d-7-b84"
+  },
+  "/docs/Javascript/Intermediate/final-projects-331": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-javascript-intermediate-final-projectsc-38-34e"
+  },
+  "/docs/Javascript/Intermediate/json-apis-041": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-javascript-intermediate-json-apis-5-f-9-28f"
+  },
+  "/docs/react-native/components-c89": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-react-native-components-6-ec-384"
+  },
+  "/docs/react-native/setup-e36": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-react-native-setup-63-a-5d1"
+  },
+  "/docs/React/patterns-e63": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-react-patterns-968-6d4"
+  },
+  "/docs/React/setup-37e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-react-setup-1-b-1-3cc"
+  },
+  "/docs/Typescript/intro-9e4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-typescript-intro-18-d-dc8"
+  },
+  "/docs/Typescript/tips-ba8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-typescript-tips-9-b-2-1f5"
+  },
+  "/-e5f": {
     "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
     "__context": {
-      "plugin": "plugin---reference-a-74-6fd"
+      "plugin": "plugin---a-74-9d6"
     },
-    "config": "config---reference-5-e-9-d1b"
+    "config": "config---5-e-9-4f3"
   }
 }
