@@ -52,20 +52,42 @@ Before contributing, make sure you have:
 
 ### Documentation Structure
 
-Our documentation is organized as follows:
+Our documentation is organized in a progressive learning path. Follow the structure below when adding new content:
 
 ```
 docs/
-├── getting-started.md          # Getting started guide
-├── js/                        # JavaScript documentation
-│   ├── basics.md             # JavaScript basics
-│   └── advanced.md           # Advanced JavaScript
-├── ts/                       # TypeScript documentation
-│   ├── intro.md              # TypeScript introduction
-│   └── tips.md               # TypeScript tips
-└── react-native/             # React Native documentation
-    ├── setup.md              # React Native setup
-    └── components.md         # React Native components
+├── getting-started.md                      # Getting started guide
+├── intro.md                               # Project overview
+│
+├── Javascript/                            # JavaScript documentation
+│   ├── Beginner/                         # Foundation concepts
+│   │   ├── introduction-to-javascript.md # What is JavaScript?
+│   │   ├── variables.md                  # Variables and data types
+│   │   ├── arrays.md                     # Working with arrays
+│   │   ├── functions.md                  # Functions and scope
+│   │   ├── objects.md                    # Objects and methods
+│   │   └── projects.md                   # Beginner projects
+│   │
+│   └── Intermediate/                     # Advanced concepts
+│       ├── advanced-functions.md        # Advanced function patterns
+│       ├── dom-manipulation.md           # DOM interaction
+│       ├── es6-features.md              # Modern JavaScript features
+│       ├── async-javascript/            # Asynchronous programming
+│       │   ├── callbacks.md             # Callback functions
+│       │   ├── promises.md              # Promise patterns
+│       │   ├── async-await.md           # Async/await syntax
+│       │   └── asynchronous-operations.md # Complex async operations
+│       ├── json-apis.md                 # Working with APIs
+│       ├── error-handling.md            # Error handling patterns
+│       └── final-projects.md            # Intermediate projects
+│
+├── Typescript/                           # TypeScript documentation
+│   ├── intro.md                         # TypeScript introduction
+│   └── tips.md                          # TypeScript best practices
+│
+└── react-native/                        # React Native documentation
+    ├── setup.md                         # Environment setup
+    └── components.md                    # Component development
 ```
 
 ### Writing Guidelines
@@ -151,16 +173,129 @@ Always use `map()` when you need to transform array elements. It's more function
    - Screenshots if you've made visual changes
    - References to any related issues
 
+### Branch Naming Conventions
+
+To help with code reviews and project organization, please follow these branching guidelines:
+
+#### Branch Naming Format
+
+Use the following format for your branch names:
+
+```
+<type>/<short-description>
+```
+
+#### Branch Types
+
+| Type       | Purpose                    | Example                                |
+| ---------- | -------------------------- | -------------------------------------- |
+| `feat`     | New features or content    | `feat/add-async-await-tutorial`        |
+| `fix`      | Bug fixes or corrections   | `fix/broken-links-javascript-section`  |
+| `docs`     | Documentation improvements | `docs/improve-contributing-guide`      |
+| `style`    | Design/UI improvements     | `style/enhance-mobile-navigation`      |
+| `refactor` | Code/content restructuring | `refactor/reorganize-beginner-content` |
+| `test`     | Adding or fixing tests     | `test/add-code-example-validation`     |
+| `chore`    | Maintenance tasks          | `chore/update-dependencies`            |
+
+#### Branch Naming Examples
+
+✅ **Good Examples:**
+
+```bash
+feat/typescript-generics-tutorial
+fix/incorrect-array-examples
+docs/update-installation-guide
+style/improve-code-block-styling
+refactor/split-large-javascript-file
+```
+
+❌ **Avoid:**
+
+```bash
+my-changes
+update
+fix-stuff
+new-feature
+```
+
+#### Creating and Working with Branches
+
+1. **Create a new branch** from main:
+
+   ```bash
+   git checkout main
+   git pull upstream main  # Sync with latest changes
+   git checkout -b feat/your-feature-name
+   ```
+
+2. **Make your changes** and commit regularly:
+
+   ```bash
+   git add .
+   git commit -m "Add: Clear description of what you added"
+   ```
+
+3. **Push your branch** to your fork:
+
+   ```bash
+   git push origin feat/your-feature-name
+   ```
+
+4. **Create a Pull Request** with a clear title matching your branch purpose
+
+### Commit Message Guidelines
+
+Use clear, descriptive commit messages that follow this format:
+
+```
+<Type>: <Short description>
+
+[Optional longer description]
+```
+
+**Examples:**
+
+```bash
+feat: Add TypeScript interfaces tutorial
+fix: Correct array method examples in beginner guide
+docs: Update contribution guidelines with branch naming
+style: Improve responsive design for mobile devices
+```
+
+**Types for commits:**
+
+- `feat:` New features or content
+- `fix:` Bug fixes
+- `docs:` Documentation changes
+- `style:` Formatting, UI changes
+- `refactor:` Code restructuring
+- `test:` Adding tests
+- `chore:` Maintenance
+
 ### Pull Request Checklist
 
 Before submitting your pull request, make sure:
 
+- [ ] Your branch name follows our naming conventions
 - [ ] The documentation builds without errors (`npm run build`)
 - [ ] All code examples are tested and work correctly
 - [ ] Links are working and point to the correct pages
 - [ ] Grammar and spelling are correct
 - [ ] The content follows our style guidelines
+- [ ] Your commits have clear, descriptive messages
+- [ ] You've synced with the latest main branch
 - [ ] You've added yourself to the contributors list (if applicable)
+
+### Review Process
+
+To help us review your contribution quickly:
+
+1. **Use descriptive PR titles** that match your branch type
+2. **Fill out the PR template** completely
+3. **Reference related issues** using `#issue-number`
+4. **Add screenshots** for visual changes
+5. **Request specific reviewers** if you know who should review
+6. **Respond to feedback** promptly and professionally
 
 ## 🐛 Reporting Issues
 
