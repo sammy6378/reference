@@ -46,12 +46,12 @@ const config: Config = {
               label: "TypeScript",
             },
             {
-              to: "/docs/react-native/setup",
-              label: "React Native Setup",
+              to: "/docs/react/Get-Started",
+              label: "React",
             },
             {
-              to: "/docs/react-native/components",
-              label: "RN Components",
+              to: "/docs/react-native/Introduction",
+              label: "React Native",
             },
           ],
         },
@@ -101,8 +101,12 @@ const config: Config = {
               to: "/docs/Typescript/intro",
             },
             {
+              label: "React",
+              to: "/docs/React/Introduction",
+            },
+            {
               label: "React Native",
-              to: "/docs/react-native/setup",
+              to: "/docs/react-native/introduction",
             },
           ],
         },
