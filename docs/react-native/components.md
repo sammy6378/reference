@@ -210,14 +210,17 @@ import { Image } from 'react-native';
 />
 ```
 
-### ScrowView
+### ScrollView
 
 - horizontal: Enables horizontal scrolling.
 - showsVerticalScrollIndicator: Show/hide scroll bar.
 - onScroll: Scroll event handler.
 
 ```jsx
-<ScrollView horizontal showsVerticalScrollIndicator={false}>
+<ScrollView
+ horizontal 
+ showsVerticalScrollIndicator={false}
+ >
   <Text>Scrollable content</Text>
 </ScrollView>
 ```
@@ -235,6 +238,7 @@ const styles = StyleSheet.create({
     backgroundColor: 'white',
   },
 ```
+
 ## Lists Views
 
 ### FlatList
