@@ -210,14 +210,17 @@ import { Image } from 'react-native';
 />
 ```
 
-### ScrowView
+### ScrollView
 
 - horizontal: Enables horizontal scrolling.
 - showsVerticalScrollIndicator: Show/hide scroll bar.
 - onScroll: Scroll event handler.
 
 ```jsx
-<ScrollView horizontal showsVerticalScrollIndicator={false}>
+<ScrollView
+ horizontal 
+ showsVerticalScrollIndicator={false}
+ >
   <Text>Scrollable content</Text>
 </ScrollView>
 ```
@@ -235,18 +238,38 @@ const styles = StyleSheet.create({
     backgroundColor: 'white',
   },
 ```
+
 ## Lists Views
 
 ### FlatList
 
+📦 What Is FlatList?
 Efficiently renders large lists.
+FlatList is a performant React Native component designed to render large lists of data. Unlike ScrollView, which renders everything at once, FlatList virtualizes the list—only rendering items that are visible on screen. This makes it ideal for long or dynamic lists.
 
-props
+🧠 Key Props Explained
 
-- data: Array of items.
-- renderItem: Function to render each item.
-- keyExtractor: Unique key for each item.
-- horizontal, numColumns: Layout options.
+- data - Array of items to display
+
+- renderItem - Function that returns the UI for each item
+
+- keyExtractor - Function to generate unique keys for each item
+
+- horizontal - Enables horizontal scrolling
+
+- numColumns - Displays items in a grid format
+
+- ListHeaderComponent - Adds a header above the list
+
+- ListFooterComponent - Adds a footer below the list
+
+- ItemSeparatorComponent - Adds a separator between items
+
+- ListEmptyComponent - Renders when the list is empty
+
+- onRefresh & refreshing - Enables pull-to-refresh functionality
+
+- extraData - Triggers re-render when external state changes
 
 ```bash
 <FlatList
@@ -268,39 +291,57 @@ const data = [{ key: 'Item 1' }, { key: 'Item 2' }];
 ```
 
 ```jsx
-import React from 'react';
-import { FlatList, View, Text } from 'react-native';
+import { FlatList, Text, View } from 'react-native';
 
 const data = [
-  { id: '1', title: 'Item 1' },
-  { id: '2', title: 'Item 2' },
-  { id: '3', title: 'Item 3' },
+  { id: '1', title: 'Web Development' },
+  { id: '2', title: 'App Design' },
+  { id: '3', title: 'Consulting' },
 ];
 
-const ListExample = () => {
-  const renderItem = ({ item }) => (
-    <View style={styles.item}>
-      <Text>{item.title}</Text>
-    </View>
-  );
+const renderItem = ({ item }) => (
+  <View style={{ padding: 20 }}>
+    <Text>{item.title}</Text>
+  </View>
+);
 
-  return (
-    <FlatList
-      data={data}
-      renderItem={renderItem}
-      keyExtractor={item => item.id}
-    />
-  );
-};
+<FlatList
+  data={data}
+  renderItem={renderItem}
+  keyExtractor={item => item.id}
+/>
 
-const styles = StyleSheet.create({
-  item: {
-    padding: 20,
-    borderBottomWidth: 1,
-    borderBottomColor: '#eee',
-  },
-});
 ```
+
+🖼️ Grid Layout Example
+
+```jsx
+<FlatList
+  data={data}
+  renderItem={renderItem}
+  keyExtractor={item => item.id}
+  numColumns={2}
+  columnWrapperStyle={{ justifyContent: 'space-between' }}
+/>
+```
+
+**🚀 Performance Tips**
+
+- Use initialNumToRender to control how many items load initially.
+
+- Use maxToRenderPerBatch to limit rendering per frame.
+
+- Use removeClippedSubviews on Android to boost performance.
+
+- Use getItemLayout if item height is fixed for faster scroll-to-index.
+
+**🧰 When to Use FlatList vs ScrollView**
+
+Short, static content - ScrollView  
+
+Long, dynamic lists - FlatList 
+
+Sectioned lists - SectionList 
 
 ### SectionList
 
