@@ -42,6 +42,6 @@ TypeScript is often described as a "superset" of JavaScript. This means that eve
 
 ## The Evolution of TypeScript
 
-First released in 2012, TypeScript has rapidly matured. Recent versions add pattern matching, variadic tuple types, improved type inference, and more. The language is actively maintained with input from both Microsoft and the open-source community.
+First released in 2012, TypeScript has rapidly matured. Recent versions add decorators, const type parameters, better control-flow narrowing, variadic tuple types, and improved type inference. The language is actively maintained with input from both Microsoft and the open-source community.
 
 Learn more at the [official site](https://www.typescriptlang.org/).
