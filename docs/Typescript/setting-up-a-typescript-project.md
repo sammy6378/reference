@@ -129,7 +129,7 @@ npx create-ts-app
 
 Or with a framework scaffold:
 
-- React: `npx create-react-app my-app --template typescript`
+- React: `npm create vite@latest my-app -- --template react-ts`
 - Next.js: `npx create-next-app@latest -ts`
 
 ## References
