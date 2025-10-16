@@ -1,11 +1,10 @@
 ---
-sidebar_position: 3
+sidebar_position: 15
 title: JS Promises
 ---
 
-# JavaScript Promises
 
-Welcome to the Promise land! 🌟 After wrestling with callback hell, Promises are like a breath of fresh air. They represent a value that might be available now, later, or never. Think of a Promise as a receipt for your coffee order—it's either fulfilled (coffee ready!), rejected (sorry, we're out!), or still pending (brewing...).
+After wrestling with callback hell, Promises are like a breath of fresh air. They represent a value that might be available now, later, or never. Think of a Promise as a receipt for your coffee order—it's either fulfilled (coffee ready!), rejected (sorry, we're out!), or still pending (brewing...).
 
 ## Understanding Promises 🎯
 
@@ -541,6 +540,7 @@ Let's build a weather app that demonstrates Promise concepts:
 ```
 
 This example demonstrates:
+
 - Promise creation and consumption
 - `Promise.all()` for parallel operations
 - Error handling with `.catch()`
@@ -550,6 +550,7 @@ This example demonstrates:
 ## Best Practices 📋
 
 ### 1. Always Handle Errors
+
 ```javascript
 // Good
 fetchData()
@@ -562,6 +563,7 @@ fetchData()
 ```
 
 ### 2. Return Promises from Functions
+
 ```javascript
 // Good - return the Promise
 function getUserProfile(id) {
@@ -577,6 +579,7 @@ function getUserProfile(id) {
 ```
 
 ### 3. Avoid the "Pyramid of Doom" 2.0
+
 ```javascript
 // Bad - nested Promises (defeating the purpose!)
 fetchUser(1)
@@ -597,12 +600,6 @@ fetchUser(1)
     .then(comments => console.log(comments))
     .catch(error => console.error(error));
 ```
-
-## What's Next? 🚀
-
-Promises are powerful, but there's an even cleaner way to write async code! Next, we'll explore [Async/Await](./async-await.md), which makes asynchronous code look and feel like synchronous code. It's built on top of Promises, so everything you've learned here applies!
-
-Ready to make async code even more readable? Let's dive into [Async/Await](./async-await.md)! 🎯
 
 :::tip Promise Memory
 Promises are "eager" - they start executing immediately when created. If you need "lazy" execution, wrap them in functions! 🏃‍♂️

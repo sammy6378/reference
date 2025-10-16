@@ -3,9 +3,7 @@ sidebar_position: 3
 title: Operators in JavaScript
 ---
 
-# Operators in JavaScript
-
-Hey, code explorer! 🌍 You've got variables and data types under your belt—now it's time to make them dance with operators. Operators are like the tools in your coding toolbox: they let you add, compare, and combine things in fun ways. Think of them as math symbols on steroids, but for all kinds of data.
+You've got variables and data types under your belt—now it's time to make them dance with operators. Operators are like the tools in your coding toolbox: they let you add, compare, and combine things in fun ways. Think of them as math symbols on steroids, but for all kinds of data.
 
 If math class made you yawn, don't worry—this is way more exciting because you'll see instant results in your console. We'll cover the main types: arithmetic (math stuff), assignment (saving results), comparison (checking equality), and logical (decision helpers). Plus, we'll chat about precedence, so your code doesn't get confused about what to do first. Let's operator-ate! 🛠️😄
 
@@ -214,8 +212,4 @@ console.log(c); // 20
 
 Play around—change values and predict outcomes!
 
-## What's Next?
-
-Operators unlocked—now your code can calculate, compare, and decide! Up next: Conditionals to make your programs smart. Head to [Control Structures](./control-structures.md) for if-statements and more. You're crushing this—keep the energy high! ⚡
-
-Got questions? Check our [GitHub Discussions](https://github.com/sammy6378/reference/discussions). Code on!
+Got questions? Check our [GitHub Discussions](https://github.com/sammy6378/reference/discussions).

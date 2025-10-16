@@ -3,9 +3,8 @@ sidebar_position: 4
 title: Control Structures
 ---
 
-# Control Structures
 
-Whoa, code adventurer! 🧭 You've mastered operators, so now let's give your programs a brain—control structures! These are like choose-your-own-adventure books for code: they let your script make decisions based on conditions. No more straight-line code; now it can branch out, skip parts, or choose paths.
+You've mastered operators, so now let's give your programs a brain—control structures! These are like choose-your-own-adventure books for code: they let your script make decisions based on conditions. No more straight-line code; now it can branch out, skip parts, or choose paths.
 
 Imagine you're at an ice cream shop: "If it's hot, get chocolate; else if it's cold, get vanilla; otherwise, skip dessert." That's control flow! We'll cover if-else for simple choices, switch for multiple options, and the ternary operator for quick one-liners. It's decision-making time—let's make your code smart and sassy! 🤓
 
@@ -173,8 +172,4 @@ console.log(message);
 
 Tweak the score and see changes. What happens with score=95?
 
-## What's Next?
-
-Decisions unlocked—your code can think now! Next, we'll loop things for repetition. Zoom to [Loops](./loops.md) to repeat the fun. You're on a roll—don't stop! 🌀
-
-Questions buzzing? Visit our [GitHub Discussions](https://github.com/sammy6378/reference/discussions). Keep coding! ✨
+Questions buzzing? Visit our [GitHub Discussions](https://github.com/sammy6378/reference/discussions).

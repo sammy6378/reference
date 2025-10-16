@@ -3,9 +3,8 @@ sidebar_position: 5
 title: Loops
 ---
 
-# Loops
 
-Greetings, loop master in training! 🔄 You've got decisions down pat—now let's add repetition to the mix. Loops are like your code's treadmill: they run the same block over and over until a condition says "stop!" Why? To handle lists, count things, or repeat actions without copying code a zillion times. Imagine printing "Hello" 100 times manually—boring! Loops make it effortless.
+You've got decisions down pat—now let's add repetition to the mix. Loops are like your code's treadmill: they run the same block over and over until a condition says "stop!" Why? To handle lists, count things, or repeat actions without copying code a zillion times. Imagine printing "Hello" 100 times manually—boring! Loops make it effortless.
 
 In JS, we've got classic loops like for, while, and do-while for general repeating. Then, special ones like for...of and for...in for cruising through collections. We'll keep it fun with examples you can try right away. No infinite loops here (well, maybe one warning about them). Let's spin into action! 🌀
 
@@ -225,8 +224,4 @@ for (let prop in pet) {
 
 Mix and match—what if you break early in the sum loop?
 
-## What's Next?
-
-Loops conquered—now your code can repeat like a pro! Next, dive into functions to reuse code blocks. Sprint to [Functions](./functions.md) and level up. You're looping towards mastery—woo! 🎉
-
-Stuck in a loop? Head to our [GitHub Discussions](https://github.com/sammy6378/reference/discussions). Keep the cycle going! 🔁
+Stuck in a loop? Head to our [GitHub Discussions](https://github.com/sammy6378/reference/discussions).

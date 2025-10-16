@@ -1,9 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 14
 title: JS Callbacks
 ---
 
-# JavaScript Callbacks
 
 Welcome to the world of callbacks! 📞 You've actually used these before in our advanced functions section, but now we're diving deeper into their async superpowers. Callbacks are the OG way to handle tasks that take time—they're functions passed to other functions to run when something finishes (or fails).
 
@@ -159,6 +158,7 @@ This nested structure is hard to read, debug, and maintain. That's why Promises 
 ## Callback Best Practices 📋
 
 ### 1. Keep It Simple
+
 ```javascript
 // Good: Simple, focused callback
 function processData(data, onComplete) {
@@ -182,6 +182,7 @@ function fetchAndProcess(url, callback) {
 ```
 
 ### 2. Handle Errors Consistently
+
 ```javascript
 function safeOperation(callback) {
     try {
@@ -195,6 +196,7 @@ function safeOperation(callback) {
 ```
 
 ### 3. Use Named Functions for Complex Logic
+
 ```javascript
 // Instead of long anonymous functions
 function handleUserData(err, user) {
@@ -285,16 +287,11 @@ Try this hands-on example:
 </html>
 ```
 
-## What's Next? 🚀
-
-You've mastered callbacks—the foundation of async JavaScript! But callbacks have limitations (hello, callback hell!). Next, we'll explore [Asynchronous Operations](./asynchronous-operations.md) to understand how JavaScript handles timing and events under the hood.
-
 Understanding callbacks is crucial because:
+
 - Many older APIs still use them
 - They help you understand how JavaScript async works
 - Promises and async/await build on these concepts
-
-Ready to dive deeper? Let's explore [Asynchronous Operations](./asynchronous-operations.md) next! 🎯
 
 :::tip Remember
 Callbacks are just functions—don't overthink them! The key is understanding when they run (after something completes) and how to handle both success and error cases properly.

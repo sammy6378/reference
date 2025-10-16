@@ -1,11 +1,9 @@
 ---
-sidebar_position: 7
+sidebar_position: 19
 title: Final Projects
 ---
 
-# JavaScript Final Projects
-
-🎉 **Congratulations, JavaScript Master!** You've conquered variables, functions, DOM manipulation, ES6+, async programming, and error handling. Now it's time to put it all together with some epic final projects that will challenge your skills and build your portfolio!
+🎉 **Congratulations** You've conquered variables, functions, DOM manipulation, ES6+, async programming, and error handling. Now it's time to put it all together with some epic final projects that will challenge your skills and build your portfolio!
 
 These projects are designed to be **real-world applications** that you can showcase to employers or use in your daily life. Each project combines multiple concepts you've learned and includes stretch goals to push your limits.
 
@@ -62,55 +60,6 @@ Build a sophisticated task management app with local storage, categories, and ad
 - **Async**: setTimeout for notifications, async/await for file operations
 - **Error Handling**: try/catch for storage operations
 - **Advanced**: Classes for task management, modules for organization
-
-### Starter Template
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Personal Task Manager</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <div class="app-container">
-        <header class="app-header">
-            <h1>📝 My Task Manager</h1>
-            <div class="header-actions">
-                <button id="theme-toggle">🌙</button>
-                <button id="export-btn">📤 Export</button>
-            </div>
-        </header>
-        
-        <main class="app-main">
-            <section class="task-form-section">
-                <h2>Add New Task</h2>
-                <!-- Your form here -->
-            </section>
-            
-            <section class="task-filters">
-                <h2>Filter Tasks</h2>
-                <!-- Filter controls here -->
-            </section>
-            
-            <section class="task-stats">
-                <h2>Dashboard</h2>
-                <!-- Statistics here -->
-            </section>
-            
-            <section class="task-list-section">
-                <h2>Your Tasks</h2>
-                <div id="task-list"></div>
-            </section>
-        </main>
-    </div>
-    
-    <script src="app.js"></script>
-</body>
-</html>
-```
 
 ### Key Learning Objectives
 

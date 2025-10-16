@@ -1,9 +1,7 @@
 ---
-sidebar_position: 2
+sidebar_position: 16
 title: JS Asynchronous Operations
 ---
-
-# JavaScript Asynchronous Operations
 
 Time to peek behind the curtain! ⏰ You've learned about callbacks, but how does JavaScript actually handle asynchronous operations? Let's explore timers, events, and the magical event loop that makes it all work. Understanding this will make you a better async programmer!
 
@@ -473,12 +471,6 @@ This example demonstrates:
 4. **Event-driven programming** is fundamental to JavaScript
 5. **Throttling and debouncing** help control function execution rates
 6. **Always clean up** timers and event listeners to prevent memory leaks
-
-## What's Next? 🚀
-
-You now understand how JavaScript handles asynchronous operations under the hood! This knowledge will make the next concepts much clearer. Let's move on to [Promises](./promises.md), which provide a much cleaner way to handle async operations than callbacks.
-
-Ready to escape callback hell? Let's dive into [Promises](./promises.md)! 🎯
 
 :::tip Performance Tip
 Use `requestAnimationFrame` for animations, `setTimeout` for delays, and `setInterval` sparingly. Always clear timers when done to prevent memory leaks! 🧹

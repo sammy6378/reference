@@ -1,9 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 10
 title: Advanced Functions
 ---
 
-# Advanced Functions
 
  You’ve conquered the basics—variables, loops, arrays, objects, and functions—and now it’s time to supercharge your functions with some intermediate magic. Functions are the heart of JavaScript, and these advanced techniques will make them more powerful, flexible, and fun to use. Think of this as upgrading your coding toolbox with shiny new gadgets!
 
@@ -269,9 +268,5 @@ console.log(squares, evens, sum); // [1, 4, 9, 16, 25], [2, 4], 15
 ```
 
 Play: Chain `map` and `filter` to get squares of even numbers!
-
-## What’s Next?
-
-You’re wielding functions like a pro—defaults, rest/spread, callbacks, and higher-order magic! Next, let’s tackle the DOM to make your web pages truly interactive. Head to [DOM Manipulation](./dom-manipulation.md) for the next adventure. You’re soaring—keep it up! 🚀
 
 Questions? Swing by our [GitHub Discussions](https://github.com/sammy6378/reference/discussions). Code on! ✨

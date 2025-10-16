@@ -1,9 +1,7 @@
 ---
-sidebar_position: 2
+sidebar_position: 11
 title: DOM Manipulation
 ---
-
-# DOM Manipulation
 
 You’ve got functions, arrays, and objects down, and now it’s time to take control of web pages with **DOM manipulation**. The Document Object Model (DOM) is like a bridge between your JavaScript code and the HTML/CSS on a page. It turns your webpage into a living, breathing thing you can change on the fly—think updating text, styling buttons, or adding new elements with a click.
 
@@ -330,8 +328,4 @@ Try this mini-project in your browser:
 - Click a task to mark it done (toggles line-through).
 - Play: Add a “Clear All” button or remove tasks on double-click.
 
-## What’s Next?
-
-You’re a DOM master now, making pages dance with code! Next, we’ll explore modern **ES6+ Features** to write cleaner, more powerful JavaScript. Head to [ES6+ Features](./es6-features.md) for destructuring, promises, and more. You’re crushing it—keep the momentum! 💪
-
-Questions? Pop over to our [GitHub Discussions](https://github.com/sammy6378/reference/discussions). Code on! ✨
+Questions? Pop over to our [GitHub Discussions](https://github.com/sammy6378/reference/discussions).

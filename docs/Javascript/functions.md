@@ -3,9 +3,8 @@ sidebar_position: 6
 title: Functions
 ---
 
-# Functions
 
-Hey, code ninja! 🥷 You're looping like a champ—now let's talk functions, the superheroes of reusable code. Functions let you bu#### WFunctions are your code's superpowers—reusable and awesome! Next, we'll tackle arrays to store lists of data. Dash to [Arrays](./arrays.md) to keep rocking it. You're coding like a pro—keep shining! 💥at's Next?
+You're looping like a champ—now let's talk functions, the superheroes of reusable code. Functions let you bu#### WFunctions are your code's superpowers—reusable and awesome! Next, we'll tackle arrays to store lists of data. Dash to [Arrays](./arrays.md) to keep rocking it. You're coding like a pro—keep shining! 💥at's Next?
 
 Functions are your code's superpowers—reusable and awesome! Next, we'll tackle arrays to store lists of data. Dash to [Arrays](./arrays.md) to keep rocking it. You're coding like a pro—keep shining! 💥at's Next?
 
@@ -196,8 +195,4 @@ for (let i = 1; i <= 3; i++) {
 
 Play around: Add a default to `subtract`, or make an arrow to check if a number is positive.
 
-## What's Next?
-
-Functions are your code’s superpowers—reusable and awesome! Next, we’ll tackle arrays to store lists of data. Dash to [Arrays](./arrays.md) to keep rocking it. You’re coding like a pro—keep shining! 💥
-
-Got questions? Pop over to our [GitHub Discussions](https://github.com/sammy6378/reference/discussions). Code away! 🚀
+Got questions? Pop over to our [GitHub Discussions](https://github.com/sammy6378/reference/discussions).
