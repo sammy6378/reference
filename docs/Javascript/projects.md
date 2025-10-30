@@ -3,8 +3,6 @@ sidebar_position: 9
 title: Fun Beginner Projects
 ---
 
-# Fun Beginner Projects
-
 Wow, you’ve made it through the JavaScript basics—time to celebrate by building something awesome! 🎉 These three mini-projects—**Digital Dice Roller**, **Random Joke Generator**, and **Simple Calculator**—will put your skills to work. You’ll use variables, functions, arrays, objects, and loops, plus a touch of HTML and CSS to make them interactive on a webpage. Each project is beginner-friendly, includes full code, and runs in your browser. Let’s create some magic! 🪄
 
 ## Project 1: Digital Dice Roller 🎲
@@ -311,8 +309,4 @@ Add error styling (red for invalid inputs) or a history of calculations!
 Always validate inputs (e.g., `isNaN`) to prevent crashes.
 :::
 
-## What’s Next?
-
-You’ve built three awesome projects—dice, jokes, and math! You’re ready for more challenges. Head to [Intermediate JavaScript](../Intermediate/advanced-functions.md) for topics like callbacks, promises, and DOM deep-dives. Or, keep building with more projects in [Intermediate Projects](../Intermediate/final-projects.md). You’re a coding hero—keep it up! 🦸‍♂️
-
-Questions? Join our [GitHub Discussions](https://github.com/sammy6378/reference/discussions). Happy building! 🎉
+Questions? Join our [GitHub Discussions](https://github.com/sammy6378/reference/discussions).

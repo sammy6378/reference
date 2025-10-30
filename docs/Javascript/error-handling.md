@@ -1,9 +1,7 @@
 ---
-sidebar_position: 6
+sidebar_position: 13
 title: Error Handling
 ---
-
-# Error Handling
 
 You’re fetching data and manipulating the DOM like a champ, but sometimes things go wrong—invalid inputs, network failures, or pesky bugs. That’s where **error handling** comes in, saving your app from crashing and keeping users happy. Think of it as your code’s safety net, catching problems before they spiral out of control.
 
@@ -268,8 +266,4 @@ Try this mini-project to combine error handling with a DOM-based API fetcher:
 - Uses `try...catch`, custom errors (`ApiError`, `ValidationError`), and console tricks (`table`, `time`, `warn`).
 - Play: Add a retry button for failed API calls or log errors in a table.
 
-## What’s Next?
-
-Your code is now error-proof and debug-savvy! You've completed the intermediate JavaScript section—huge congrats! 🎉 Next, let's apply your skills with some **Final Projects** to build interactive apps. Head to [Final Projects](./final-projects.md) for challenges like a task manager app or a weather dashboard. You're a JavaScript star—keep shining! 💪
-
-Questions? Join our [GitHub Discussions](https://github.com/sammy6378/reference/discussions). Code on! ✨
+Questions? Join our [GitHub Discussions](https://github.com/sammy6378/reference/discussions).

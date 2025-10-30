@@ -1,9 +1,8 @@
 ---
-sidebar_position: 5
+sidebar_position: 18
 title: JSON and APIs 
 ---
 
-# JSON and APIs
 
 You’ve mastered async JavaScript, so now it’s time to talk to the world using **JSON and APIs**. JSON (JavaScript Object Notation) is like a universal language for data—lightweight, readable, and used everywhere from apps to servers. APIs (Application Programming Interfaces) are like doorways to fetch or send that data, letting your app grab jokes, weather, or user info from the internet.
 
@@ -235,8 +234,4 @@ Try this mini-project to fetch and display user data:
 - Uses JSON parsing, Fetch, async/await, optional chaining, and nullish coalescing.
 - Play: Add a “Fetch All Users” button using `Promise.all`.
 
-## What’s Next?
-
-You’re fetching data like a web wizard! Next, we’ll tackle **Error Handling** to make your code bulletproof against crashes and bugs. Head to [Error Handling](./error-handling.md) for the next adventure. You’re soaring—keep it up! 💪
-
-Questions? Join our [GitHub Discussions](https://github.com/sammy6378/reference/discussions). Code on! ✨
+Questions? Join our [GitHub Discussions](https://github.com/sammy6378/reference/discussions).

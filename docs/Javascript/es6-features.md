@@ -1,9 +1,8 @@
 ---
-sidebar_position: 3
+sidebar_position: 12
 title: ES6+ Features
 ---
 
-# ES6+ Features
 
 You’re rocking the DOM and advanced functions—now it’s time to embrace the sleek, modern vibes of **ES6+** (ECMAScript 2015 and later). These features, introduced starting in 2015, make JavaScript more powerful and fun to write. Think of them as upgrades to your coding spaceship: faster, smoother, and packed with cool tricks.
 
@@ -292,9 +291,4 @@ Try this mini-project to combine ES6+ features with DOM:
 - Uses destructuring, optional chaining, nullish coalescing, and template literals.
 - Play: Add a theme toggle or age input.
 
-## What’s Next?
-
-You’re wielding ES6+ like a modern JS ninja—destructuring, templates, and safe operators! Next, let’s tackle **Asynchronous JavaScript** to handle data fetching, timers, and promises. Zoom to [Asynchronous JavaScript](./async-javascript/index.md) for the next adventure. You’re killing it—keep shining! 💪
-
-Questions? Hit up our [GitHub Discussions](https://github.com/sammy6378/reference/discussions). Code on! ✨
- example for the next async section! Ready for promises and async/await? 🚀
+Questions? Hit up our [GitHub Discussions](https://github.com/sammy6378/reference/discussions).

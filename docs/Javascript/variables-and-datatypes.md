@@ -3,9 +3,8 @@ sidebar_position: 2
 title: Variables and Data Types
 ---
 
-# Variables & Data Types
 
-Hello again, aspiring JavaScript wizard! 🌟 If you've made it here from the basics, pat yourself on the back—you're already writing code that runs in the browser. Now, let's level up by learning how to store and work with information in JS. Think of this as packing your backpack for a coding adventure: variables are your bags, and data types are the stuff you put inside.
+If you've made it here from the basics, pat yourself on the back—you're already writing code that runs in the browser. Now, let's level up by learning how to store and work with information in JS. Think of this as packing your backpack for a coding adventure: variables are your bags, and data types are the stuff you put inside.
 
 Variables let you save data (like numbers or text) so you can use it later. Data types tell JS what kind of data it is, which affects how you can play with it. Don't worry if it sounds fancy—we'll break it down with fun examples and zero jargon overload. Ready? Let's go! 🎒
 
@@ -197,9 +196,5 @@ console.log(`Behold, ${hero}! Your power is over ${powerLevel}. Is that awesome?
 ```
 
 Run it in the browser console—what do you get? Experiment and log results!
-
-## What's Next?
-
-You've got the basics of storing data—awesome job! Next, we'll explore operators, conditionals, and making decisions in code. Jump to [Operators and Conditionals](./operators.md) to keep the adventure rolling. You're building real skills now—keep it up! 🚀
 
 Questions? Swing by our [GitHub Discussions](https://github.com/sammy6378/reference/discussions). Happy coding!

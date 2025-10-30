@@ -3,9 +3,8 @@ sidebar_position: 1
 title: JavaScript Basics
 ---
 
-# Introduction to JavaScript
 
-Hey there, future coder! 🚀 Welcome to the magical world of JavaScript (often just called JS). If you're new to programming, don't worry—we're starting from the very beginning. Think of JavaScript as the secret sauce that makes websites come alive: buttons that respond when you click them, forms that check your input, and even games right in your browser.
+Welcome to the magical world of JavaScript (often just called JS). If you're new to programming, don't worry—we're starting from the very beginning. Think of JavaScript as the secret sauce that makes websites come alive: buttons that respond when you click them, forms that check your input, and even games right in your browser.
 
 JavaScript is one of the most popular programming languages in the world. It's beginner-friendly, super versatile, and powers everything from simple web pages to complex apps like Netflix or Google Maps. By the end of this section, you'll write your first lines of code and see them in action. Let's dive in—it's going to be fun! 😊
 
@@ -146,8 +145,4 @@ Stuck? Google the error message + "JavaScript"—millions have been there before
 Add `console.error("Oh no!");` for a red error or `console.warn("Watch out!");` for yellow warnings. Play around!
 :::
 
-## What's Next?
-
-You've just scratched the surface! Next up: Variables, data types, and more. Head to [Variables and Data Types](./variables-and-datatypes.md) to keep the momentum going. You're doing great—keep coding! 💪
-
-If you have questions, hop over to our [GitHub Discussions](https://github.com/sammy6378/reference/discussions). Happy scripting!
+If you have questions, hop over to our [GitHub Discussions](https://github.com/sammy6378/reference/discussions).
